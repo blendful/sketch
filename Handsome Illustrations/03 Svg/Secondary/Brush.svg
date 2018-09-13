@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="538px" height="747px" viewBox="0 0 538 747" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Brush</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#403F9F" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+        <path d="M216.115816,500 L321.872327,500 L346.976192,655.373266 C353.937003,698.455237 324.666071,739.024713 281.597735,745.987728 C277.430303,746.661492 273.215584,747 268.994072,747 C225.366851,747 190,711.621953 190,667.98092 C190,663.758072 190.338401,659.542018 191.011952,655.373266 L216.115816,500 Z M268.994072,702 C279.463378,702 287.950428,693.49341 287.950428,683 C287.950428,672.50659 279.463378,664 268.994072,664 C258.524766,664 250.037716,672.50659 250.037716,683 C250.037716,693.49341 258.524766,702 268.994072,702 Z" id="path-2"></path>
+        <path d="M518,364 L518,400 C518,455.228475 473.228475,500 418,500 L120,500 C64.771525,500 20,455.228475 20,400 L20,364 L518,364 Z" id="path-3"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#1F1845" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <path d="M10,274 L528,274 C533.522847,274 538,278.477153 538,284 L538,354 C538,359.522847 533.522847,364 528,364 L10,364 C4.4771525,364 6.76353751e-16,359.522847 0,354 L0,284 C-6.76353751e-16,278.477153 4.4771525,274 10,274 Z" id="path-5"></path>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="0%" id="linearGradient-6">
+            <stop stop-color="#403F9F" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.3" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-7">
+            <stop stop-color="#F0F0F6" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.01" offset="100%"></stop>
+        </linearGradient>
+        <path d="M30,0 L508,0 C513.522847,0 518,4.4771525 518,10 L518,274 L20,274 L20,10 C20,4.4771525 24.4771525,0 30,0 Z" id="path-8"></path>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-9">
+            <stop stop-color="#000000" stop-opacity="0.2" offset="0%"></stop>
+            <stop stop-color="#F0F0F6" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-10">
+            <stop stop-color="#E2628C" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#C74D75" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+        <path d="M266,178 L266,173 C266,148.699471 246.300529,129 222,129 C197.699471,129 178,148.699471 178,173 L178,288 C178,312.300529 158.300529,332 134,332 C109.699471,332 90,312.300529 90,288 L90,0 L354,0 L354,178 C354,202.300529 334.300529,222 310,222 C285.699471,222 266,202.300529 266,178 Z" id="path-11"></path>
+    </defs>
+    <g id="Handsome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Secondary" transform="translate(-3927.000000, -2754.000000)">
+            <g id="Brush" transform="translate(3927.000000, 2754.000000)">
+                <g id="Detail">
+                    <use fill="#464D89" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#464D89" xlink:href="#path-3"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-3"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#1F1845" xlink:href="#path-5"></use>
+                    <use fill="url(#linearGradient-4)" xlink:href="#path-5"></use>
+                </g>
+                <rect id="Rectangle" fill="url(#linearGradient-6)" x="20" y="364" width="498" height="30"></rect>
+                <g id="Detail">
+                    <use fill="#F0F0F6" xlink:href="#path-8"></use>
+                    <use fill="url(#linearGradient-7)" xlink:href="#path-8"></use>
+                </g>
+                <path d="M286,198 L286,193 C286,168.699471 266.300529,149 242,149 C217.699471,149 198,168.699471 198,193 L198,308 C198,332.300529 178.300529,352 154,352 C129.699471,352 110,332.300529 110,308 L110,0 L374,0 L374,198 C374,222.300529 354.300529,242 330,242 C305.699471,242 286,222.300529 286,198 Z" id="Sh" fill="url(#linearGradient-9)"></path>
+                <g id="Paint">
+                    <use fill="#E2628C" xlink:href="#path-11"></use>
+                    <use fill="url(#linearGradient-10)" xlink:href="#path-11"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

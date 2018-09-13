@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="351px" height="752px" viewBox="0 0 351 752" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Lighthouse</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#393E41" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+        <path d="M28,702 L323,702 L350.273908,747.456513 C351.126352,748.877254 350.665657,750.720034 349.244916,751.572479 C348.77867,751.852226 348.245161,752 347.701429,752 L3.29857114,752 C1.64171689,752 0.298571137,750.656854 0.298571137,749 C0.298571137,748.456268 0.446344637,747.922759 0.72609236,747.456513 L28,702 Z" id="path-2"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#B6C5D9" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#305594" stop-opacity="0.05" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-4" points="153 38 173 10 219 10 199 38 239 506 173 506"></polygon>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#B6C5D9" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#B6C5D9" stop-opacity="0.05" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-6" points="86 38 66 10 173 10 153 38 173 506 66 506"></polygon>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-7">
+            <stop stop-color="#D6DFEA" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#D6DFEA" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-8" points="40 38 20 10 66 10 86 38 66 506 0 506"></polygon>
+        <rect id="path-9" x="0" y="0" width="38" height="25" rx="3"></rect>
+        <linearGradient x1="191.062506%" y1="50%" x2="-42.0494201%" y2="50%" id="linearGradient-11">
+            <stop stop-color="#464D89" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-12" x="0" y="0" width="18" height="55" rx="3"></rect>
+        <rect id="path-14" x="0" y="0" width="18" height="55" rx="3"></rect>
+        <rect id="path-16" x="0" y="0" width="18" height="55" rx="3"></rect>
+        <linearGradient x1="100%" y1="0%" x2="2.37012469%" y2="100%" id="linearGradient-18">
+            <stop stop-color="#000000" stop-opacity="0.3" offset="0%"></stop>
+            <stop stop-color="#B6C5D9" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="100%" x2="100%" y2="100%" id="linearGradient-19">
+            <stop stop-color="#000000" stop-opacity="0.15" offset="0%"></stop>
+            <stop stop-color="#D6DFEA" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-20" points="59 34.208589 129 0 129 164 59 164"></polygon>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-21">
+            <stop stop-color="#D6DFEA" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#B6C5D9" stop-opacity="0.05" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-22" x="0" y="34" width="59" height="130"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-23">
+            <stop stop-color="#F2F5F9" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#D6DFEA" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+        <path d="M13,52 L46,52 C47.6568542,52 49,53.3431458 49,55 L49,164 L10,164 L10,55 C10,53.3431458 11.3431458,52 13,52 Z" id="path-24"></path>
+        <rect id="path-25" x="0" y="0" width="18" height="55" rx="3"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-27">
+            <stop stop-color="#E2EAF5" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#D6DFEA" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-28" points="70 0 129 0 59 34 0 34"></polygon>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-29">
+            <stop stop-color="#DE4542" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.05" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-30" points="110 81 150 81 150 196 110 196"></polygon>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-31">
+            <stop stop-color="#FF6663" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#DE4542" stop-opacity="0.3" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-32" points="52 81 110 81 110 196 52 196"></polygon>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-33">
+            <stop stop-color="#FF8684" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FF6663" stop-opacity="0.3" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-34" points="12 81 52 81 52 196 12 196"></polygon>
+        <path d="M3,0 L51,0 C52.6568542,0 54,1.34314575 54,3 L54,52 C54,53.6568542 52.6568542,55 51,55 L3,55 C1.34314575,55 0,53.6568542 0,52 L0,3 C0,1.34314575 1.34314575,0 3,0 Z" id="path-35"></path>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-37">
+            <stop stop-color="#FAFBFD" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.700888813" offset="100%"></stop>
+        </linearGradient>
+        <path d="M110,81 L81,31 L160.380951,72.1604934 C161.375628,72.6762517 162,73.7033158 162,74.823757 L162,78 C162,79.6568542 160.656854,81 159,81 L110,81 Z" id="path-38"></path>
+        <polygon id="path-39" points="110 81 81 31 52 81"></polygon>
+        <path d="M52,81 L81,31 L1.61904851,72.1604934 C0.624371783,72.6762517 -5.9103742e-15,73.7033158 -5.77315973e-15,74.823757 L0,78 C2.02906125e-16,79.6568542 1.34314575,81 3,81 L52,81 Z" id="path-40"></path>
+        <rect id="path-41" x="81" y="19" width="8" height="17"></rect>
+        <rect id="path-42" x="73" y="19" width="8" height="17"></rect>
+        <path d="M80.0047008,1 C80.0047008,0.44771525 80.4503095,0 80.9999957,0 C81.5496819,0 81.9952907,0.44771525 81.9952907,1 L81.9952907,4.54800581 C82.3752694,4.68271387 82.7341348,4.89733064 83.0464158,5.1926316 C83.0903314,5.23415932 83.1329847,5.27701427 83.174317,5.32113748 L92.1884279,14.9439059 C93.3186345,16.1504272 93.2613712,18.0490506 92.0605266,19.1846 C91.5066517,19.7083583 90.7747148,20 90.0141066,20 L71.9858848,20 C70.3368262,20 69,18.6568542 69,17 C69,16.2357961 69.2902695,15.5003992 69.8115635,14.9439059 L78.8256744,5.32113748 C79.163671,4.96031841 79.5695923,4.70225936 80.0047008,4.54813975 L80.0047008,1 Z" id="path-43"></path>
+    </defs>
+    <g id="Handsome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Primary" transform="translate(-584.000000, -8453.000000)">
+            <g id="Lighthouse" transform="translate(584.000000, 8453.000000)">
+                <g id="Rock">
+                    <use fill="#393E41" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                </g>
+                <g id="Detail" transform="translate(84.000000, 196.000000)">
+                    <g id="Wall">
+                        <use fill="#B6C5D9" xlink:href="#path-4"></use>
+                        <use fill="url(#linearGradient-3)" xlink:href="#path-4"></use>
+                    </g>
+                    <g id="Wall">
+                        <use fill="#D6DFEA" xlink:href="#path-6"></use>
+                        <use fill="url(#linearGradient-5)" xlink:href="#path-6"></use>
+                    </g>
+                    <g id="Wall">
+                        <use fill="#F2F5F9" xlink:href="#path-8"></use>
+                        <use fill="url(#linearGradient-7)" xlink:href="#path-8"></use>
+                    </g>
+                    <g id="Window" transform="translate(117.000000, 404.000000)">
+                        <mask id="mask-10" fill="white">
+                            <use xlink:href="#path-9"></use>
+                        </mask>
+                        <use fill="#464D89" xlink:href="#path-9"></use>
+                        <rect id="Sh" fill="url(#linearGradient-11)" mask="url(#mask-10)" x="0" y="0" width="30" height="25" rx="3"></rect>
+                    </g>
+                    <g id="Window" transform="translate(194.000000, 374.000000)">
+                        <mask id="mask-13" fill="white">
+                            <use xlink:href="#path-12"></use>
+                        </mask>
+                        <use fill="#464D89" xlink:href="#path-12"></use>
+                        <rect id="Sh" fill="url(#linearGradient-11)" mask="url(#mask-13)" x="0" y="0" width="11" height="55" rx="3"></rect>
+                    </g>
+                    <g id="Window" transform="translate(182.000000, 223.000000)">
+                        <mask id="mask-15" fill="white">
+                            <use xlink:href="#path-14"></use>
+                        </mask>
+                        <use fill="#464D89" xlink:href="#path-14"></use>
+                        <rect id="Sh" fill="url(#linearGradient-11)" mask="url(#mask-15)" x="0" y="0" width="11" height="55" rx="3"></rect>
+                    </g>
+                    <g id="Window" transform="translate(170.000000, 72.000000)">
+                        <mask id="mask-17" fill="white">
+                            <use xlink:href="#path-16"></use>
+                        </mask>
+                        <use fill="#464D89" xlink:href="#path-16"></use>
+                        <rect id="Sh" fill="url(#linearGradient-11)" mask="url(#mask-17)" x="0" y="0" width="11" height="55" rx="3"></rect>
+                    </g>
+                    <g transform="translate(10.000000, 0.000000)">
+                        <path d="M163,0 L216,0 C217.656854,-3.04359188e-16 219,1.34314575 219,3 L219,7 C219,8.65685425 217.656854,10 216,10 L163,10 L163,0 Z" fill="#9CAFC7"></path>
+                        <rect fill="#BDCADA" x="56" y="0" width="107" height="10"></rect>
+                        <path d="M3,0 L56,0 L56,10 L3,10 C1.34314575,10 2.02906125e-16,8.65685425 0,7 L0,3 C-2.02906125e-16,1.34314575 1.34314575,3.04359188e-16 3,0 Z" fill="#E2EAF5"></path>
+                    </g>
+                    <polygon id="Sh" fill="url(#linearGradient-18)" points="20 10 30 24 76 24 153 38 199 38 219 10"></polygon>
+                    <polygon id="Sh" fill="url(#linearGradient-19)" points="73 342 170 436 173 506 73 506"></polygon>
+                </g>
+                <g id="Entrance" transform="translate(28.000000, 538.000000)">
+                    <g id="Wall">
+                        <use fill="#B6C5D9" xlink:href="#path-20"></use>
+                        <use fill="url(#linearGradient-3)" xlink:href="#path-20"></use>
+                    </g>
+                    <g id="Wall">
+                        <use fill="#D6DFEA" xlink:href="#path-22"></use>
+                        <use fill="url(#linearGradient-21)" xlink:href="#path-22"></use>
+                    </g>
+                    <g id="Door">
+                        <use fill="#F2F5F9" xlink:href="#path-24"></use>
+                        <use fill="url(#linearGradient-23)" xlink:href="#path-24"></use>
+                    </g>
+                    <g id="Window" transform="translate(78.000000, 49.000000)">
+                        <mask id="mask-26" fill="white">
+                            <use xlink:href="#path-25"></use>
+                        </mask>
+                        <use fill="#464D89" xlink:href="#path-25"></use>
+                        <rect id="Sh" fill="url(#linearGradient-11)" mask="url(#mask-26)" x="0" y="0" width="11" height="55" rx="3"></rect>
+                    </g>
+                    <g id="Detail">
+                        <g>
+                            <use fill="#E2EAF5" xlink:href="#path-28"></use>
+                            <use fill="url(#linearGradient-27)" xlink:href="#path-28"></use>
+                        </g>
+                        <rect fill="#BDCADA" x="0" y="34" width="59" height="7"></rect>
+                        <polygon fill="#9CAFC7" points="59 34.0033417 129.003082 0 129.003082 7 59 41.0033417"></polygon>
+                    </g>
+                </g>
+                <g id="Detail" transform="translate(121.000000, 0.000000)">
+                    <g>
+                        <use fill="#DE4542" xlink:href="#path-30"></use>
+                        <use fill="url(#linearGradient-29)" xlink:href="#path-30"></use>
+                    </g>
+                    <g>
+                        <use fill="#FF6663" xlink:href="#path-32"></use>
+                        <use fill="url(#linearGradient-31)" xlink:href="#path-32"></use>
+                    </g>
+                    <g>
+                        <use fill="#FF8684" xlink:href="#path-34"></use>
+                        <use fill="url(#linearGradient-33)" xlink:href="#path-34"></use>
+                    </g>
+                    <path d="M115,92 L143,92 C144.656854,92 146,93.3431458 146,95 L146,144 C146,145.656854 144.656854,147 143,147 L115,147 C113.343146,147 112,145.656854 112,144 L112,95 C112,93.3431458 113.343146,92 115,92 Z" id="Window" fill="#F2F5F9"></path>
+                    <g id="Window" transform="translate(54.000000, 92.000000)">
+                        <mask id="mask-36" fill="white">
+                            <use xlink:href="#path-35"></use>
+                        </mask>
+                        <use fill="#F2F5F9" xlink:href="#path-35"></use>
+                        <path d="M5,0 L54,49 L54,52 C54,53.6568542 52.6568542,55 51,55 L18,55 L-3.55271368e-15,37 L0,3 C0,1.34314575 1.34314575,0 3,0 L5,0 Z" id="Glare" fill="url(#linearGradient-37)" mask="url(#mask-36)"></path>
+                        <path d="M16,0 L32,0 L54,22 L54,38 L16,-7.10542736e-15 Z" id="Glare" fill="url(#linearGradient-37)" mask="url(#mask-36)"></path>
+                    </g>
+                    <path d="M19,92 C17.3431458,92 16,93.3431458 16,95 L16,144 C16,145.656854 17.3431458,147 19,147 L47,147 C48.6568542,147 50,145.656854 50,144 L50,95 C50,93.3431458 48.6568542,92 47,92 L19,92 Z" id="Window" fill="#F2F5F9"></path>
+                    <g>
+                        <use fill="#DE4542" xlink:href="#path-38"></use>
+                        <use fill="url(#linearGradient-29)" xlink:href="#path-38"></use>
+                    </g>
+                    <g>
+                        <use fill="#FF6663" xlink:href="#path-39"></use>
+                        <use fill="url(#linearGradient-31)" xlink:href="#path-39"></use>
+                    </g>
+                    <g>
+                        <use fill="#FF8684" xlink:href="#path-40"></use>
+                        <use fill="url(#linearGradient-33)" xlink:href="#path-40"></use>
+                    </g>
+                    <g>
+                        <use fill="#DE4542" xlink:href="#path-41"></use>
+                        <use fill="url(#linearGradient-29)" xlink:href="#path-41"></use>
+                    </g>
+                    <g>
+                        <use fill="#FF8684" xlink:href="#path-42"></use>
+                        <use fill="url(#linearGradient-33)" xlink:href="#path-42"></use>
+                    </g>
+                    <g>
+                        <use fill="#DE4542" xlink:href="#path-43"></use>
+                        <use fill="url(#linearGradient-29)" xlink:href="#path-43"></use>
+                    </g>
+                </g>
+                <path d="M112,183 L112,196 L104,196 L104,155 C104,152.790861 105.790861,151 108,151 C110.209139,151 112,152.790861 112,155 L112,160 L155,160 L155,155 C155,152.790861 156.790861,151 159,151 C161.209139,151 163,152.790861 163,155 L163,160 L244,160 L244,155 C244,152.790861 245.790861,151 248,151 C250.209139,151 252,152.790861 252,155 L252,160 L295,160 L295,155 C295,152.790861 296.790861,151 299,151 C301.209139,151 303,152.790861 303,155 L303,196 L295,196 L295,183 L252,183 L252,196 L244,196 L244,183 L163,183 L163,196 L155,196 L155,183 L112,183 Z M112,180 L155,180 L155,163 L112,163 L112,180 Z M163,180 L244,180 L244,163 L163,163 L163,180 Z M252,180 L295,180 L295,163 L252,163 L252,180 Z" id="Detail" fill="#D6DFEA"></path>
+            </g>
+        </g>
+    </g>
+</svg>

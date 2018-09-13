@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="730px" height="661px" viewBox="0 0 730 661" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Sale</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#E2EAF5" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#B6C5D9" offset="100%"></stop>
+        </linearGradient>
+        <path d="M55,90 C74.3299662,90 90,74.3299662 90,55 C90,35.6700338 74.3299662,20 55,20 C35.6700338,20 20,35.6700338 20,55 C20,74.3299662 35.6700338,90 55,90 Z M55,110 C24.6243388,110 0,85.3756612 0,55 C0,24.6243388 24.6243388,0 55,0 C85.3756612,0 110,24.6243388 110,55 C110,85.3756612 85.3756612,110 55,110 Z" id="path-2"></path>
+        <path d="M55,200 C74.3299662,200 90,184.329966 90,165 C90,145.670034 74.3299662,130 55,130 C35.6700338,130 20,145.670034 20,165 C20,184.329966 35.6700338,200 55,200 Z M55,220 C24.6243388,220 0,195.375661 0,165 C0,134.624339 24.6243388,110 55,110 C85.3756612,110 110,134.624339 110,165 C110,195.375661 85.3756612,220 55,220 Z" id="path-3"></path>
+        <path d="M55,310 C74.3299662,310 90,294.329966 90,275 C90,255.670034 74.3299662,240 55,240 C35.6700338,240 20,255.670034 20,275 C20,294.329966 35.6700338,310 55,310 Z M55,330 C24.6243388,330 0,305.375661 0,275 C0,244.624339 24.6243388,220 55,220 C85.3756612,220 110,244.624339 110,275 C110,305.375661 85.3756612,330 55,330 Z" id="path-4"></path>
+        <rect id="path-5" x="40" y="74" width="30" height="71" rx="15"></rect>
+        <rect id="path-6" x="40" y="185" width="30" height="71" rx="15"></rect>
+        <path d="M55,90 C74.3299662,90 90,74.3299662 90,55 C90,35.6700338 74.3299662,20 55,20 C35.6700338,20 20,35.6700338 20,55 C20,74.3299662 35.6700338,90 55,90 Z M55,110 C24.6243388,110 0,85.3756612 0,55 C0,24.6243388 24.6243388,0 55,0 C85.3756612,0 110,24.6243388 110,55 C110,85.3756612 85.3756612,110 55,110 Z" id="path-7"></path>
+        <path d="M55,200 C74.3299662,200 90,184.329966 90,165 C90,145.670034 74.3299662,130 55,130 C35.6700338,130 20,145.670034 20,165 C20,184.329966 35.6700338,200 55,200 Z M55,220 C24.6243388,220 0,195.375661 0,165 C0,134.624339 24.6243388,110 55,110 C85.3756612,110 110,134.624339 110,165 C110,195.375661 85.3756612,220 55,220 Z" id="path-8"></path>
+        <path d="M55,310 C74.3299662,310 90,294.329966 90,275 C90,255.670034 74.3299662,240 55,240 C35.6700338,240 20,255.670034 20,275 C20,294.329966 35.6700338,310 55,310 Z M55,330 C24.6243388,330 0,305.375661 0,275 C0,244.624339 24.6243388,220 55,220 C85.3756612,220 110,244.624339 110,275 C110,305.375661 85.3756612,330 55,330 Z" id="path-9"></path>
+        <rect id="path-10" x="40" y="74" width="30" height="71" rx="15"></rect>
+        <rect id="path-11" x="40" y="185" width="30" height="71" rx="15"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-12">
+            <stop stop-color="#403F9F" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-13" x="0" y="0" width="730" height="80" rx="40"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-14">
+            <stop stop-color="#FFC62C" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FF6663" stop-opacity="0.3" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-15" x="0" y="300" width="730" height="361" rx="100"></rect>
+    </defs>
+    <g id="Handsome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Secondary" transform="translate(-2961.000000, -6271.000000)">
+            <g id="Sale" transform="translate(2961.000000, 6271.000000)">
+                <g id="Detail" transform="translate(110.000000, 25.000000)">
+                    <g fill-rule="nonzero">
+                        <use fill="#E2EAF5" xlink:href="#path-2"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                    </g>
+                    <g fill-rule="nonzero">
+                        <use fill="#E2EAF5" xlink:href="#path-3"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-3"></use>
+                    </g>
+                    <g fill-rule="nonzero">
+                        <use fill="#E2EAF5" xlink:href="#path-4"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-4"></use>
+                    </g>
+                    <g>
+                        <use fill="#E2EAF5" xlink:href="#path-5"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-5"></use>
+                    </g>
+                    <g>
+                        <use fill="#E2EAF5" xlink:href="#path-6"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-6"></use>
+                    </g>
+                </g>
+                <g id="Detail" transform="translate(510.000000, 25.000000)">
+                    <g fill-rule="nonzero">
+                        <use fill="#E2EAF5" xlink:href="#path-7"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-7"></use>
+                    </g>
+                    <g fill-rule="nonzero">
+                        <use fill="#E2EAF5" xlink:href="#path-8"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-8"></use>
+                    </g>
+                    <g fill-rule="nonzero">
+                        <use fill="#E2EAF5" xlink:href="#path-9"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-9"></use>
+                    </g>
+                    <g>
+                        <use fill="#E2EAF5" xlink:href="#path-10"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-10"></use>
+                    </g>
+                    <g>
+                        <use fill="#E2EAF5" xlink:href="#path-11"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-11"></use>
+                    </g>
+                </g>
+                <g id="Detail">
+                    <use fill="#464D89" xlink:href="#path-13"></use>
+                    <use fill="url(#linearGradient-12)" xlink:href="#path-13"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#FFC62C" xlink:href="#path-15"></use>
+                    <use fill="url(#linearGradient-14)" xlink:href="#path-15"></use>
+                </g>
+                <path d="M130,548 C119.516558,545.489626 111.245163,541.584278 105,537 L116,512 C121.941611,516.750022 129.05036,520.2882 137,523 C145.52696,525.628927 153.765136,526.964088 162,527 C171.171867,526.964088 177.948432,525.595548 182,523 C186.718235,520.121303 188.910653,516.482988 189,512 C188.910653,508.605416 187.615133,505.834956 185,504 C182.432977,501.428856 179.111131,499.659767 175,498 C171.005707,496.989404 165.524662,495.520726 159,494 C147.985056,491.381663 139.281821,488.844856 133,486 C125.728488,483.771166 119.915259,479.698923 115,474 C110.215325,468.483397 107.790378,461.006492 108,452 C107.790378,443.515613 109.982796,436.138845 114,430 C118.752599,422.920547 125.363072,417.680038 134,414 C143.035554,409.935984 153.831551,408 167,408 C175.490308,408 184.193543,409.068129 193,411 C201.201646,413.34071 208.64258,416.411582 215,420 L205,445 C192.166029,437.707606 179.277269,434.035912 166,434 C157.352761,434.035912 150.675852,435.504589 146,438 C142.038925,441.379389 139.879725,445.251357 140,450 C139.879725,454.864665 142.371109,458.436222 147,461 C152.336795,463.109358 159.943821,465.412512 170,468 C180.805322,470.219166 189.508557,472.755973 196,475 C203.06189,477.829663 208.875119,481.835148 214,487 C218.575053,492.783637 221,500.193784 221,510 C221,517.551145 218.774364,524.861155 214,531 C209.871685,538.079453 203.194775,543.319962 194,547 C185.389417,551.064016 174.560201,553 162,553 C150.775432,553 140.112308,551.497943 130,548 Z M336,520 L271,520 L258,550 L225,550 L287,410 L319,410 L382,550 L348,550 L336,520 Z M325,496 L303,442 L281,496 L325,496 Z M397,410 L430,410 L430,524 L500,524 L500,550 L397,550 L397,410 Z M626,524 L626,550 L518,550 L518,410 L623,410 L623,436 L550,436 L550,466 L615,466 L615,492 L550,492 L550,524 L626,524 Z" id="SALE" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

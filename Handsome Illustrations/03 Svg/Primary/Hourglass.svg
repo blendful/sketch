@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="360px" height="608px" viewBox="0 0 360 608" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Hourglass</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#403F9F" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+        <path d="M15,278 L33,278 C38.5228475,278 43,282.477153 43,288 C43,293.522847 38.5228475,298 33,298 L15,298 C9.4771525,298 5,293.522847 5,288 C5,282.477153 9.4771525,278 15,278 Z" id="path-2"></path>
+        <circle id="path-3" cx="24" cy="254" r="24"></circle>
+        <path d="M15,210 L33,210 C38.5228475,210 43,214.477153 43,220 C43,225.522847 38.5228475,230 33,230 L15,230 C9.4771525,230 5,225.522847 5,220 C5,214.477153 9.4771525,210 15,210 Z" id="path-4"></path>
+        <rect id="path-5" x="16" y="0" width="16" height="508"></rect>
+        <path d="M15,278 L33,278 C38.5228475,278 43,282.477153 43,288 C43,293.522847 38.5228475,298 33,298 L15,298 C9.4771525,298 5,293.522847 5,288 C5,282.477153 9.4771525,278 15,278 Z" id="path-6"></path>
+        <circle id="path-7" cx="24" cy="254" r="24"></circle>
+        <path d="M15,210 L33,210 C38.5228475,210 43,214.477153 43,220 C43,225.522847 38.5228475,230 33,230 L15,230 C9.4771525,230 5,225.522847 5,220 C5,214.477153 9.4771525,210 15,210 Z" id="path-8"></path>
+        <rect id="path-9" x="16" y="0" width="16" height="508"></rect>
+        <linearGradient x1="0%" y1="-2.13492388%" x2="100%" y2="100%" id="linearGradient-10">
+            <stop stop-color="#F2F5F9" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#403F9F" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+        <path d="M69.9999987,50 L290.000003,50 L290.000001,186.668309 C290.000001,210.951152 275.296668,232.839829 252.753355,242.11695 C217.310479,256.702554 199.589041,275.571639 199.589041,298.724203 C199.589041,322.772705 218.708555,344.431178 256.947582,363.699621 C277.220965,373.915272 290,394.612433 290.000001,417.23193 L290.000003,558 L69.9999987,558 L69.9999989,416.723471 C69.9999991,394.286284 82.575916,373.723953 102.599208,363.42193 C141.140375,343.592424 160.410959,322.026515 160.410959,298.724203 C160.410959,276.28355 142.539178,257.539021 106.795617,242.490617 C84.4924481,233.100756 69.9999999,211.335509 69.9999997,187.229721 L69.9999987,50 Z" id="path-11"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-12">
+            <stop stop-color="#E2628C" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#C74D75" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+        <path d="M256.189665,486.314179 C276.683586,508.272567 280.000001,523.505382 280.000003,548 L79.999999,548 C79.9999988,524.834211 83.1247015,508.539415 103.40031,486.314179 C118.040393,470.266357 172.462312,433.867259 172.462312,410.978115 C172.462312,388.088971 172.242032,289.606864 172.242032,288.840201 C172.242032,267.294311 145.944708,249.297344 113.450561,234.849019 C93.1749527,225.833594 79.9999998,204.936271 79.9999996,181.79174 C79.9999989,160.404886 79.9999988,144.470967 79.9999993,133.989982 C79.9999993,133.971612 99.9445341,115 130,115 C145.596803,115 162.612647,126.864793 180.000001,138 C196.118554,148.322642 213.013725,157.977327 230.000001,157.977327 C265.30966,157.977327 280.000002,133.88843 280.000002,133.989982 C280.000003,144.310245 280.000003,160.06449 280.000001,181.252715 C280.000001,204.567241 266.633335,225.583072 246.139414,234.490253 C213.918617,248.494233 187.757968,266.610882 187.757968,288.840201 C187.757968,289.606864 187.317409,388.088972 187.537688,410.978116 C187.757968,433.867259 241.717231,470.807566 256.189665,486.314179 Z" id="path-13"></path>
+        <path d="M15,278 L33,278 C38.5228475,278 43,282.477153 43,288 C43,293.522847 38.5228475,298 33,298 L15,298 C9.4771525,298 5,293.522847 5,288 C5,282.477153 9.4771525,278 15,278 Z" id="path-14"></path>
+        <circle id="path-15" cx="24" cy="254" r="24"></circle>
+        <path d="M15,210 L33,210 C38.5228475,210 43,214.477153 43,220 C43,225.522847 38.5228475,230 33,230 L15,230 C9.4771525,230 5,225.522847 5,220 C5,214.477153 9.4771525,210 15,210 Z" id="path-16"></path>
+        <rect id="path-17" x="16" y="0" width="16" height="508"></rect>
+        <path d="M25,558 L335,558 C348.807119,558 360,569.192881 360,583 C360,596.807119 348.807119,608 335,608 L25,608 C11.1928813,608 0,596.807119 0,583 C0,569.192881 11.1928813,558 25,558 Z" id="path-18"></path>
+        <path d="M15,278 L33,278 C38.5228475,278 43,282.477153 43,288 C43,293.522847 38.5228475,298 33,298 L15,298 C9.4771525,298 5,293.522847 5,288 C5,282.477153 9.4771525,278 15,278 Z" id="path-19"></path>
+        <circle id="path-20" cx="24" cy="254" r="24"></circle>
+        <path d="M15,210 L33,210 C38.5228475,210 43,214.477153 43,220 C43,225.522847 38.5228475,230 33,230 L15,230 C9.4771525,230 5,225.522847 5,220 C5,214.477153 9.4771525,210 15,210 Z" id="path-21"></path>
+        <rect id="path-22" x="16" y="0" width="16" height="508"></rect>
+        <path d="M25,0 L335,0 C348.807119,0 360,11.1928813 360,25 C360,38.8071187 348.807119,50 335,50 L25,50 C11.1928813,50 0,38.8071187 0,25 C0,11.1928813 11.1928813,0 25,0 Z" id="path-23"></path>
+    </defs>
+    <g id="Handsome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Primary" transform="translate(-4060.000000, -9683.000000)">
+            <g id="Hourglass" transform="translate(4060.000000, 9683.000000)">
+                <g id="Detail" transform="translate(20.000000, 50.000000)">
+                    <g>
+                        <use fill="#403F9F" xlink:href="#path-2"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                    </g>
+                    <g>
+                        <use fill="#403F9F" xlink:href="#path-3"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-3"></use>
+                    </g>
+                    <g>
+                        <use fill="#403F9F" xlink:href="#path-4"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-4"></use>
+                    </g>
+                    <g>
+                        <use fill="#403F9F" xlink:href="#path-5"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-5"></use>
+                    </g>
+                </g>
+                <g id="Detail" transform="translate(221.000000, 50.000000)">
+                    <g id="Detail-Copy-8">
+                        <use fill="#403F9F" xlink:href="#path-6"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-6"></use>
+                    </g>
+                    <g id="Detail-Copy-7">
+                        <use fill="#403F9F" xlink:href="#path-7"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-7"></use>
+                    </g>
+                    <g id="Detail-Copy-6">
+                        <use fill="#403F9F" xlink:href="#path-8"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-8"></use>
+                    </g>
+                    <g id="Detail-Copy-5">
+                        <use fill="#403F9F" xlink:href="#path-9"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-9"></use>
+                    </g>
+                </g>
+                <g id="Detail">
+                    <use fill="#F2F5F9" xlink:href="#path-11"></use>
+                    <use fill="url(#linearGradient-10)" xlink:href="#path-11"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#E2628C" xlink:href="#path-13"></use>
+                    <use fill="url(#linearGradient-12)" xlink:href="#path-13"></use>
+                </g>
+                <rect id="Shine" fill="#FFFFFF" opacity="0.300000012" x="90" y="83" width="24" height="70" rx="12"></rect>
+                <g id="Detail" transform="translate(91.000000, 50.000000)">
+                    <g id="Detail-Copy-4">
+                        <use fill="#403F9F" xlink:href="#path-14"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-14"></use>
+                    </g>
+                    <g id="Detail-Copy-3">
+                        <use fill="#403F9F" xlink:href="#path-15"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-15"></use>
+                    </g>
+                    <g id="Detail-Copy-2">
+                        <use fill="#403F9F" xlink:href="#path-16"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-16"></use>
+                    </g>
+                    <g id="Detail-Copy">
+                        <use fill="#403F9F" xlink:href="#path-17"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-17"></use>
+                    </g>
+                </g>
+                <rect id="Shine" fill="#FFFFFF" opacity="0.300000012" x="90" y="163" width="24" height="24" rx="12"></rect>
+                <path d="M230.000002,115 C260.055468,115 280.000002,133.981645 280.000002,134 C280.000002,133.898527 265.30966,158 230.000001,158 C213.013725,158 196.118554,148.314629 180.000001,138 C197.387355,126.873436 214.403199,115 230.000002,115 Z" id="Detail" fill="#C74D75"></path>
+                <g id="Detail">
+                    <use fill="#403F9F" xlink:href="#path-18"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-18"></use>
+                </g>
+                <g id="Detail" transform="translate(292.000000, 50.000000)">
+                    <g>
+                        <use fill="#403F9F" xlink:href="#path-19"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-19"></use>
+                    </g>
+                    <g>
+                        <use fill="#403F9F" xlink:href="#path-20"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-20"></use>
+                    </g>
+                    <g>
+                        <use fill="#403F9F" xlink:href="#path-21"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-21"></use>
+                    </g>
+                    <g>
+                        <use fill="#403F9F" xlink:href="#path-22"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-22"></use>
+                    </g>
+                </g>
+                <g id="Detail">
+                    <use fill="#403F9F" xlink:href="#path-23"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-23"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

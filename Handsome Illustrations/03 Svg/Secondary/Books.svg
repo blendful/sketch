@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="530px" height="770px" viewBox="0 0 530 770" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Books</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#393E41" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+        <path d="M400,205 C400,130.441559 339.558441,70 265,70 C190.441559,70 130,130.441559 130,205 L130,356.132309 L400,362.42993 L400,205 Z M470,205 L470,364.081685 L60,354.518631 L60,205 C60,91.7816263 151.781626,0 265,0 C378.218374,0 470,91.7816263 470,205 Z" id="path-2"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#FFC62C" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FF6663" stop-opacity="0.3" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-4" cx="265" cy="505" r="265"></circle>
+        <path d="M219.810446,482.896576 C208.787453,471.550954 202,456.068124 202,439 C202,404.206061 230.206061,376 265,376 C299.793939,376 328,404.206061 328,439 C328,456.068124 321.212547,471.550954 310.189554,482.896576 L324.786353,562.205853 C330.863487,595.224944 309.022714,626.918696 276.003623,632.99583 C272.373837,633.663889 268.690752,634 265,634 C231.426321,634 204.209476,606.783155 204.209476,573.209476 C204.209476,569.518724 204.545588,565.83564 205.213647,562.205853 L219.810446,482.896576 Z" id="path-5"></path>
+    </defs>
+    <g id="Handsome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Secondary" transform="translate(-3931.000000, -6217.000000)">
+            <g id="Books" transform="translate(3931.000000, 6217.000000)">
+                <g id="Detail" fill-rule="nonzero">
+                    <use fill="#393E41" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#FFC62C" xlink:href="#path-4"></use>
+                    <use fill="url(#linearGradient-3)" xlink:href="#path-4"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#393E41" xlink:href="#path-5"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-5"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1376px" height="710px" viewBox="0 0 1376 710" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Stairs</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M161,709 C-95.3887853,709 -55.4547453,158.031505 352,237 C622.373622,290.155073 694.383464,-78.5391101 1088,15 C1481.73989,109.338742 1448.22749,709 1130,709 C811.696538,709 349.278141,709 161,709 Z" id="path-1"></path>
+        <path d="M1.08403361,0 L514.915966,0 C515.514662,-1.01453063e-16 516,0.44771525 516,1 L516,604 C516,604.552285 515.514662,605 514.915966,605 L1.08403361,605 C0.48533838,605 7.33190201e-17,604.552285 0,604 L0,1 C-7.33190201e-17,0.44771525 0.48533838,1.01453063e-16 1.08403361,0 Z" id="path-3"></path>
+        <path d="M21,0 L495,0 C495.552285,-1.01453063e-16 496,0.44771525 496,1 L496,604 C496,604.552285 495.552285,605 495,605 L21,605 C20.4477153,605 20,604.552285 20,604 L20,1 C20,0.44771525 20.4477153,1.01453063e-16 21,0 Z" id="path-5"></path>
+    </defs>
+    <g id="Handsome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Backgrounds" transform="translate(-6200.000000, -1482.000000)">
+            <g id="Stairs" transform="translate(6200.000000, 1483.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Bg" fill="#F2F5F9" xlink:href="#path-1"></use>
+                <g id="Group" mask="url(#mask-2)">
+                    <g transform="translate(137.000000, 134.000000)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="Detail" stroke="none" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <mask id="mask-6" fill="white">
+                            <use xlink:href="#path-5"></use>
+                        </mask>
+                        <use id="Detail" stroke="none" fill="#E2EAF5" fill-rule="evenodd" xlink:href="#path-5"></use>
+                        <path d="M-229.990662,408.58556 C-193.534242,408.58556 234.379497,408.58556 234.379497,408.58556 C234.379497,408.58556 246.963472,358.392882 158.791016,375.123775 C70.6185607,391.854668 84.4199196,344.650114 31.6492518,333.752248 C-21.121416,322.854383 -46.4130573,367.264108 -126.858054,344.650114 C-207.30305,322.03612 -266.447082,408.58556 -229.990662,408.58556 Z" id="Detail" stroke="none" fill="#F2F5F9" fill-rule="evenodd" mask="url(#mask-6)"></path>
+                        <path d="M230.009338,326.58556 C266.465758,326.58556 694.379497,326.58556 694.379497,326.58556 C694.379497,326.58556 706.963472,276.392882 618.791016,293.123775 C530.618561,309.854668 544.41992,262.650114 491.649252,251.752248 C438.878584,240.854383 413.586943,285.264108 333.141946,262.650114 C252.69695,240.03612 193.552918,326.58556 230.009338,326.58556 Z" id="Detail" stroke="none" fill="#F2F5F9" fill-rule="evenodd" mask="url(#mask-6)"></path>
+                        <polygon id="Detail" stroke="none" fill="#FFFFFF" fill-rule="evenodd" mask="url(#mask-6)" points="-113 179 620 179 620 199 -113 199"></polygon>
+                    </g>
+                </g>
+                <polygon id="Detail" fill="#D3E0F1" mask="url(#mask-2)" points="702 352 1386 352 1386 442 702 442"></polygon>
+                <polygon id="Detail" fill="#D3E0F1" mask="url(#mask-2)" points="598 442 1386 442 1386 532 598 532"></polygon>
+                <polygon id="Detail" fill="#D3E0F1" mask="url(#mask-2)" points="507 532 1386 532 1386 622 507 622"></polygon>
+                <rect id="Detail" fill="#D3E0F1" mask="url(#mask-2)" x="403" y="622" width="948" height="90"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

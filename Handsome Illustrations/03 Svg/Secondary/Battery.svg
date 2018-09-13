@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="430px" height="615px" viewBox="0 0 430 615" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Battery</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F2F5F9" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#B6C5D9" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <path d="M120,55 L120,30 C120,13.4314575 133.431458,3.04359188e-15 150,0 L280,0 C296.568542,-3.04359188e-15 310,13.4314575 310,30 L310,55 L400,55 C416.568542,55 430,68.4314575 430,85 L430,585 C430,601.568542 416.568542,615 400,615 L30,615 C13.4314575,615 2.02906125e-15,601.568542 0,585 L-3.55271368e-15,85 C-5.58177493e-15,68.4314575 13.4314575,55 30,55 L120,55 Z" id="path-2"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#52C883" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#00A07D" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <path d="M31.9999998,553 C31.9999997,382.223283 31.9999998,290.889949 32,279 C32.0000005,278.666809 68.3987759,244 123,244 C151.714165,244 182.768079,265.680525 214,286 C243.916358,304.890432 274.750045,322.53243 306,323 C370.190125,322.53243 396.999998,278.51481 397,279 C397,290.705409 397.000001,382.038742 397.000001,552.999999 L397.000002,552.999999 C397.000002,569.568542 383.568544,583 367.000001,583 L61.9999991,582.999999 C45.431457,582.999999 31.9999998,569.568542 31.9999998,553 Z" id="path-4"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#00A07D" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.05" offset="100%"></stop>
+        </linearGradient>
+        <path d="M307,244 C361.501502,244 398,278.873255 398,279 C397.999999,278.72055 371.116674,323 306,323 C275.415113,323 244.496951,305.205947 215,286 C246.818857,265.813987 277.957851,244 307,244 Z" id="path-6"></path>
+    </defs>
+    <g id="Handsome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Secondary" transform="translate(-2241.000000, -3978.000000)">
+            <g id="Battery" transform="translate(2241.000000, 3978.000000)">
+                <g id="Combined-Shape">
+                    <use fill="#F2F5F9" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#52C883" xlink:href="#path-4"></use>
+                    <use fill="url(#linearGradient-3)" xlink:href="#path-4"></use>
+                </g>
+                <rect id="Shine" fill="#FFFFFF" opacity="0.400000006" x="52" y="107" width="64" height="200" rx="32"></rect>
+                <rect id="Shine" fill="#FFFFFF" opacity="0.400000006" x="52" y="327" width="64" height="64" rx="32"></rect>
+                <g id="Detail">
+                    <use fill="#00A07D" xlink:href="#path-6"></use>
+                    <use fill="url(#linearGradient-5)" xlink:href="#path-6"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

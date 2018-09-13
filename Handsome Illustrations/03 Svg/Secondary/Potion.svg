@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="563px" height="664px" viewBox="0 0 563 664" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Potion</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="-2.13492388%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F2F5F9" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#403F9F" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+        <path d="M108.791755,619.999995 C42.5889162,568.551245 0,488.212437 0,397.937497 C0,278.793687 74.1831277,176.957041 178.928515,136 L384.071485,136 C488.816872,176.957041 563,278.793687 563,397.937497 C563,488.212437 521.202846,568.551245 455,620 L108.791755,619.999995 Z" id="path-2"></path>
+        <path d="M108.802336,620 L455,620 L468.432089,649.037231 C470.750793,654.049761 468.567015,659.992901 463.554485,662.311605 C462.238558,662.920328 460.806,663.235616 459.3561,663.235616 L104.446236,663.235616 C98.9233886,663.235616 94.4462361,658.758464 94.4462361,653.235616 C94.4462361,651.785717 94.7615243,650.353158 95.3702478,649.037231 L108.802336,620 Z" id="path-3"></path>
+        <rect id="path-4" x="179" y="91" width="205" height="45"></rect>
+        <path d="M183.5,0 L380.5,0 C405.628956,1.77028822e-14 426,20.3710439 426,45.5 C426,70.6289561 405.628956,91 380.5,91 L183.5,91 C158.371044,91 138,70.6289561 138,45.5 C138,20.3710439 158.371044,4.61611435e-15 183.5,0 Z" id="path-5"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#403F9F" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#222169" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <path d="M117,606 C54.4708174,557.157668 14,476.427896 14,394 C14,394.293901 61.5229969,471.869972 150,471 C239.290265,471.869972 315.920269,429.297883 363,387 C409.908013,345.791285 524.231035,268.475781 539,324 C545.73637,347.273853 549,370.850244 549,396 C549,480.888869 508.529183,557.157668 446,606 L117,606 Z" id="path-7"></path>
+    </defs>
+    <g id="Handsome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Secondary" transform="translate(-435.000000, -2796.000000)">
+            <g id="Potion" transform="translate(435.000000, 2796.000000)">
+                <g id="Detail">
+                    <use fill="#F2F5F9" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#F2F5F9" xlink:href="#path-3"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-3"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#F2F5F9" xlink:href="#path-4"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-4"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#F2F5F9" xlink:href="#path-5"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-5"></use>
+                </g>
+                <path d="M163,321 C257.914285,344.912819 291.044963,371.626704 393,366 C382.000859,375.232166 372.123417,383.314507 364,391 C317.005584,432.279973 240.100117,475 150,475 C61.6938282,475 14,395.773372 14,397 C14,344.912819 68.4380925,296.055863 163,321 Z" fill="#222169"></path>
+                <g>
+                    <use fill="#403F9F" xlink:href="#path-7"></use>
+                    <use fill="url(#linearGradient-6)" xlink:href="#path-7"></use>
+                </g>
+                <circle id="Drtail" fill="#8887E1" cx="435.5" cy="424.5" r="14.5"></circle>
+                <circle id="Drtail" fill="#8887E1" cx="415.5" cy="486.5" r="21.5"></circle>
+                <circle id="Shine" fill="#FFFFFF" opacity="0.400000006" cx="72.5" cy="396.5" r="22.5"></circle>
+                <path d="M83,350 C60.3033036,335.571461 60.176975,293.127194 83,255 C106.102742,216.32736 143.459261,196.51306 167,210 C189.696696,224.428539 189.823025,266.872806 167,305 C143.897258,343.67264 106.540739,363.48694 83,350 Z" id="Shine" fill="#FFFFFF" opacity="0.400000006"></path>
+            </g>
+        </g>
+    </g>
+</svg>

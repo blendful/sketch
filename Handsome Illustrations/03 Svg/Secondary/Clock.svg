@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="714px" height="714px" viewBox="0 0 714 714" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Clock</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F2F5F9" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#B6C5D9" stop-opacity="0.05" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="357" cy="357" r="357"></circle>
+        <circle id="path-3" cx="357" cy="357" r="357"></circle>
+        <linearGradient x1="100%" y1="100%" x2="0%" y2="0%" id="linearGradient-4">
+            <stop stop-color="#464D89" stop-opacity="0.1" offset="0%"></stop>
+            <stop stop-color="#F2F5F9" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Handsome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Secondary" transform="translate(-1229.000000, -2771.000000)">
+            <g id="Clock" transform="translate(1229.000000, 2771.000000)">
+                <g id="Detail">
+                    <use fill="#F2F5F9" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#F2F5F9" xlink:href="#path-3"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-3"></use>
+                </g>
+                <path d="M387.158569,361 L520,361 C525.522847,361 530,365.477153 530,371 C530,376.522847 525.522847,381 520,381 L387.158569,381 C383.808198,386.402242 377.82425,390 371,390 C360.50659,390 352,381.49341 352,371 C352,364.17575 355.597758,358.191802 361,354.841431 L361,134 C361,128.477153 365.477153,124 371,124 C376.522847,124 381,128.477153 381,134 L381,354.841431 C383.497645,356.390425 385.609575,358.502355 387.158569,361 Z" id="Sh" fill="url(#linearGradient-4)"></path>
+                <path d="M367,347 L506,347 C511.522847,347 516,351.477153 516,357 C516,362.522847 511.522847,367 506,367 L347,367 L347,120 C347,114.477153 351.477153,110 357,110 C362.522847,110 367,114.477153 367,120 L367,347 Z" id="Detail" fill="#FFFFFF"></path>
+                <circle id="Detail" fill="#464D89" cx="357" cy="357" r="19"></circle>
+                <circle id="Detail" fill="#464D89" cx="357" cy="57" r="10"></circle>
+                <circle id="Detail" fill="#464D89" cx="357" cy="657" r="10"></circle>
+                <circle id="Detail" fill="#464D89" cx="96" cy="202" r="10"></circle>
+                <circle id="Detail" fill="#464D89" cx="657" cy="357" r="10"></circle>
+                <circle id="Detail" fill="#464D89" cx="618" cy="202" r="10"></circle>
+                <circle id="Detail" fill="#464D89" cx="618" cy="512" r="10"></circle>
+                <circle id="Detail" fill="#464D89" cx="57" cy="357" r="10"></circle>
+                <circle id="Detail" fill="#464D89" cx="96" cy="512" r="10"></circle>
+                <circle id="Detail" fill="#464D89" cx="515" cy="99" r="10"></circle>
+                <circle id="Detail" fill="#464D89" cx="505" cy="615" r="10"></circle>
+                <circle id="Detail" fill="#464D89" cx="209" cy="615" r="10"></circle>
+                <circle id="Detail" fill="#464D89" cx="199" cy="109" r="10"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

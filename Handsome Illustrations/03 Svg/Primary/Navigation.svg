@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="782px" height="511px" viewBox="0 0 782 511" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Navigation</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#4E565C" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <path d="M33.1565025,51 C195.474659,37.6666667 314.755825,31 391,31 C473.797379,31 593.078545,37.6666667 748.843497,51 C759.178034,50.9999996 767.810666,58.8736168 768.759097,69.1645415 C774.253032,128.776361 777,188.388181 777,248 C777,307.61182 774.253032,367.22364 768.759097,426.83546 C767.810665,437.126383 759.178034,445 748.843497,445 C588.317873,459.666667 469.036707,467 391,467 C309.995152,467 190.713986,459.666667 33.1565023,445 C22.8219657,445 14.1893338,437.126383 13.2409032,426.835458 C7.74696773,367.223639 5,307.611819 5,248 C5,188.38818 7.74696776,128.77636 13.2409033,69.1645405 C14.189335,58.8736166 22.8219664,51 33.1565025,51 Z" id="path-2"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#393E41" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+        <path d="M28,0 L40.3084548,3.13942612e-06 C43.0698769,3.13942612e-06 45.3084517,2.23857798 45.3084517,5 C45.3084517,5.20937437 45.2953004,5.41854202 45.2690755,5.62626751 C39.0896918,54.5727289 36,115.435812 36,188.215517 C36,261.017712 39.0916017,322.071822 45.274805,371.377847 L45.2748109,371.377846 C45.6184153,374.117812 43.6757802,376.61754 40.9358139,376.961145 C40.7294402,376.987025 40.5216527,377.000003 40.3136626,377.000003 L28,377.000002 C17.7415141,377.000001 9.16310635,369.203627 8.18547701,358.991831 C2.7284899,301.991125 7.26976896e-15,245.065687 0,188.215517 C0,131.400098 2.72515532,74.6645534 8.17546595,18.0088843 L8.17550541,18.0088881 C9.158044,7.79545535 17.7394157,1.88483876e-15 28,0 Z" id="path-4"></path>
+        <rect id="path-6" x="-5" y="40" width="22" height="10" rx="5"></rect>
+        <rect id="path-7" x="-5" y="88" width="22" height="10" rx="5"></rect>
+        <rect id="path-8" x="-5" y="136" width="22" height="10" rx="5"></rect>
+        <rect id="path-9" x="-5" y="183" width="22" height="10" rx="5"></rect>
+        <rect id="path-10" x="-5" y="231" width="22" height="10" rx="5"></rect>
+        <rect id="path-11" x="-5" y="279" width="22" height="10" rx="5"></rect>
+        <rect id="path-12" x="-5" y="327" width="22" height="10" rx="5"></rect>
+        <path d="M42.9168975,30 C155.638966,10 271.666667,1.04094978e-15 391,0 C510.333333,0 626.361034,10 739.083102,30 L749,51 L550.66205,36 C497.441367,46 444.220683,51 391,51 C337.779317,51 284.558633,46 231.33795,36 L33,51 L42.9168975,30 Z" id="path-13"></path>
+        <path d="M42.9168975,475 C155.638966,455 271.666667,445 391,445 C510.333333,445 626.361034,455 739.083102,475 L749,511 L550.66205,496 C497.441367,506 444.220683,511 391,511 C337.779317,511 284.558633,506 231.33795,496 L33,511 L42.9168975,475 Z" id="path-14"></path>
+        <path d="M28,0 L40.3084548,3.13942612e-06 C43.0698769,3.13942612e-06 45.3084517,2.23857798 45.3084517,5 C45.3084517,5.20937437 45.2953004,5.41854202 45.2690755,5.62626751 C39.0896918,54.5727289 36,115.435812 36,188.215517 C36,261.017712 39.0916017,322.071822 45.274805,371.377847 L45.2748109,371.377846 C45.6184153,374.117812 43.6757802,376.61754 40.9358139,376.961145 C40.7294402,376.987025 40.5216527,377.000003 40.3136626,377.000003 L28,377.000002 C17.7415141,377.000001 9.16310635,369.203627 8.18547701,358.991831 C2.7284899,301.991125 7.26976896e-15,245.065687 0,188.215517 C0,131.400098 2.72515532,74.6645534 8.17546595,18.0088843 L8.17550541,18.0088881 C9.158044,7.79545535 17.7394157,1.88483876e-15 28,0 Z" id="path-15"></path>
+        <rect id="path-17" x="29" y="40" width="22" height="10" rx="5"></rect>
+        <rect id="path-18" x="29" y="88" width="22" height="10" rx="5"></rect>
+        <rect id="path-19" x="29" y="136" width="22" height="10" rx="5"></rect>
+        <rect id="path-20" x="29" y="183" width="22" height="10" rx="5"></rect>
+        <rect id="path-21" x="29" y="231" width="22" height="10" rx="5"></rect>
+        <rect id="path-22" x="29" y="279" width="22" height="10" rx="5"></rect>
+        <rect id="path-23" x="29" y="327" width="22" height="10" rx="5"></rect>
+        <rect id="path-24" x="0" y="0" width="574" height="346" rx="10"></rect>
+        <path d="M1,0 L29,0 C29.5522847,-1.01453063e-16 30,0.44771525 30,1 L30,19 C30,19.5522847 29.5522847,20 29,20 L0,20 L0,1 C-6.76353751e-17,0.44771525 0.44771525,1.01453063e-16 1,0 Z" id="path-26"></path>
+    </defs>
+    <g id="Handsome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Primary" transform="translate(-369.000000, -5049.000000)">
+            <g id="Navigation" transform="translate(369.000000, 5049.000000)">
+                <g id="Detail">
+                    <use fill="#4E565C" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                </g>
+                <g id="Detail" transform="translate(0.000000, 60.000000)">
+                    <mask id="mask-5" fill="white">
+                        <use xlink:href="#path-4"></use>
+                    </mask>
+                    <g>
+                        <use fill="#393E41" xlink:href="#path-4"></use>
+                        <use fill="url(#linearGradient-3)" xlink:href="#path-4"></use>
+                    </g>
+                    <g mask="url(#mask-5)">
+                        <use fill="#4E565C" xlink:href="#path-6"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-6"></use>
+                    </g>
+                    <g mask="url(#mask-5)">
+                        <use fill="#4E565C" xlink:href="#path-7"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-7"></use>
+                    </g>
+                    <g mask="url(#mask-5)">
+                        <use fill="#4E565C" xlink:href="#path-8"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-8"></use>
+                    </g>
+                    <g mask="url(#mask-5)">
+                        <use fill="#4E565C" xlink:href="#path-9"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-9"></use>
+                    </g>
+                    <g mask="url(#mask-5)">
+                        <use fill="#4E565C" xlink:href="#path-10"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-10"></use>
+                    </g>
+                    <g mask="url(#mask-5)">
+                        <use fill="#4E565C" xlink:href="#path-11"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-11"></use>
+                    </g>
+                    <g mask="url(#mask-5)">
+                        <use fill="#4E565C" xlink:href="#path-12"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-12"></use>
+                    </g>
+                </g>
+                <path d="M85.4727166,43.4537674 C224.423828,24.4845891 326.266256,15 391,15 C455.733744,15 557.576172,24.4845891 696.527282,43.4537673 L696.527282,43.4537659 C705.851999,44.7267475 713.027656,52.3285275 713.761194,61.7111041 C718.587065,123.43815 721,185.165196 721,246.892241 C721,308.561742 718.591561,370.231243 713.774684,431.900744 L713.774686,431.900745 C713.036387,441.353025 705.762858,448.988084 696.357473,450.183674 L391,489 L85.6425267,450.183673 C76.2371431,448.988083 68.963614,441.353026 68.225316,431.900746 C63.4084387,370.231244 61,308.561743 61,246.892241 C61,185.165196 63.4129354,123.43815 68.2388063,61.7111037 L68.2388069,61.7111038 C68.9723444,52.3285281 76.1480009,44.7267489 85.4727166,43.4537674 Z" id="Detail" fill="#000000"></path>
+                <g id="Detail">
+                    <use fill="#393E41" xlink:href="#path-13"></use>
+                    <use fill="url(#linearGradient-3)" xlink:href="#path-13"></use>
+                </g>
+                <g id="Detail" transform="translate(391.000000, 478.000000) scale(1, -1) translate(-391.000000, -478.000000) ">
+                    <use fill="#393E41" xlink:href="#path-14"></use>
+                    <use fill="url(#linearGradient-3)" xlink:href="#path-14"></use>
+                </g>
+                <g id="Group" transform="translate(736.000000, 60.000000)">
+                    <mask id="mask-16" fill="white">
+                        <use xlink:href="#path-15"></use>
+                    </mask>
+                    <g id="Detail" transform="translate(23.000000, 188.500002) scale(-1, 1) translate(-23.000000, -188.500002) ">
+                        <use fill="#393E41" xlink:href="#path-15"></use>
+                        <use fill="url(#linearGradient-3)" xlink:href="#path-15"></use>
+                    </g>
+                    <g id="Detail" mask="url(#mask-16)">
+                        <use fill="#4E565C" xlink:href="#path-17"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-17"></use>
+                    </g>
+                    <g id="Detail" mask="url(#mask-16)">
+                        <use fill="#4E565C" xlink:href="#path-18"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-18"></use>
+                    </g>
+                    <g id="Detail" mask="url(#mask-16)">
+                        <use fill="#4E565C" xlink:href="#path-19"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-19"></use>
+                    </g>
+                    <g id="Detail" mask="url(#mask-16)">
+                        <use fill="#4E565C" xlink:href="#path-20"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-20"></use>
+                    </g>
+                    <g id="Detail" mask="url(#mask-16)">
+                        <use fill="#4E565C" xlink:href="#path-21"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-21"></use>
+                    </g>
+                    <g id="Detail" mask="url(#mask-16)">
+                        <use fill="#4E565C" xlink:href="#path-22"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-22"></use>
+                    </g>
+                    <g id="Detail" mask="url(#mask-16)">
+                        <use fill="#4E565C" xlink:href="#path-23"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-23"></use>
+                    </g>
+                </g>
+                <g id="Screen" transform="translate(104.000000, 75.000000)">
+                    <mask id="mask-25" fill="white">
+                        <use xlink:href="#path-24"></use>
+                    </mask>
+                    <use id="Detail" fill="#E6E6EF" xlink:href="#path-24"></use>
+                    <path d="M280,193 L209.255036,193 L280,266.258555 L280,193 Z M280,173 L280,5.72875081e-14 L300,5.72875081e-14 L300,41 L373,41 C375.761424,41 378,43.2385763 378,46 C378,48.7614237 375.761424,51 373,51 L300,51 L300,173 L484,173 L484,5.72875081e-14 L494,5.72875081e-14 L494,173 L574,173 L574,193 L494,193 L494,346 L484,346 L484,193 L300,193 L300,286.969161 L357.028669,346 L329.2193,346 L181.451764,193 L121.584287,193 L100.078238,346 L89.9748749,346 L111.486011,193 L0,193 L0,173 L114.296828,173 L120.374803,129.752956 L0.83141377,5.96215224 L0.924289648,-0.154853856 L22.8186442,5.24857935e-14 L189.94126,173 L280,173 Z M129.190145,138.881509 L124.395103,173 L162.137988,173 L129.190145,138.881509 Z" id="Detail" fill="#FFFFFF" mask="url(#mask-25)"></path>
+                    <path d="M338,183 L338,183 C338,188.522847 333.522847,193 328,193 L300,193 L300,256.969161 L279.995903,256.969161 L279.995903,173 L328,173 C333.522847,173 338,177.477153 338,183 Z" id="Detail" fill="#00A07D" mask="url(#mask-25)"></path>
+                    <polygon id="Detail" fill="#757DC0" mask="url(#mask-25)" points="53 0 260 0 260 153 201 153"></polygon>
+                    <polygon id="Detail" fill="#757DC0" mask="url(#mask-25)" points="464 213 464 346 427 346 427 292 372.22 292 425 346 372 346 320 292 320 213"></polygon>
+                    <rect id="Detail" fill="#757DC0" mask="url(#mask-25)" x="320" y="71" width="37" height="82"></rect>
+                    <polygon id="Detail" fill="#757DC0" mask="url(#mask-25)" points="-5 213 92 213 78 318 -5 318"></polygon>
+                    <polygon id="Detail" fill="#757DC0" mask="url(#mask-25)" points="139 213 170 213 299 346 121 346"></polygon>
+                    <rect id="Detail" fill="#757DC0" mask="url(#mask-25)" x="523" y="0" width="37" height="153"></rect>
+                    <rect id="Detail" fill="#757DC0" mask="url(#mask-25)" x="523" y="213" width="37" height="133"></rect>
+                    <rect id="Detail" fill="#757DC0" mask="url(#mask-25)" x="320" y="0" width="57" height="21"></rect>
+                    <rect id="Detail" fill="#757DC0" mask="url(#mask-25)" x="427" y="0" width="37" height="153"></rect>
+                    <rect id="Detail" fill="#757DC0" mask="url(#mask-25)" x="325" y="116" width="136" height="37"></rect>
+                    <rect id="Detail" fill="#757DC0" mask="url(#mask-25)" x="523" y="116" width="51" height="37"></rect>
+                    <rect id="Detail" fill="#757DC0" mask="url(#mask-25)" x="523" y="213" width="51" height="37"></rect>
+                    <path d="M348,160 L353,160 L353,182.5 C353,183.880712 351.880712,185 350.5,185 L350.5,185 C349.119288,185 348,183.880712 348,182.5 L348,160 Z" id="Detail" fill="#000000" mask="url(#mask-25)"></path>
+                    <g id="Detail" mask="url(#mask-25)">
+                        <g transform="translate(348.000000, 140.000000)">
+                            <mask id="mask-27" fill="white">
+                                <use xlink:href="#path-26"></use>
+                            </mask>
+                            <use id="Detail" stroke="none" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-26"></use>
+                            <rect id="Detail" stroke="none" fill="#000000" fill-rule="evenodd" mask="url(#mask-27)" x="0" y="0" width="10" height="10"></rect>
+                            <rect id="Detail" stroke="none" fill="#000000" fill-rule="evenodd" mask="url(#mask-27)" x="10" y="10" width="10" height="10"></rect>
+                            <rect id="Detail" stroke="none" fill="#000000" fill-rule="evenodd" mask="url(#mask-27)" x="20" y="0" width="10" height="10"></rect>
+                        </g>
+                    </g>
+                    <path d="M287.244762,240.396088 L264.726931,292.669625 C264.07144,294.191301 264.773621,295.956243 266.295297,296.611734 C266.992076,296.911885 267.7767,296.936893 268.491178,296.681722 L288.990991,289.36036 C289.643481,289.127328 290.356519,289.127328 291.009009,289.36036 L311.508822,296.681722 C313.069151,297.238983 314.785797,296.425835 315.343057,294.865506 C315.598228,294.151027 315.57322,293.366403 315.273069,292.669625 L292.755238,240.396088 C292.099747,238.874412 290.334804,238.172231 288.813128,238.827722 C288.109181,239.13096 287.548001,239.692141 287.244762,240.396088 Z" id="Detail" fill="#52C883" mask="url(#mask-25)"></path>
+                    <polygon id="Detail" fill="#757DC0" mask="url(#mask-25)" points="0.0841202039 153 102.88888 153 102.88888 143.885877 0.0841202039 35.9654074"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

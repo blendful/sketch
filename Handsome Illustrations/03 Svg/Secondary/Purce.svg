@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="700px" height="724px" viewBox="0 0 700 724" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Purce</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#00A07D" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.05" offset="100%"></stop>
+        </linearGradient>
+        <path d="M3,0 L284,0 C285.656854,-3.04359188e-16 287,1.34314575 287,3 L287,245 L0,245 L4.4408921e-16,3 C2.41183085e-16,1.34314575 1.34314575,3.04359188e-16 3,0 Z" id="path-2"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#52C883" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#00A07D" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <path d="M213.14912,244.999999 C202.46618,216.938297 175.311509,197 143.5,197 C111.688491,197 84.5338202,216.938297 73.8508803,244.999999 L30,245 L30,102.458954 C67.9717731,98.1054009 98.1054009,67.9717731 102.458954,30 L185.541046,30 C189.856312,67.6378295 219.500199,97.5747729 257,102.338122 L257,245 L213.149125,245 L213.14912,244.999999 Z" id="path-4"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#FFC62C" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FF6663" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-6" cx="98.5" cy="98.5" r="98.5"></circle>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-7">
+            <stop stop-color="#FEEC80" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFC62B" stop-opacity="0.6" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-8" cx="98.5" cy="98.5" r="78.5"></circle>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-9">
+            <stop stop-color="#393E41" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-10" x="0" y="245" width="670" height="479" rx="10"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-11">
+            <stop stop-color="#4E565C" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#393E41" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-12" x="50" y="295" width="570" height="379" rx="10"></rect>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-13">
+            <stop stop-color="#000000" stop-opacity="0.2" offset="0%"></stop>
+            <stop stop-color="#393E41" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-14">
+            <stop stop-color="#6F7981" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#4E565C" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+        <path d="M553.5,405 L697,405 C698.656854,405 700,406.343146 700,408 L700,561 C700,562.656854 698.656854,564 697,564 L553.5,564 C509.593362,564 474,528.406638 474,484.5 L474,484.5 C474,440.593362 509.593362,405 553.5,405 Z" id="path-15"></path>
+        <circle id="path-16" cx="553.5" cy="484.5" r="37.5"></circle>
+    </defs>
+    <g id="Handsome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Secondary" transform="translate(-3846.000000, -3924.000000)">
+            <g id="Purce" transform="translate(3846.000000, 3924.000000)">
+                <g id="Money" transform="translate(123.000000, 0.000000)">
+                    <g id="Detail">
+                        <use fill="#00A07D" xlink:href="#path-2"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                    </g>
+                    <g id="Detail">
+                        <use fill="#52C883" xlink:href="#path-4"></use>
+                        <use fill="url(#linearGradient-3)" xlink:href="#path-4"></use>
+                    </g>
+                </g>
+                <g id="Coin" transform="translate(350.000000, 147.000000)">
+                    <g id="Detail">
+                        <use fill="#FFC62C" xlink:href="#path-6"></use>
+                        <use fill="url(#linearGradient-5)" xlink:href="#path-6"></use>
+                    </g>
+                    <g id="Detail">
+                        <use fill="#FEEC80" xlink:href="#path-8"></use>
+                        <use fill="url(#linearGradient-7)" xlink:href="#path-8"></use>
+                    </g>
+                </g>
+                <g id="Detail">
+                    <use fill="#393E41" xlink:href="#path-10"></use>
+                    <use fill="url(#linearGradient-9)" xlink:href="#path-10"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#4E565C" xlink:href="#path-12"></use>
+                    <use fill="url(#linearGradient-11)" xlink:href="#path-12"></use>
+                </g>
+                <path d="M573.5,425 L667,425 C668.656854,425 670,426.343146 670,428 L670,581 C670,582.656854 668.656854,584 667,584 L573.5,584 C529.593362,584 494,548.406638 494,504.5 L494,504.5 C494,460.593362 529.593362,425 573.5,425 Z" id="Detail" fill="url(#linearGradient-13)"></path>
+                <g id="Detail">
+                    <use fill="#6F7981" xlink:href="#path-15"></use>
+                    <use fill="url(#linearGradient-14)" xlink:href="#path-15"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#393E41" xlink:href="#path-16"></use>
+                    <use fill="url(#linearGradient-9)" xlink:href="#path-16"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

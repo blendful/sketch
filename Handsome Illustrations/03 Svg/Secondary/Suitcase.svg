@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="374px" height="749px" viewBox="0 0 374 749" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Suitcase</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFC62C" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FF6663" stop-opacity="0.3" offset="100%"></stop>
+        </linearGradient>
+        <path d="M30,279 L344,279 C360.568542,279 374,292.431458 374,309 L374,679 C374,695.568542 360.568542,709 344,709 L30,709 C13.4314575,709 2.02906125e-15,695.568542 0,679 L0,309 C-2.02906125e-15,292.431458 13.4314575,279 30,279 Z" id="path-2"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#393E41" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+        <path d="M60,709 L123,709 L123,717.5 C123,734.89697 108.89697,749 91.5,749 C74.1030304,749 60,734.89697 60,717.5 L60,709 Z" id="path-4"></path>
+        <path d="M251,709 L314,709 L314,717.5 C314,734.89697 299.89697,749 282.5,749 C265.10303,749 251,734.89697 251,717.5 L251,709 Z" id="path-5"></path>
+        <polygon id="path-6" points="92 40 122 40 122 279 92 279"></polygon>
+        <polygon id="path-7" points="252 40 282 40 282 279 252 279"></polygon>
+        <path d="M92,0 L282,0 C293.045695,-2.02906125e-15 302,8.954305 302,20 C302,31.045695 293.045695,40 282,40 L92,40 C80.954305,40 72,31.045695 72,20 C72,8.954305 80.954305,2.02906125e-15 92,0 Z" id="path-8"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-9">
+            <stop stop-color="#6F7981" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#4E565C" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+        <path d="M106.29562,267 C100.871539,267 96.4744526,272.372583 96.4744526,279 L277.525547,279 C277.525547,272.372583 273.128461,267 267.70438,267 L106.29562,267 Z M106.29562,236 L267.70438,236 C287.749897,236 304,255.251756 304,279 L70,279 C70,255.251756 86.2501028,236 106.29562,236 Z" id="path-10"></path>
+    </defs>
+    <g id="Handsome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Secondary" transform="translate(-2269.000000, -5069.000000)">
+            <g id="Suitcase" transform="translate(2269.000000, 5069.000000)">
+                <g id="Detail">
+                    <use fill="#FFC62C" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#393E41" xlink:href="#path-4"></use>
+                    <use fill="url(#linearGradient-3)" xlink:href="#path-4"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#393E41" xlink:href="#path-5"></use>
+                    <use fill="url(#linearGradient-3)" xlink:href="#path-5"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#393E41" xlink:href="#path-6"></use>
+                    <use fill="url(#linearGradient-3)" xlink:href="#path-6"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#393E41" xlink:href="#path-7"></use>
+                    <use fill="url(#linearGradient-3)" xlink:href="#path-7"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#393E41" xlink:href="#path-8"></use>
+                    <use fill="url(#linearGradient-3)" xlink:href="#path-8"></use>
+                </g>
+                <path d="M43,319 L331,319 C332.656854,319 334,320.343146 334,322 L334,439 C334,455.568542 320.568542,469 304,469 L70,469 C53.4314575,469 40,455.568542 40,439 L40,322 C40,320.343146 41.3431458,319 43,319 Z" id="Detail" fill="#FEEC80"></path>
+                <path d="M43,489 L331,489 C332.656854,489 334,490.343146 334,492 L334,639 C334,655.568542 320.568542,669 304,669 L70,669 C53.4314575,669 40,655.568542 40,639 L40,492 C40,490.343146 41.3431458,489 43,489 Z" id="Detail" fill="#FEEC80"></path>
+                <path d="M75,359 L299,359 C301.761424,359 304,361.238576 304,364 C304,366.761424 301.761424,369 299,369 L75,369 C72.2385763,369 70,366.761424 70,364 C70,361.238576 72.2385763,359 75,359 Z" id="Detail" fill="#FFC62C"></path>
+                <path d="M90,369 C90,375.627417 95.372583,381 102,381 C108.627417,381 114,375.627417 114,369 L90,369 Z" id="Detail" fill="#FFC62C"></path>
+                <path d="M75,519 L299,519 C301.761424,519 304,521.238576 304,524 C304,526.761424 301.761424,529 299,529 L75,529 C72.2385763,529 70,526.761424 70,524 C70,521.238576 72.2385763,519 75,519 Z" id="Detail" fill="#FFC62C"></path>
+                <path d="M90,529 C90,535.627417 95.372583,541 102,541 C108.627417,541 114,535.627417 114,529 L90,529 Z" id="Detail" fill="#FFC62C"></path>
+                <g id="Detail" fill-rule="nonzero">
+                    <use fill="#6F7981" xlink:href="#path-10"></use>
+                    <use fill="url(#linearGradient-9)" xlink:href="#path-10"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="656px" height="676px" viewBox="0 0 656 676" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Mail</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#AF3B6E" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0,275 C216.739525,91.6666667 326.072858,0 328,0 C329.927142,0 439.260475,91.6666667 656,275 L656,646 C656,662.568542 642.568542,676 626,676 L30,676 C13.4314575,676 0,662.568542 0,646 L0,275 Z" id="path-2"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.05" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-4" x="50" y="275" width="556" height="401" rx="30"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#E478A3" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#AF3B6E" stop-opacity="0.3" offset="100%"></stop>
+        </linearGradient>
+        <path d="M328,510 L656,275 L656,646 C656,662.568542 642.568542,676 626,676 L30,676 C13.4314575,676 0,662.568542 0,646 L0,275 L328,510 Z" id="path-6"></path>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="0%" id="linearGradient-7">
+            <stop stop-color="#AF3B6E" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Handsome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Secondary" transform="translate(-2998.000000, -474.000000)">
+            <g id="Mail" transform="translate(2998.000000, 474.000000)">
+                <g id="Envelope">
+                    <use fill="#AF3B6E" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                </g>
+                <g id="Paper">
+                    <use fill="#FFFFFF" xlink:href="#path-4"></use>
+                    <use fill="url(#linearGradient-3)" xlink:href="#path-4"></use>
+                </g>
+                <g id="Envelope">
+                    <use fill="#E478A3" xlink:href="#path-6"></use>
+                    <use fill="url(#linearGradient-5)" xlink:href="#path-6"></use>
+                </g>
+                <path d="M0,275 L0,274 C8.47274166,266.900504 16.7813484,259.880424 25,253 L328,471 L631,253 C639.218652,259.880424 647.527258,266.900504 656,274 L656,275 L328,511 L0,275 Z" id="Sh" fill="url(#linearGradient-7)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="310px" height="753px" viewBox="0 0 310 753" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Scissors</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#B6C5D9" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.05" offset="100%"></stop>
+        </linearGradient>
+        <path d="M253.106949,0 C268.695266,0 227.602269,426.611764 220.719446,439.183536 C213.836624,451.755308 114.358424,500.915194 114.358424,553.386091 C114.358424,605.856989 142.169751,622.207148 127.087023,642.570955 C112.004296,662.934761 73.4410878,707.873338 22.6221547,676.531795 C-28.1967784,645.190252 16.5615095,575.268244 59.3701054,539.949199 C102.178701,504.630155 173.119497,432.273472 180.605794,404.557901 C188.09209,376.842329 237.518631,0 253.106949,0 Z M75.683107,568.192672 C47.8389833,568.192672 20.6283378,595.058979 20.6283378,635.033814 C20.6283378,675.00865 71.5536707,684.368881 90.6408136,656.202761 C109.727956,628.036641 103.527231,568.192672 75.683107,568.192672 Z" id="path-2"></path>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="38.8820453%" id="linearGradient-3">
+            <stop stop-color="#000000" stop-opacity="0.0928158967" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#D6DFEA" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#B6C5D9" offset="100%"></stop>
+        </linearGradient>
+        <path d="M154.8326,3 C176.608039,3 253.156113,367.785473 237.734045,412.994918 C222.311977,458.204362 241.128686,472.71006 283.238899,548.343223 C325.349112,623.976386 308.486977,716.811842 293.547779,731.973185 C278.60858,747.134528 224.572,762.497189 207.765402,745.69059 C190.958803,728.883992 133.057161,3 154.8326,3 Z M231.944485,513.557934 C208.378278,513.557934 200.586625,532.635087 210.202233,633.012821 C219.817841,733.390556 229.889602,734.875956 260.421207,728.354108 C290.952812,721.83226 286.229976,642.717016 281.579375,615.955425 C276.928775,589.193833 255.510693,513.557934 231.944485,513.557934 Z" id="path-5"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#6F7981" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-7" cx="204" cy="398" r="17"></circle>
+    </defs>
+    <g id="Handsome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Secondary" transform="translate(-3171.000000, -5067.000000)">
+            <g id="Scissors" transform="translate(3171.000000, 5067.000000)">
+                <g id="Detail">
+                    <use fill="#B6C5D9" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                </g>
+                <path d="M240.844547,265.619391 C232.595589,355.060798 223.61992,433.885695 220.719446,439.183536 C218.547534,443.150628 207.155411,450.760992 192.578322,460.96901 C190.254865,432.69407 188.000138,403.888054 185.871732,375.235217 C193.235507,329.181316 206.12918,239.388252 218.985895,159.187331 C226.760593,193.201921 234.356345,230.122841 240.844547,265.619391 Z" id="Detail" fill="url(#linearGradient-3)"></path>
+                <g id="Detail">
+                    <use fill="#D6DFEA" xlink:href="#path-5"></use>
+                    <use fill="url(#linearGradient-4)" xlink:href="#path-5"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#6F7981" xlink:href="#path-7"></use>
+                    <use fill="url(#linearGradient-6)" xlink:href="#path-7"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

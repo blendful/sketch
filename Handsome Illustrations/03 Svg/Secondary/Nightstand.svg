@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="574px" height="644px" viewBox="0 0 574 644" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Nightstand</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#4E565C" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.05" offset="100%"></stop>
+        </linearGradient>
+        <path d="M98,0 L98,73 C98,74.6568542 96.6568542,76 95,76 L41.8111964,76 C40.6973585,76 39.6752078,75.3828947 39.1564417,74.3972393 L0,0 L98,0 Z" id="path-2"></path>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#000000" stop-opacity="0.15" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0,0 L98,0 L58.8435583,74.3972393 C58.3247922,75.3828947 57.3026415,76 56.1888036,76 L3,76 C1.34314575,76 0,74.6568542 0,73 L0,0 Z" id="path-5"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-7">
+            <stop stop-color="#393E41" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-8" x="0" y="0" width="574" height="568" rx="30"></rect>
+        <linearGradient x1="100%" y1="100%" x2="0%" y2="0%" id="linearGradient-9">
+            <stop stop-color="#000000" stop-opacity="0.3" offset="0%"></stop>
+            <stop stop-color="#393E41" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-10" x="0" y="0" width="474" height="136" rx="10"></rect>
+        <rect id="path-11" x="0" y="0" width="474" height="136" rx="10"></rect>
+        <rect id="path-12" x="0" y="0" width="474" height="136" rx="10"></rect>
+    </defs>
+    <g id="Handsome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Secondary" transform="translate(-2169.000000, -1648.000000)">
+            <g id="Nightstand" transform="translate(2169.000000, 1648.000000)">
+                <g id="Leg-R" transform="translate(416.000000, 568.000000)">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <g>
+                        <use fill="#4E565C" xlink:href="#path-2"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                    </g>
+                    <polygon id="Sh" fill="url(#linearGradient-4)" mask="url(#mask-3)" points="98 0 98 19 10 19 0 0"></polygon>
+                </g>
+                <g id="Leg-L" transform="translate(60.000000, 568.000000)">
+                    <mask id="mask-6" fill="white">
+                        <use xlink:href="#path-5"></use>
+                    </mask>
+                    <g>
+                        <use fill="#4E565C" xlink:href="#path-5"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-5"></use>
+                    </g>
+                    <polygon id="Sh" fill="url(#linearGradient-4)" mask="url(#mask-6)" points="0 0 98 0 88 19 0 19"></polygon>
+                </g>
+                <g id="Detail">
+                    <use fill="#393E41" xlink:href="#path-8"></use>
+                    <use fill="url(#linearGradient-7)" xlink:href="#path-8"></use>
+                </g>
+                <g id="Box" transform="translate(50.000000, 382.000000)">
+                    <path d="M474,10 C479.522847,10 484,14.4771525 484,20 L484,136 C484,141.522847 479.522847,146 474,146 L20,146 C14.4771525,146 10,141.522847 10,136 L464,136 C469.522847,136 474,131.522847 474,126 L474,10 Z" id="Sh" fill="url(#linearGradient-9)"></path>
+                    <g>
+                        <use fill="#4E565C" xlink:href="#path-10"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-10"></use>
+                    </g>
+                    <rect id="Sh" fill="url(#linearGradient-9)" x="184" y="62" width="134" height="28" rx="14"></rect>
+                    <rect id="Handle" fill="#E6E6EF" x="176" y="54" width="134" height="28" rx="14"></rect>
+                </g>
+                <g id="Box" transform="translate(50.000000, 216.000000)">
+                    <path d="M474,10 C479.522847,10 484,14.4771525 484,20 L484,136 C484,141.522847 479.522847,146 474,146 L20,146 C14.4771525,146 10,141.522847 10,136 L464,136 C469.522847,136 474,131.522847 474,126 L474,10 Z" id="Sh" fill="url(#linearGradient-9)"></path>
+                    <g>
+                        <use fill="#4E565C" xlink:href="#path-11"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-11"></use>
+                    </g>
+                    <rect id="Sh" fill="url(#linearGradient-9)" x="178" y="62" width="134" height="28" rx="14"></rect>
+                    <rect id="Handle" fill="#E6E6EF" x="170" y="54" width="134" height="28" rx="14"></rect>
+                </g>
+                <g id="Box" transform="translate(50.000000, 50.000000)">
+                    <path d="M474,10 C479.522847,10 484,14.4771525 484,20 L484,136 C484,141.522847 479.522847,146 474,146 L20,146 C14.4771525,146 10,141.522847 10,136 L464,136 C469.522847,136 474,131.522847 474,126 L474,10 Z" id="Sh" fill="url(#linearGradient-9)"></path>
+                    <g>
+                        <use fill="#4E565C" xlink:href="#path-12"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-12"></use>
+                    </g>
+                    <rect id="Sh" fill="url(#linearGradient-9)" x="178" y="62" width="134" height="28" rx="14"></rect>
+                    <rect id="Handle" fill="#E6E6EF" x="170" y="54" width="134" height="28" rx="14"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="619px" height="689px" viewBox="0 0 619 689" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Slot machine</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#9FB1FB" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.05" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0,0 L502,0 L502,117 C502,122.522847 497.522847,127 492,127 L10,127 C4.4771525,127 6.76353751e-16,122.522847 0,117 L0,0 Z" id="path-2"></path>
+        <linearGradient x1="50%" y1="143.730813%" x2="50%" y2="0%" id="linearGradient-3">
+            <stop stop-color="#464D89" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="0%" x2="0%" y2="0%" id="linearGradient-4">
+            <stop stop-color="#000000" stop-opacity="0.300186821" offset="0%"></stop>
+            <stop stop-color="#403F9F" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#C74D75" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#AF3B6E" stop-opacity="0.28943048" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-6" x="0" y="0" width="572" height="76" rx="10"></rect>
+        <rect id="path-7" x="176" y="25" width="26" height="26" rx="3"></rect>
+        <rect id="path-8" x="136" y="25" width="26" height="26" rx="3"></rect>
+        <rect id="path-9" x="96" y="25" width="26" height="26" rx="3"></rect>
+        <rect id="path-10" x="38" y="48" width="16" height="120"></rect>
+        <circle id="path-11" cx="46" cy="26" r="26"></circle>
+        <path d="M0,148 L-3.6739404e-15,148 C11.045695,148 20,156.954305 20,168 L20,224 C20,235.045695 11.045695,244 1.2246468e-15,244 L0,148 Z" id="path-12"></path>
+        <path d="M20,168 L72,168 C77.5228475,168 82,172.477153 82,178 L82,214 C82,219.522847 77.5228475,224 72,224 L20,224 L20,168 Z" id="path-13"></path>
+        <path d="M45,250 L527,250 C532.522847,250 537,254.477153 537,260 L537,486 L35,486 L35,260 C35,254.477153 39.4771525,250 45,250 Z" id="path-14"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-15">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.05" offset="100%"></stop>
+        </linearGradient>
+        <path d="M3,0 L103,0 C104.656854,0 106,1.34314575 106,3 L106,153 C106,154.656854 104.656854,156 103,156 L3,156 C1.34314575,156 0,154.656854 0,153 L0,3 C0,1.34314575 1.34314575,0 3,0 Z" id="path-16"></path>
+        <path d="M3,0 L103,0 C104.656854,0 106,1.34314575 106,3 L106,153 C106,154.656854 104.656854,156 103,156 L3,156 C1.34314575,156 0,154.656854 0,153 L0,3 C0,1.34314575 1.34314575,0 3,0 Z" id="path-17"></path>
+        <path d="M3,0 L103,0 C104.656854,0 106,1.34314575 106,3 L106,153 C106,154.656854 104.656854,156 103,156 L3,156 C1.34314575,156 0,154.656854 0,153 L0,3 C0,1.34314575 1.34314575,0 3,0 Z" id="path-18"></path>
+        <rect id="path-19" x="103" y="200" width="366" height="50"></rect>
+        <path d="M186,100 C186,44.771525 230.771525,0 286,0 C341.228475,0 386,44.771525 386,100 L527,100 C532.522847,100 537,104.477153 537,110 L537,190 C537,195.522847 532.522847,200 527,200 L45,200 C39.4771525,200 35,195.522847 35,190 L35,110 C35,104.477153 39.4771525,100 45,100 L186,100 Z" id="path-20"></path>
+    </defs>
+    <g id="Handsome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Primary" transform="translate(-1321.000000, -7326.000000)">
+            <g id="Slot-machine" transform="translate(1321.000000, 7326.000000)">
+                <g id="Detail" transform="translate(35.000000, 562.000000)">
+                    <g>
+                        <use fill="#403F9F" xlink:href="#path-2"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                    </g>
+                    <circle fill="#FFFFFF" cx="30.5" cy="96.5" r="10.5"></circle>
+                    <circle fill="#FFFFFF" cx="471.5" cy="96.5" r="10.5"></circle>
+                    <path d="M180,66 L322,66 C327.522847,66 332,70.4771525 332,76 L332,127 L170,127 L170,76 C170,70.4771525 174.477153,66 180,66 Z" fill="url(#linearGradient-3)"></path>
+                    <rect id="Sh" fill="url(#linearGradient-4)" x="0" y="0" width="502" height="50"></rect>
+                </g>
+                <g id="Detail" transform="translate(0.000000, 486.000000)">
+                    <g id="Rectangle-7-Copy-3">
+                        <use fill="#FF6663" xlink:href="#path-6"></use>
+                        <use fill="url(#linearGradient-5)" xlink:href="#path-6"></use>
+                    </g>
+                    <rect fill="#FFFFFF" x="370" y="25" width="106" height="26" rx="13"></rect>
+                    <g id="Button">
+                        <use fill="#403F9F" xlink:href="#path-7"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-7"></use>
+                    </g>
+                    <g id="Button">
+                        <use fill="#403F9F" xlink:href="#path-8"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-8"></use>
+                    </g>
+                    <g id="Button">
+                        <use fill="#403F9F" xlink:href="#path-9"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-9"></use>
+                    </g>
+                </g>
+                <g id="Grip" transform="translate(537.000000, 202.000000)">
+                    <g>
+                        <use fill="#403F9F" xlink:href="#path-10"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-10"></use>
+                    </g>
+                    <g id="Grio">
+                        <use fill="#FF6663" xlink:href="#path-11"></use>
+                        <use fill="url(#linearGradient-5)" xlink:href="#path-11"></use>
+                    </g>
+                    <g>
+                        <use fill="#403F9F" xlink:href="#path-12"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-12"></use>
+                    </g>
+                    <g>
+                        <use fill="#403F9F" xlink:href="#path-13"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-13"></use>
+                    </g>
+                </g>
+                <g>
+                    <use fill="#FF6663" xlink:href="#path-14"></use>
+                    <use fill="url(#linearGradient-5)" xlink:href="#path-14"></use>
+                </g>
+                <g id="Screen" transform="translate(96.000000, 290.000000)">
+                    <g id="7" transform="translate(274.000000, 0.000000)">
+                        <g id="Screen">
+                            <use fill="#FFFFFF" xlink:href="#path-16"></use>
+                            <use fill="url(#linearGradient-15)" xlink:href="#path-16"></use>
+                        </g>
+                        <polygon fill="#1F1845" points="81 43 81 53.5 55.0463458 113 37.4777184 113 62.5329768 56.2 39.3743316 56.2 39.3743316 67.6 25 67.6 25 43"></polygon>
+                    </g>
+                    <g id="7" transform="translate(137.000000, 0.000000)">
+                        <g id="Screen">
+                            <use fill="#FFFFFF" xlink:href="#path-17"></use>
+                            <use fill="url(#linearGradient-15)" xlink:href="#path-17"></use>
+                        </g>
+                        <polygon fill="#1F1845" points="81 43 81 53.5 55.0463458 113 37.4777184 113 62.5329768 56.2 39.3743316 56.2 39.3743316 67.6 25 67.6 25 43"></polygon>
+                    </g>
+                    <g id="7">
+                        <g id="Screen">
+                            <use fill="#FFFFFF" xlink:href="#path-18"></use>
+                            <use fill="url(#linearGradient-15)" xlink:href="#path-18"></use>
+                        </g>
+                        <polygon fill="#1F1845" points="81 43 81 53.5 55.0463458 113 37.4777184 113 62.5329768 56.2 39.3743316 56.2 39.3743316 67.6 25 67.6 25 43"></polygon>
+                    </g>
+                </g>
+                <g>
+                    <use fill="#403F9F" xlink:href="#path-19"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-19"></use>
+                </g>
+                <polygon id="Sh" fill="url(#linearGradient-4)" points="103 200 469 200 469 230 103 230"></polygon>
+                <g>
+                    <use fill="#FF6663" xlink:href="#path-20"></use>
+                    <use fill="url(#linearGradient-5)" xlink:href="#path-20"></use>
+                </g>
+                <g id="Lamps" transform="translate(65.000000, 53.000000)" fill="#FEEC80">
+                    <circle id="Lamp" cx="14.5" cy="96.5" r="14.5"></circle>
+                    <circle id="Lamp" cx="329.5" cy="96.5" r="14.5"></circle>
+                    <circle id="Lamp" cx="63.5" cy="96.5" r="14.5"></circle>
+                    <circle id="Lamp" cx="378.5" cy="96.5" r="14.5"></circle>
+                    <circle id="Lamp" cx="112.5" cy="96.5" r="14.5"></circle>
+                    <circle id="Lamp" cx="427.5" cy="96.5" r="14.5"></circle>
+                    <path d="M218.645507,82.3711423 L195.57898,94.4215226 C193.105912,95.7134996 190.047098,94.7686677 188.746929,92.3111815 C188.229194,91.3325976 188.050537,90.2117077 188.238615,89.1220385 L192.64393,63.5989234 C192.925402,61.9681517 192.381314,60.30417 191.188976,59.1492511 L172.527764,41.0736806 C170.527009,39.1357152 170.48607,35.9529714 172.436324,33.9648233 C173.212925,33.1731323 174.230506,32.6579158 175.331534,32.4989352 L201.120695,28.7751629 C202.768465,28.5372365 204.192908,27.5088393 204.929813,26.0251141 L216.463076,2.80341684 C217.699611,0.313711426 220.733123,-0.708500518 223.238615,0.520242562 C224.236315,1.0095345 225.043872,1.81200309 225.536267,2.80341684 L237.06953,26.0251141 C237.806435,27.5088393 239.230878,28.5372365 240.878648,28.7751629 L266.667809,32.4989352 C269.432784,32.898178 271.348537,35.4491601 270.946762,38.1967131 C270.786774,39.2908032 270.26829,40.3019726 269.471579,41.0736806 L250.810367,59.1492511 C249.618029,60.30417 249.073941,61.9681517 249.355413,63.5989234 L253.760728,89.1220385 C254.233042,91.8584896 252.38353,94.4572952 249.629728,94.9266333 C248.533149,95.1135262 247.405152,94.9359946 246.420363,94.4215226 L223.353836,82.3711423 C221.880025,81.6011963 220.119318,81.6011963 218.645507,82.3711423 Z" id="Star"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

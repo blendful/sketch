@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="750px" height="795px" viewBox="0 0 750 795" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Lamp</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#1F1845" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <path d="M385.000096,185.218251 C504.623825,190.450121 600,289.086911 600,410 L150,410 C150,289.086911 245.376175,190.450121 364.999904,185.218251 L365,10 C365,4.4771525 369.477153,0 375,0 C380.522847,0 385,4.4771525 385,10 L385,185.218247 L385.000096,185.218251 Z" id="path-2"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#FEEC80" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Handsome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Secondary" transform="translate(-341.000000, -3888.000000)">
+            <g id="Lamp" transform="translate(341.000000, 3888.000000)">
+                <g id="Detail">
+                    <use fill="#1F1845" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                </g>
+                <polygon id="Shine" fill="url(#linearGradient-3)" opacity="0.800000012" points="149.976742 410 599.927375 410 750 795 0 795"></polygon>
+                <path d="M300,410 C300,451.421356 333.578644,485 375,485 C416.421356,485 450,451.421356 450,410 L300,410 Z" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

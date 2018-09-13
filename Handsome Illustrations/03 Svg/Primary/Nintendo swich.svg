@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="755px" height="319px" viewBox="0 0 755 319" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Nintendo swich</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#C74D75" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#AF3B6E" stop-opacity="0.3" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0,0 L37,0 C74.0030782,-6.7973552e-15 104,29.9969218 104,67 L104,251 C104,288.003078 74.0030782,318 37,318 L0,318 L0,0 Z" id="path-2"></path>
+        <linearGradient x1="100%" y1="100%" x2="0%" y2="0%" id="linearGradient-3">
+            <stop stop-color="#FF6663" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" stop-opacity="0.2" offset="0%"></stop>
+            <stop stop-color="#232340" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-5" cx="23" cy="23" r="18"></circle>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#7BC1EB" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#305594" stop-opacity="0.3" offset="100%"></stop>
+        </linearGradient>
+        <path d="M104,0 L104,318 L67,318 C29.9969218,318 0,288.003078 0,251 L0,67 C1.42108547e-14,29.9969218 29.9969218,0 67,0 L104,0 Z" id="path-7"></path>
+        <linearGradient x1="14.1921742%" y1="13.4803416%" x2="100%" y2="100%" id="linearGradient-8">
+            <stop stop-color="#000000" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#7BC1EB" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-9" cx="23" cy="23" r="18"></circle>
+    </defs>
+    <g id="Handsome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Primary" transform="translate(-2122.000000, -5196.000000)">
+            <g id="Nintendo-swich" transform="translate(2122.000000, 5196.000000)">
+                <g id="Screen" transform="translate(104.000000, 1.000000)">
+                    <path d="M0,15.3366789 C6.36584894,13.408452 11,7.49540801 11,0.5 C11,0.388467359 186.002637,0.221800692 536.007912,0 C536,7.49540801 540.634151,13.408452 547,15.3366789 L547,318 L0,318 L0,15.3366789 Z" fill="#2D3134"></path>
+                    <rect fill="#000000" x="17" y="12" width="513" height="294" rx="10"></rect>
+                    <rect fill="#2D3134" x="57" y="37" width="433" height="244"></rect>
+                </g>
+                <g id="Controller" transform="translate(651.000000, 1.000000)">
+                    <g>
+                        <use fill="#FF6663" xlink:href="#path-2"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                    </g>
+                    <circle id="Button" fill="#000000" cx="30.5" cy="227.5" r="12.5"></circle>
+                    <circle id="Sh" fill="url(#linearGradient-3)" cx="51" cy="171" r="26"></circle>
+                    <g id="Button" transform="translate(25.000000, 145.000000)">
+                        <circle fill="#000000" cx="23" cy="23" r="23"></circle>
+                        <g id="Sh">
+                            <use fill="#0B2130" xlink:href="#path-5"></use>
+                            <use fill="url(#linearGradient-4)" xlink:href="#path-5"></use>
+                        </g>
+                    </g>
+                    <circle id="Sh" fill="url(#linearGradient-3)" cx="49.5" cy="104.5" r="12.5"></circle>
+                    <g id="Button" transform="translate(37.000000, 92.000000)">
+                        <circle fill="#000000" cx="11" cy="11" r="11"></circle>
+                        <path d="M14.468,11.3945 C14.7173346,11.720835 14.842,12.1259976 14.842,12.61 C14.842,13.2773367 14.5853359,13.7924982 14.072,14.1555 C13.5586641,14.5185018 12.8106716,14.7 11.828,14.7 L8,14.7 L8,7 L11.608,7 C12.5173379,7 13.2176642,7.17783156 13.709,7.5335 C14.2003358,7.88916844 14.446,8.37866355 14.446,9.002 C14.446,9.38333524 14.3580009,9.7206652 14.182,10.014 C14.0059991,10.3073348 13.7640015,10.5346659 13.456,10.696 C13.8813355,10.835334 14.2186654,11.068165 14.468,11.3945 Z M9.43,8.122 L9.43,10.245 L11.454,10.245 C11.9526692,10.245 12.335832,10.1551676 12.6035,9.9755 C12.871168,9.79583243 13.005,9.53366839 13.005,9.189 C13.005,8.83699824 12.871168,8.57116756 12.6035,8.3915 C12.335832,8.21183243 11.9526692,8.122 11.454,8.122 L9.43,8.122 Z M13.401,12.467 C13.401,11.7263296 12.8473389,11.356 11.74,11.356 L9.43,11.356 L9.43,13.578 L11.74,13.578 C12.8473389,13.578 13.401,13.2076704 13.401,12.467 Z" id="B" fill="#FFFFFF"></path>
+                    </g>
+                    <circle id="Oval-24-Copy-4" fill="url(#linearGradient-3)" cx="25.5" cy="80.5" r="12.5"></circle>
+                    <g id="Button" transform="translate(13.000000, 68.000000)">
+                        <circle fill="#000000" cx="11" cy="11" r="11"></circle>
+                        <polygon id="Y" fill="#FFFFFF" points="11.455 11.983 11.455 14.7 10.025 14.7 10.025 12.005 7 7 8.529 7 10.784 10.751 13.061 7 14.469 7"></polygon>
+                    </g>
+                    <circle id="Sh" fill="url(#linearGradient-3)" cx="73.5" cy="80.5" r="12.5"></circle>
+                    <g id="Button" transform="translate(61.000000, 68.000000)">
+                        <circle fill="#000000" cx="11" cy="11" r="11"></circle>
+                        <path d="M13.083,12.918 L9.233,12.918 L8.474,14.7 L7,14.7 L10.465,7 L11.873,7 L15.349,14.7 L13.853,14.7 L13.083,12.918 Z M12.61,11.796 L11.158,8.43 L9.717,11.796 L12.61,11.796 Z" id="A" fill="#FFFFFF"></path>
+                    </g>
+                    <circle id="Sh" fill="url(#linearGradient-3)" cx="49.5" cy="56.5" r="12.5"></circle>
+                    <g id="Button" transform="translate(37.000000, 44.000000)">
+                        <circle fill="#000000" cx="11" cy="11" r="11"></circle>
+                        <polygon id="X" fill="#FFFFFF" points="12.786 14.7 10.696 11.774 8.628 14.7 7 14.7 9.86 10.773 7.154 7 8.771 7 10.74 9.739 12.687 7 14.238 7 11.543 10.718 14.436 14.7"></polygon>
+                    </g>
+                    <path d="M21,28 L26,28 C26.5522847,28 27,28.4477153 27,29 L27,33 C27,33.5522847 26.5522847,34 26,34 L21,34 C20.4477153,34 20,34.4477153 20,35 L20,40 C20,40.5522847 19.5522847,41 19,41 L15,41 C14.4477153,41 14,40.5522847 14,40 L14,35 C14,34.4477153 13.5522847,34 13,34 L8,34 C7.44771525,34 7,33.5522847 7,33 L7,29 C7,28.4477153 7.44771525,28 8,28 L13,28 C13.5522847,28 14,27.5522847 14,27 L14,22 C14,21.4477153 14.4477153,21 15,21 L19,21 C19.5522847,21 20,21.4477153 20,22 L20,27 C20,27.5522847 20.4477153,28 21,28 Z" id="Button" fill="#000000"></path>
+                </g>
+                <g id="Controller">
+                    <g>
+                        <use fill="#7BC1EB" xlink:href="#path-7"></use>
+                        <use fill="url(#linearGradient-6)" xlink:href="#path-7"></use>
+                    </g>
+                    <rect id="Button" fill="#000000" x="66" y="219" width="20" height="20" rx="1"></rect>
+                    <circle id="Sh" fill="url(#linearGradient-8)" cx="33.5" cy="170.5" r="12.5"></circle>
+                    <circle id="Button" fill="#000000" cx="32" cy="169" r="11"></circle>
+                    <circle id="Sh" fill="url(#linearGradient-8)" cx="57.5" cy="194.5" r="12.5"></circle>
+                    <circle id="Button" fill="#000000" cx="56" cy="193" r="11"></circle>
+                    <circle id="Sh" fill="url(#linearGradient-8)" cx="81.5" cy="170.5" r="12.5"></circle>
+                    <circle id="Button" fill="#000000" cx="80" cy="169" r="11"></circle>
+                    <circle id="Sh" fill="url(#linearGradient-8)" cx="57.5" cy="146.5" r="12.5"></circle>
+                    <circle id="Button" fill="#000000" cx="56" cy="145" r="11"></circle>
+                    <circle id="Sh" fill="url(#linearGradient-8)" cx="60" cy="84" r="26"></circle>
+                    <rect id="Button" fill="#000000" x="80" y="30" width="17" height="6" rx="1"></rect>
+                    <g id="Button" transform="translate(34.000000, 58.000000)">
+                        <circle fill="#000000" cx="23" cy="23" r="23"></circle>
+                        <g id="Sh">
+                            <use fill="#0B2130" xlink:href="#path-9"></use>
+                            <use fill="url(#linearGradient-4)" xlink:href="#path-9"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

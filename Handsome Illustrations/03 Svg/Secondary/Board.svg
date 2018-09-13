@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="676px" height="710px" viewBox="0 0 676 710" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Board</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F2F5F9" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#B6C5D9" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <path d="M54,62 L610,62 C611.656854,62 613,63.3431458 613,65 L613,414 L51,414 L51,65 C51,63.3431458 52.3431458,62 54,62 Z" id="path-2"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#1F1845" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-4" x="21" y="414" width="622" height="60" rx="10"></rect>
+        <path d="M279,32 L385,32 C390.522847,32 395,36.4771525 395,42 L395,62 L269,62 L269,42 C269,36.4771525 273.477153,32 279,32 Z" id="path-5"></path>
+        <path d="M332,0 L332,0 C344.702549,-2.33342044e-15 355,10.2974508 355,23 L355,32 L309,32 L309,23 C309,10.2974508 319.297451,2.33342044e-15 332,0 Z" id="path-6"></path>
+        <polygon id="path-7" points="201 474 230 474 120 710 91 710"></polygon>
+        <polygon id="path-8" points="463 474 573 710 544 710 434 474"></polygon>
+    </defs>
+    <g id="Handsome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Secondary" transform="translate(-2988.000000, -3931.000000)">
+            <g id="Board" transform="translate(2994.000000, 3931.000000)">
+                <g id="Rectangle-58">
+                    <use fill="#F2F5F9" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                </g>
+                <rect id="Rectangle-2" fill="#D6DFEA" x="91" y="102" width="220" height="30" rx="15"></rect>
+                <rect id="Rectangle-2-Copy" fill="#D6DFEA" x="91" y="152" width="360" height="20" rx="10"></rect>
+                <rect id="Rectangle-2-Copy-2" fill="#D6DFEA" x="91" y="192" width="300" height="20" rx="10"></rect>
+                <g id="Rectangle-59">
+                    <use fill="#1F1845" xlink:href="#path-4"></use>
+                    <use fill="url(#linearGradient-3)" xlink:href="#path-4"></use>
+                </g>
+                <g id="Rectangle-59-Copy">
+                    <use fill="#1F1845" xlink:href="#path-5"></use>
+                    <use fill="url(#linearGradient-3)" xlink:href="#path-5"></use>
+                </g>
+                <g id="Rectangle">
+                    <use fill="#1F1845" xlink:href="#path-6"></use>
+                    <use fill="url(#linearGradient-3)" xlink:href="#path-6"></use>
+                </g>
+                <g id="Rectangle-60">
+                    <use fill="#1F1845" xlink:href="#path-7"></use>
+                    <use fill="url(#linearGradient-3)" xlink:href="#path-7"></use>
+                </g>
+                <g id="Rectangle-60-Copy">
+                    <use fill="#1F1845" xlink:href="#path-8"></use>
+                    <use fill="url(#linearGradient-3)" xlink:href="#path-8"></use>
+                </g>
+                <path d="M0,395 C44.6387909,282.966682 148.649731,218.446514 290.093481,306.723257 C431.537231,395 555.464744,136 664,136" id="Path-67" stroke="#E2628C" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"></path>
+                <circle id="Oval-4" fill="#E2628C" cx="146" cy="266" r="15"></circle>
+                <circle id="Oval-4-Copy" fill="#E2628C" cx="332" cy="321" r="15"></circle>
+                <circle id="Oval-4-Copy-2" fill="#E2628C" cx="518" cy="233" r="15"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

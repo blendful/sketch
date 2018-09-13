@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="604px" height="733px" viewBox="0 0 604 733" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>House</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#E2EAF5" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#B6C5D9" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-2" points="0 273 275 0 550 273 550 675 0 675"></polygon>
+        <linearGradient x1="100%" y1="100%" x2="0%" y2="-4.25699694%" id="linearGradient-4">
+            <stop stop-color="#E2EAF5" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#757DC0" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#464D89" offset="100%"></stop>
+        </linearGradient>
+        <path d="M575.248016,327.248016 L321.606602,73.6066017 C315.748737,67.7487373 306.251263,67.7487373 300.393398,73.6066017 L46.751984,327.248016 C38.1893962,335.810604 24.3066983,335.810604 15.7441105,327.248016 C15.6620855,327.165991 15.5807128,327.083316 15.5,327 L15.5,327 C6.90007918,318.122662 7.01225399,303.987746 15.751984,295.248016 L293.32233,17.6776695 C303.085438,7.91456224 318.914562,7.91456224 328.67767,17.6776695 L606.248016,295.248016 C614.987746,303.987746 615.099921,318.122662 606.5,327 L606.5,327 C598.074388,335.697406 584.193438,335.917739 575.496032,327.492126 C575.412716,327.411414 575.330041,327.330041 575.248016,327.248016 Z" id="path-6"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-7">
+            <stop stop-color="#393E41" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-8" x="36" y="693" width="550" height="50"></rect>
+        <path d="M441,382 L441,382 C487.944204,382 526,420.055796 526,467 L526,693 L356,693 L356,467 C356,420.055796 394.055796,382 441,382 Z" id="path-9"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-10">
+            <stop stop-color="#A7A7EE" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#4C55A0" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+        <path d="M441,402 L441,402 C476.898509,402 506,431.101491 506,467 L506,693 L376,693 L376,467 C376,431.101491 405.101491,402 441,402 Z" id="path-11"></path>
+        <rect id="path-12" x="136" y="452" width="108" height="145"></rect>
+        <circle id="path-13" cx="311" cy="263" r="66"></circle>
+        <linearGradient x1="100%" y1="100%" x2="0%" y2="0%" id="linearGradient-14">
+            <stop stop-color="#E2EAF5" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Handsome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Primary" transform="translate(-1328.000000, -9625.000000)">
+            <g id="House" transform="translate(1319.000000, 9615.000000)">
+                <g id="Detail" transform="translate(36.000000, 18.000000)">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <g>
+                        <use fill="#E2EAF5" xlink:href="#path-2"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                    </g>
+                    <path d="M539.248016,339.248016 L285.606602,85.6066017 C279.748737,79.7487373 270.251263,79.7487373 264.393398,85.6066017 L10.751984,339.248016 C2.18939617,347.810604 -11.6933017,347.810604 -20.2558895,339.248016 C-20.3379145,339.165991 -20.4192872,339.083316 -20.5,339 L-20.5,339 C-29.0999208,330.122662 -28.987746,315.987746 -20.248016,307.248016 L257.32233,29.6776695 C267.085438,19.9145622 282.914562,19.9145622 292.67767,29.6776695 L570.248016,307.248016 C578.987746,315.987746 579.099921,330.122662 570.5,339 L570.5,339 C562.074388,347.697406 548.193438,347.917739 539.496032,339.492126 C539.412716,339.411414 539.330041,339.330041 539.248016,339.248016 Z" id="Sh" fill="url(#linearGradient-4)" mask="url(#mask-3)"></path>
+                </g>
+                <g id="Detail">
+                    <use fill="#5B64B0" xlink:href="#path-6"></use>
+                    <use fill="url(#linearGradient-5)" xlink:href="#path-6"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#393E41" xlink:href="#path-8"></use>
+                    <use fill="url(#linearGradient-7)" xlink:href="#path-8"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#5B64B0" xlink:href="#path-9"></use>
+                    <use fill="url(#linearGradient-5)" xlink:href="#path-9"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#A7A7EE" xlink:href="#path-11"></use>
+                    <use fill="url(#linearGradient-10)" xlink:href="#path-11"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#393E41" xlink:href="#path-12"></use>
+                    <use fill="url(#linearGradient-7)" xlink:href="#path-12"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#393E41" xlink:href="#path-13"></use>
+                    <use fill="url(#linearGradient-7)" xlink:href="#path-13"></use>
+                </g>
+                <rect id="Detail" stroke="#FFFFFF" stroke-width="20" x="126" y="442" width="128" height="165" rx="10"></rect>
+                <path d="M220.642974,575.851778 C218.217113,581.244888 212.797083,585 206.5,585 C201.148952,585 196.431227,582.288424 193.645924,578.164373 C191.580126,582.221213 187.364573,585 182.5,585 C178.630962,585 175.172482,583.24219 172.879615,580.481626 C168.804714,586.240437 162.091403,590 154.5,590 C147.382545,590 141.036963,586.695219 136.914024,581.536426 C134.092734,586.585828 128.695078,590 122.5,590 C113.387302,590 106,582.612698 106,573.5 C106,564.387302 113.387302,557 122.5,557 C126.497528,557 130.163026,558.421592 133.018528,560.786811 C135.874233,551.639316 144.411769,545 154.5,545 C164.913142,545 173.674094,552.073866 176.239573,561.678316 C178.080511,560.611019 180.2189,560 182.5,560 C186.250129,560 189.614547,561.651422 191.9057,564.266711 C194.052217,558.281377 199.776124,554 206.5,554 C210.96337,554 214.986111,555.886557 217.814321,558.905768 C220.218851,550.862626 227.674781,545 236.5,545 C245.839692,545 253.645793,551.566082 255.553971,560.333912 C257.483815,558.869213 259.8904,558 262.5,558 C268.851275,558 274,563.148725 274,569.5 C274,575.851275 268.851275,581 262.5,581 C258.320185,581 254.661198,578.770065 252.647815,575.434969 C249.140732,580.603837 243.216974,584 236.5,584 C229.965284,584 224.181322,580.785639 220.642974,575.851778 Z" id="Detail" fill="#52C883"></path>
+                <rect id="Detail" fill="url(#linearGradient-14)" x="96" y="588" width="188" height="44" rx="10"></rect>
+                <rect id="Detail" fill="#FFFFFF" x="96" y="573" width="188" height="44" rx="10"></rect>
+                <path d="M311,328 C346.898509,328 376,298.898509 376,263 C376,227.101491 346.898509,198 311,198 C275.101491,198 246,227.101491 246,263 C246,298.898509 275.101491,328 311,328 Z M311,348 C264.055796,348 226,309.944204 226,263 C226,216.055796 264.055796,178 311,178 C357.944204,178 396,216.055796 396,263 C396,309.944204 357.944204,348 311,348 Z M301,188 L321,188 L321,338 L301,338 L301,188 Z M241,253 L381,253 L381,273 L241,273 L241,253 Z" id="Detail" fill="#FFFFFF" fill-rule="nonzero"></path>
+                <circle id="Detail" fill="#FFFFFF" cx="401" cy="562" r="10"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

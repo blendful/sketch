@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1359px" height="763px" viewBox="0 0 1359 763" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Space</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M1254,618 C1040.587,847.241702 325.237512,771.794911 128,618 C-70.4648613,463.935178 -19.2354845,225.694709 153,168 C324.965367,110.290918 423.362777,229.049844 546,229 C668.869729,229.049844 816.474832,-89.99454 1119,25 C1319.60993,100.847529 1466.22661,387.827254 1254,618 Z" id="path-1"></path>
+        <path d="M1211.65832,584.605505 C1013.96057,771.784509 351.287769,710.181166 168.574374,584.605505 C-15.2759908,458.809458 32.1809724,264.282836 191.733432,217.174312 C351.035664,170.054052 442.187315,267.02235 555.793814,266.981651 C669.615699,267.02235 806.351501,6.51821965 1086.59941,100.412844 C1272.43689,162.343395 1408.25705,396.66629 1211.65832,584.605505 Z" id="path-3"></path>
+        <path d="M1160.08247,557.410223 C979.671488,708.535486 374.943052,658.797956 208.206186,557.410223 C40.4317667,455.844554 83.739075,298.786944 229.340206,260.752294 C374.712991,222.708167 457.894306,300.998783 561.56701,300.965924 C665.436266,300.998783 790.215837,90.6720136 1045.95876,166.480996 C1215.54654,216.482709 1339.49053,405.671178 1160.08247,557.410223 Z" id="path-5"></path>
+    </defs>
+    <g id="Handsome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Backgrounds" transform="translate(-409.000000, -2613.000000)">
+            <g id="Space" transform="translate(409.000000, 2613.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Details" fill="#F2F5F9" xlink:href="#path-1"></use>
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="Details" fill="#E2EAF5" xlink:href="#path-3"></use>
+                <mask id="mask-6" fill="white">
+                    <use xlink:href="#path-5"></use>
+                </mask>
+                <use id="Details" fill="#B6C5D9" xlink:href="#path-5"></use>
+                <circle id="Details" fill="#FFFFFF" mask="url(#mask-6)" cx="221.5" cy="345.5" r="12.5"></circle>
+                <circle id="Details" fill="#FFFFFF" mask="url(#mask-6)" cx="559.5" cy="397.5" r="12.5"></circle>
+                <circle id="Details" fill="#FFFFFF" mask="url(#mask-6)" cx="984.5" cy="292.5" r="7.5"></circle>
+                <circle id="Details" fill="#FFFFFF" mask="url(#mask-6)" cx="884.5" cy="392.5" r="7.5"></circle>
+                <circle id="Details" fill="#FFFFFF" mask="url(#mask-6)" cx="754.5" cy="562.5" r="7.5"></circle>
+                <circle id="Details" fill="#FFFFFF" mask="url(#mask-6)" cx="434.5" cy="562.5" r="7.5"></circle>
+                <circle id="Details" fill="#FFFFFF" mask="url(#mask-6)" cx="324.5" cy="442.5" r="7.5"></circle>
+                <circle id="Details" fill="#FFFFFF" mask="url(#mask-6)" cx="264.5" cy="532.5" r="7.5"></circle>
+                <circle id="Details" fill="#FFFFFF" mask="url(#mask-6)" cx="304.5" cy="282.5" r="7.5"></circle>
+                <circle id="Details" fill="#FFFFFF" mask="url(#mask-6)" cx="1114.5" cy="492.5" r="7.5"></circle>
+                <circle id="Details" fill="#FFFFFF" mask="url(#mask-6)" cx="1004.5" cy="572.5" r="7.5"></circle>
+                <circle id="Details" fill="#FFFFFF" mask="url(#mask-6)" cx="1124.5" cy="222.5" r="7.5"></circle>
+                <circle id="Details" fill="#FFFFFF" mask="url(#mask-6)" cx="1064.5" cy="312.5" r="7.5"></circle>
+                <circle id="Details" fill="#FFFFFF" mask="url(#mask-6)" cx="606.5" cy="475.5" r="12.5"></circle>
+                <circle id="Details" fill="#FFFFFF" mask="url(#mask-6)" cx="636.5" cy="505.5" r="12.5"></circle>
+                <circle id="Details" fill="#FFFFFF" mask="url(#mask-6)" cx="666.5" cy="345.5" r="12.5"></circle>
+                <circle id="Details" fill="#FFFFFF" mask="url(#mask-6)" cx="816.5" cy="285.5" r="12.5"></circle>
+                <circle id="Details" fill="#FFFFFF" mask="url(#mask-6)" cx="816.5" cy="466.5" r="12.5"></circle>
+                <circle id="Details" fill="#FFFFFF" mask="url(#mask-6)" cx="946.5" cy="450.5" r="12.5"></circle>
+                <polygon id="Details" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-6)" points="660.174698 345.226456 555.699067 401.154903 221.221168 345.370241 221.879205 341.424739 555.012793 396.985194 658.532413 341.568524 819.833401 282.235375 821.214305 285.989453"></polygon>
+                <polygon id="Details" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-6)" points="221.319529 338.347457 225.209674 339.278464 175.209674 548.199806 171.319529 547.268799"></polygon>
+                <polygon id="Details" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-6)" points="556.347398 395.223539 560.329964 395.596585 536.137072 653.875046 532.154505 653.502"></polygon>
+                <polygon id="Details" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-6)" points="636.621289 510.40898 606.219278 477.552208 557.415726 394.587554 560.863448 392.559448 609.448257 475.152245 637.991106 505.999741 817.995417 465.416319 948.986187 448.904616 949.486159 452.873246 818.781025 469.3396"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="508px" height="750px" viewBox="0 0 508 750" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Detail</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FEEC80" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFC42D" stop-opacity="0.7" offset="100%"></stop>
+        </linearGradient>
+        <path d="M393,489 C469.666667,387.339888 508,309.006554 508,254 C508,113.719674 394.280326,0 254,0 C113.719674,0 0,113.719674 0,254 C0,313.953355 38.3333333,392.286688 115,489 L393,489 Z" id="path-2"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#D6DFEA" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#B6C5D9" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <path d="M303,703 C303,728.957383 281.957383,750 256,750 L252,750 C226.042617,750 205,728.957383 205,703 L145,703 C128.431458,703 115,689.568542 115,673 L115,489 L393,489 L393,673 C393,689.568542 379.568542,703 363,703 L303,703 Z" id="path-4"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#B6C5D9" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#403F9F" stop-opacity="0.05" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-6" x="85" y="531" width="338" height="50" rx="25"></rect>
+        <rect id="path-7" x="85" y="611" width="338" height="50" rx="25"></rect>
+    </defs>
+    <g id="Handsome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Primary" transform="translate(-3116.000000, -7296.000000)">
+            <g id="Detail" transform="translate(3116.000000, 7296.000000)">
+                <g>
+                    <use fill="#FEEC80" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                </g>
+                <g>
+                    <use fill="#D6DFEA" xlink:href="#path-4"></use>
+                    <use fill="url(#linearGradient-3)" xlink:href="#path-4"></use>
+                </g>
+                <g>
+                    <use fill="#B6C5D9" xlink:href="#path-6"></use>
+                    <use fill="url(#linearGradient-5)" xlink:href="#path-6"></use>
+                </g>
+                <g>
+                    <use fill="#B6C5D9" xlink:href="#path-7"></use>
+                    <use fill="url(#linearGradient-5)" xlink:href="#path-7"></use>
+                </g>
+                <rect fill="#FFFFFF" x="206" y="454" width="96" height="35"></rect>
+                <path d="M294.46744,444 L332.215559,207.130548 L297.825976,179.251926 L264.678281,198.632781 C258.353501,202.330765 250.512958,202.274489 244.241912,198.486097 L211.165695,178.504476 L176.772296,207.054337 L214.53256,444 L294.46744,444 Z M204.778558,170.810031 C208.054308,168.09084 212.692509,167.743743 216.336486,169.9451 L249.412703,189.926721 C252.548226,191.820917 256.468498,191.849055 259.630888,190.000063 L292.778582,170.619208 C296.371613,168.518428 300.890174,168.862805 304.123338,171.483835 L338.512922,199.362458 C341.289355,201.613231 342.653434,205.174701 342.090946,208.704315 L303,454 L206,454 L166.896909,208.628104 C166.340945,205.139429 167.666944,201.616274 170.385159,199.359892 L204.778558,170.810031 Z" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

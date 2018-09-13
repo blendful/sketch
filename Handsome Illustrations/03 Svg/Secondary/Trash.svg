@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="670px" height="738px" viewBox="0 0 670 738" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Trash</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#E2EAF5" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#B6C5D9" offset="100%"></stop>
+        </linearGradient>
+        <path d="M133,704 L537,704 L537,704 C537,722.777681 521.777681,738 503,738 L167,738 C148.222319,738 133,722.777681 133,704 Z" id="path-2"></path>
+        <path d="M0,0 L550,0 L512.104705,499.270509 C510.917395,514.913323 497.878558,527 482.190749,527 L67.8092512,527 C52.1214425,527 39.0826052,514.913323 37.8952948,499.270509 L0,0 Z" id="path-3"></path>
+        <linearGradient x1="100%" y1="59.0915024%" x2="0%" y2="59.0915024%" id="linearGradient-5">
+            <stop stop-color="#E2EAF5" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#B6C5D9" stop-opacity="0.3" offset="100%"></stop>
+        </linearGradient>
+        <path d="M240,-1 L310,-1 L310,406 C310,425.329966 294.329966,441 275,441 L275,441 C255.670034,441 240,425.329966 240,406 L240,-1 Z" id="path-6"></path>
+        <path d="M385,-1 L455,-1 L455,406 C455,425.329966 439.329966,441 420,441 L420,441 C400.670034,441 385,425.329966 385,406 L385,-1 Z" id="path-7"></path>
+        <path d="M95,-1 L165,-1 L165,406 C165,425.329966 149.329966,441 130,441 L130,441 C110.670034,441 95,425.329966 95,406 L95,-1 Z" id="path-8"></path>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="0%" id="linearGradient-9">
+            <stop stop-color="#E2EAF5" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-10" x="0" y="73" width="670" height="104" rx="30"></rect>
+        <path d="M230,0 L440,0 C456.568542,-3.04359188e-15 470,13.4314575 470,30 L470,73 L200,73 L200,30 C200,13.4314575 213.431458,3.04359188e-15 230,0 Z" id="path-11"></path>
+    </defs>
+    <g id="Handsome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Secondary" transform="translate(-2121.000000, -6233.000000)">
+            <g id="Trash" transform="translate(2121.000000, 6233.000000)">
+                <g id="Detail">
+                    <use fill="#E2EAF5" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                </g>
+                <g id="Detail" transform="translate(60.000000, 177.000000)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g>
+                        <use fill="#E2EAF5" xlink:href="#path-3"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-3"></use>
+                    </g>
+                    <g mask="url(#mask-4)">
+                        <use fill="#E2EAF5" xlink:href="#path-6"></use>
+                        <use fill="url(#linearGradient-5)" xlink:href="#path-6"></use>
+                    </g>
+                    <g mask="url(#mask-4)">
+                        <use fill="#E2EAF5" xlink:href="#path-7"></use>
+                        <use fill="url(#linearGradient-5)" xlink:href="#path-7"></use>
+                    </g>
+                    <g mask="url(#mask-4)">
+                        <use fill="#E2EAF5" xlink:href="#path-8"></use>
+                        <use fill="url(#linearGradient-5)" xlink:href="#path-8"></use>
+                    </g>
+                    <rect id="Sh" fill="url(#linearGradient-9)" mask="url(#mask-4)" x="0" y="0" width="550" height="66"></rect>
+                </g>
+                <g id="Detail">
+                    <use fill="#E2EAF5" xlink:href="#path-10"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-10"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#E2EAF5" xlink:href="#path-11"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-11"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

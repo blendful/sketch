@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="662px" height="694px" viewBox="0 0 662 694" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Safari</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#393E41" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.4" offset="100%"></stop>
+        </linearGradient>
+        <path d="M158,533 L508,533 C509.656854,533 511,534.343146 511,536 L511,607 C511,608.656854 509.656854,610 508,610 L158,610 C156.343146,610 155,608.656854 155,607 L155,536 C155,534.343146 156.343146,533 158,533 Z" id="path-2"></path>
+        <path d="M185,513 L271,513 C282.045695,513 291,521.954305 291,533 L165,533 C165,521.954305 173.954305,513 185,513 Z" id="path-3"></path>
+        <path d="M395,513 L481,513 C492.045695,513 501,521.954305 501,533 L375,533 C375,521.954305 383.954305,513 395,513 Z" id="path-4"></path>
+        <linearGradient x1="50%" y1="107.971841%" x2="50%" y2="0%" id="linearGradient-5">
+            <stop stop-color="#000000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.301234149" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#D6DFEA" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#B6C5D9" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-7" points="155 533 511 533 511 553 392.333333 584 273.666667 584 155 553"></polygon>
+        <path d="M561,446 L626,446 C637.045695,446 646,454.954305 646,466 L646,674 C646,685.045695 637.045695,694 626,694 L561,694 C549.954305,694 541,685.045695 541,674 L541,466 C541,454.954305 549.954305,446 561,446 Z" id="path-8"></path>
+        <path d="M262.5,0 C272.164983,-1.7754286e-15 280,7.83501688 280,17.5 L280,110.5 C280,120.164983 272.164983,128 262.5,128 C252.835017,128 245,120.164983 245,110.5 L245,17.5 C245,7.83501688 252.835017,1.7754286e-15 262.5,0 Z" id="path-9"></path>
+        <path d="M401.5,0 C411.164983,-1.7754286e-15 419,7.83501688 419,17.5 L419,110.5 C419,120.164983 411.164983,128 401.5,128 C391.835017,128 384,120.164983 384,110.5 L384,17.5 C384,7.83501688 391.835017,1.7754286e-15 401.5,0 Z" id="path-10"></path>
+        <rect id="path-11" x="114" y="553" width="41" height="37"></rect>
+        <rect id="path-12" x="511" y="553" width="41" height="37"></rect>
+        <path d="M20,0 L85,0 C96.045695,-2.02906125e-15 105,8.954305 105,20 L105,228 C105,239.045695 96.045695,248 85,248 L20,248 C8.954305,248 1.3527075e-15,239.045695 0,228 L0,20 C-1.3527075e-15,8.954305 8.954305,2.02906125e-15 20,0 Z" id="path-13"></path>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-15">
+            <stop stop-color="#000000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.301234149" offset="100%"></stop>
+        </linearGradient>
+        <path d="M5.43771551,421 L125,421 C136.045695,421 145,429.954305 145,441 L145,640.616037 C145,642.272892 143.656854,643.616037 142,643.616037 C140.969788,643.616037 140.011636,643.087423 139.462223,642.21594 L2.8999387,425.599903 C2.0163368,424.198327 2.43623731,422.345825 3.83781274,421.462223 C4.31680571,421.160249 4.87148017,421 5.43771551,421 Z" id="path-16"></path>
+        <path d="M20,0 L85,0 C96.045695,-2.02906125e-15 105,8.954305 105,20 L105,228 C105,239.045695 96.045695,248 85,248 L20,248 C8.954305,248 1.3527075e-15,239.045695 0,228 L0,20 C-1.3527075e-15,8.954305 8.954305,2.02906125e-15 20,0 Z" id="path-17"></path>
+        <path d="M541,421 L660.562284,421 C662.219139,421 663.562284,422.343146 663.562284,424 C663.562284,424.566235 663.402035,425.12091 663.100061,425.599903 L526.537777,642.21594 C525.654175,643.617516 523.801673,644.037416 522.400097,643.153814 C521.528615,642.604401 521,641.646249 521,640.616037 L521,441 C521,429.954305 529.954305,421 541,421 Z" id="path-19"></path>
+        <path d="M304,438 L362,438 C363.656854,438 365,439.343146 365,441 L365,578 C365,595.673112 350.673112,610 333,610 C315.326888,610 301,595.673112 301,578 L301,441 C301,439.343146 302.343146,438 304,438 Z" id="path-20"></path>
+        <rect id="path-21" x="280" y="30" width="104" height="68"></rect>
+        <rect id="path-22" x="310" y="98" width="44" height="340"></rect>
+    </defs>
+    <g id="Handsome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Secondary" transform="translate(-3865.000000, -5097.000000)">
+            <g id="Safari" transform="translate(3863.000000, 5097.000000)">
+                <g id="Detail">
+                    <use fill="#393E41" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#393E41" xlink:href="#path-3"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-3"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#393E41" xlink:href="#path-4"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-4"></use>
+                </g>
+                <polygon id="Detail" fill="url(#linearGradient-5)" points="155 539 511 539 511 579 392.333333 610 273.666667 610 155 579"></polygon>
+                <g id="Detail">
+                    <use fill="#D6DFEA" xlink:href="#path-7"></use>
+                    <use fill="url(#linearGradient-6)" xlink:href="#path-7"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#393E41" xlink:href="#path-8"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-8"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#393E41" xlink:href="#path-9"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-9"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#393E41" xlink:href="#path-10"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-10"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#393E41" xlink:href="#path-11"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-11"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#393E41" xlink:href="#path-12"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-12"></use>
+                </g>
+                <g id="Detail" transform="translate(20.000000, 446.000000)">
+                    <mask id="mask-14" fill="white">
+                        <use xlink:href="#path-13"></use>
+                    </mask>
+                    <g>
+                        <use fill="#393E41" xlink:href="#path-13"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-13"></use>
+                    </g>
+                    <path d="M-24.5622845,-5 L95,-5 C106.045695,-5 115,3.954305 115,15 L115,214.616037 C115,216.272892 113.656854,217.616037 112,217.616037 C110.969788,217.616037 110.011636,217.087423 109.462223,216.21594 L-27.1000613,-0.40009723 C-27.9836632,-1.80167266 -27.5637627,-3.65417491 -26.1621873,-4.53777681 C-25.6831943,-4.83975064 -25.1285198,-5 -24.5622845,-5 Z" fill="url(#linearGradient-15)" mask="url(#mask-14)"></path>
+                </g>
+                <g id="Detail">
+                    <use fill="#D6DFEA" xlink:href="#path-16"></use>
+                    <use fill="url(#linearGradient-6)" xlink:href="#path-16"></use>
+                </g>
+                <g id="Detail" transform="translate(541.000000, 446.000000)">
+                    <mask id="mask-18" fill="white">
+                        <use xlink:href="#path-17"></use>
+                    </mask>
+                    <g>
+                        <use fill="#393E41" xlink:href="#path-17"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-17"></use>
+                    </g>
+                    <path d="M10,-5 L129.562284,-5 C131.219139,-5 132.562284,-3.65685425 132.562284,-2 C132.562284,-1.43376466 132.402035,-0.879090203 132.100061,-0.40009723 L-4.46222319,216.21594 C-5.34582509,217.617516 -7.19832734,218.037416 -8.59990277,217.153814 C-9.47138533,216.604401 -10,215.646249 -10,214.616037 L-10,15 C-10,3.954305 -1.045695,-5 10,-5 Z" fill="url(#linearGradient-15)" mask="url(#mask-18)"></path>
+                </g>
+                <g id="Detail">
+                    <use fill="#D6DFEA" xlink:href="#path-19"></use>
+                    <use fill="url(#linearGradient-6)" xlink:href="#path-19"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#D6DFEA" xlink:href="#path-20"></use>
+                    <use fill="url(#linearGradient-6)" xlink:href="#path-20"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#D6DFEA" xlink:href="#path-21"></use>
+                    <use fill="url(#linearGradient-6)" xlink:href="#path-21"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#D6DFEA" xlink:href="#path-22"></use>
+                    <use fill="url(#linearGradient-6)" xlink:href="#path-22"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

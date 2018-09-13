@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="603px" height="655px" viewBox="0 0 603 655" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Cake</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#403F9F" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+        <path d="M30,0 L573,0 C589.568542,-3.04359188e-15 603,13.4314575 603,30 L603,243 C603,248.522847 598.522847,253 593,253 L10,253 C4.4771525,253 6.76353751e-16,248.522847 0,243 L0,30 C-2.02906125e-15,13.4314575 13.4314575,3.04359188e-15 30,0 Z" id="path-2"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#A7A7EE" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#4C55A0" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+        <path d="M603,69 L603,70 C603,88.5015391 588.001539,103.5 569.5,103.5 C550.998461,103.5 536,88.5015391 536,70 L536,69 C536,50.4984609 521.001539,35.5 502.5,35.5 C483.998461,35.5 469,50.4984609 469,69 L469,70.0000001 C469,88.5015391 454.001539,103.5 435.5,103.5 C416.998461,103.5 402,88.5015391 402,70 L402,69 C402,50.4984609 387.001539,35.5 368.5,35.5 C349.998461,35.5 335,50.4984609 335,69 L335,70 C335,88.5015391 320.001539,103.5 301.5,103.5 C282.998461,103.5 268,88.5015391 268,70 L268,69 C268,50.4984609 253.001539,35.5 234.5,35.5 C215.998461,35.5 201,50.4984609 201,69 L201,70 C201,88.5015391 186.001539,103.5 167.5,103.5 C148.998461,103.5 134,88.5015391 134,70 L134,69 C134,50.4984609 119.001539,35.5 100.5,35.5 C81.9984609,35.5 67,50.4984609 67,69 L67,70 C67,88.5015391 52.0015391,103.5 33.5,103.5 C14.9984609,103.5 0,88.5015391 0,70 L0,0 L603,0 C603,33.6656406 603,56.6656406 603,69 Z" id="path-5"></path>
+        <path d="M30,0 L439,3.55271368e-15 C455.568542,5.09121799e-16 469,13.4314575 469,30 L469,203 L0,203 L0,30 C-2.02906125e-15,13.4314575 13.4314575,6.59630556e-15 30,0 Z" id="path-6"></path>
+        <path d="M469,69 L469,70.0000001 C469,88.5015391 454.001539,103.5 435.5,103.5 C416.998461,103.5 402,88.5015391 402,70 L402,69 C402,50.4984609 387.001539,35.5 368.5,35.5 C349.998461,35.5 335,50.4984609 335,69 L335,70 C335,88.5015391 320.001539,103.5 301.5,103.5 C282.998461,103.5 268,88.5015391 268,70 L268,69 C268,50.4984609 253.001539,35.5 234.5,35.5 C215.998461,35.5 201,50.4984609 201,69 L201,70 C201,88.5015391 186.001539,103.5 167.5,103.5 C148.998461,103.5 134,88.5015391 134,70 L134,69 C134,50.4984609 119.001539,35.5 100.5,35.5 C81.9984609,35.5 67,50.4984609 67,69 L67,70 C67,88.5015391 52.0015391,103.5 33.5,103.5 C14.9984609,103.5 0,88.5015391 0,70 L0,0 L469,0 C469,33.6656406 469,56.6656406 469,69 Z" id="path-8"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-9">
+            <stop stop-color="#FDC8C8" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#E8799D" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <path d="M232,159 L371,159 C387.568542,159 401,172.431458 401,189 L401,199 L202,199 L202,189 C202,172.431458 215.431458,159 232,159 Z" id="path-10"></path>
+        <path d="M301.5,76 C312.269553,76 321,84.7304474 321,95.5 L321,159 L282,159 L282,95.5 C282,84.7304474 290.730447,76 301.5,76 Z" id="path-11"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-12">
+            <stop stop-color="#FFC62C" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FF6663" stop-opacity="0.3" offset="100%"></stop>
+        </linearGradient>
+        <path d="M301.5,66 C311.25,66 321,55.7025492 321,43 C321,30.2974508 303.512934,0 301.5,0 C299.487066,0 282,30.2974508 282,43 C282,55.7025492 291.75,66 301.5,66 Z" id="path-13"></path>
+    </defs>
+    <g id="Handsome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Secondary" transform="translate(-1285.000000, -6274.000000)">
+            <g id="Cake" transform="translate(1285.000000, 6274.000000)">
+                <g id="Group" transform="translate(0.000000, 402.000000)">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <g id="Detail">
+                        <use fill="#464D89" xlink:href="#path-2"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                    </g>
+                    <circle id="Detail" fill="#FFFDFD" mask="url(#mask-3)" cx="314.5" cy="176.5" r="12.5"></circle>
+                    <circle id="Detail" fill="#FFFDFD" mask="url(#mask-3)" cx="216.5" cy="126.5" r="12.5"></circle>
+                    <circle id="Detail" fill="#FFFDFD" mask="url(#mask-3)" cx="141.5" cy="210.5" r="12.5"></circle>
+                    <circle id="Detail" fill="#FFFDFD" mask="url(#mask-3)" cx="513.5" cy="100.5" r="12.5"></circle>
+                    <circle id="Detail" fill="#E8799D" mask="url(#mask-3)" cx="430.5" cy="163.5" r="12.5"></circle>
+                    <circle id="Detail" fill="#E8799D" mask="url(#mask-3)" cx="68.5" cy="151.5" r="12.5"></circle>
+                    <circle id="Detail" fill="#E8799D" mask="url(#mask-3)" cx="568.5" cy="222.5" r="12.5"></circle>
+                    <g id="Detail" mask="url(#mask-3)">
+                        <use fill="#A7A7EE" xlink:href="#path-5"></use>
+                        <use fill="url(#linearGradient-4)" xlink:href="#path-5"></use>
+                    </g>
+                </g>
+                <g id="Group-2" transform="translate(67.000000, 199.000000)">
+                    <mask id="mask-7" fill="white">
+                        <use xlink:href="#path-6"></use>
+                    </mask>
+                    <g id="Rectangle-68-Copy">
+                        <use fill="#464D89" xlink:href="#path-6"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-6"></use>
+                    </g>
+                    <circle id="Oval" fill="#FFFDFD" mask="url(#mask-7)" cx="196.5" cy="124.5" r="12.5"></circle>
+                    <circle id="Oval-Copy-3" fill="#FFFDFD" mask="url(#mask-7)" cx="318.5" cy="161.5" r="12.5"></circle>
+                    <circle id="Oval-Copy" fill="#E8799D" mask="url(#mask-7)" cx="363.5" cy="116.5" r="12.5"></circle>
+                    <circle id="Oval-Copy-4" fill="#E8799D" mask="url(#mask-7)" cx="143.5" cy="161.5" r="12.5"></circle>
+                    <circle id="Oval-Copy-2" fill="#E8799D" mask="url(#mask-7)" cx="65.5" cy="136.5" r="12.5"></circle>
+                    <g id="Combined-Shape-Copy" mask="url(#mask-7)">
+                        <use fill="#A7A7EE" xlink:href="#path-8"></use>
+                        <use fill="url(#linearGradient-4)" xlink:href="#path-8"></use>
+                    </g>
+                </g>
+                <g id="Detail">
+                    <use fill="#FDC8C8" xlink:href="#path-10"></use>
+                    <use fill="url(#linearGradient-9)" xlink:href="#path-10"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#FDC8C8" xlink:href="#path-11"></use>
+                    <use fill="url(#linearGradient-9)" xlink:href="#path-11"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#FFC62C" xlink:href="#path-13"></use>
+                    <use fill="url(#linearGradient-12)" xlink:href="#path-13"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

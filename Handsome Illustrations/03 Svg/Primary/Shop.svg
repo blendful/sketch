@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="630px" height="661px" viewBox="0 0 630 661" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Shop</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#464D89" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.05" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="40" y="189" width="550" height="442"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#D6DFEA" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#B6C5D9" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-4" x="0" y="0" width="113" height="226"></rect>
+        <rect id="path-6" x="90" y="574" width="113" height="37"></rect>
+        <rect id="path-7" x="0" y="0" width="297" height="246" rx="3"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-9">
+            <stop stop-color="#464D89" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-10" points="-23 20.2738636 -5.72613639 3 316.5 325.226136 299.226136 342.5"></polygon>
+        <linearGradient x1="53.5251615%" y1="0%" x2="50%" y2="100%" id="linearGradient-11">
+            <stop stop-color="#C74D75" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#AF3B6E" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-12" points="292 0 338 0 350 112 280 112"></polygon>
+        <polygon id="path-13" points="527 0 590 0 630 112 560 112"></polygon>
+        <path d="M0,112 L70,112 L70,147 C70,166.329966 54.3299662,182 35,182 L35,182 C15.6700338,182 2.36723813e-15,166.329966 0,147 L0,112 Z" id="path-14"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-15">
+            <stop stop-color="#FCF2F2" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FDC8C8" stop-opacity="0.05" offset="100%"></stop>
+        </linearGradient>
+        <path d="M70,112 L140,112 L140,147 C140,166.329966 124.329966,182 105,182 L105,182 C85.6700338,182 70,166.329966 70,147 L70,112 Z" id="path-16"></path>
+        <path d="M140,112 L210,112 L210,147 C210,166.329966 194.329966,182 175,182 L175,182 C155.670034,182 140,166.329966 140,147 L140,112 Z" id="path-17"></path>
+        <path d="M210,112 L280,112 L280,147 C280,166.329966 264.329966,182 245,182 L245,182 C225.670034,182 210,166.329966 210,147 L210,112 Z" id="path-18"></path>
+        <path d="M280,112 L350,112 L350,147 C350,166.329966 334.329966,182 315,182 L315,182 C295.670034,182 280,166.329966 280,147 L280,112 Z" id="path-19"></path>
+        <path d="M350,112 L420,112 L420,147 C420,166.329966 404.329966,182 385,182 L385,182 C365.670034,182 350,166.329966 350,147 L350,112 Z" id="path-20"></path>
+        <path d="M420,112 L490,112 L490,147 C490,166.329966 474.329966,182 455,182 L455,182 C435.670034,182 420,166.329966 420,147 L420,112 Z" id="path-21"></path>
+        <path d="M490,112 L560,112 L560,147 C560,166.329966 544.329966,182 525,182 L525,182 C505.670034,182 490,166.329966 490,147 L490,112 Z" id="path-22"></path>
+        <path d="M560,112 L630,112 L630,147 C630,166.329966 614.329966,182 595,182 L595,182 C575.670034,182 560,166.329966 560,147 L560,112 Z" id="path-23"></path>
+        <polygon id="path-24" points="0 0 63 0 103 112 33 112"></polygon>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-25">
+            <stop stop-color="#FFFDFD" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FDC8C8" stop-opacity="0.05" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-26" points="464 0 527 0 560 112 490 112"></polygon>
+        <polygon id="path-27" points="70 0 133 0 166 112 96 112"></polygon>
+        <polygon id="path-28" points="401 0 464 0 490 112 420 112"></polygon>
+        <polygon id="path-29" points="140 0 203 0 229 112 159 112"></polygon>
+        <polygon id="path-30" points="338 0 401 0 420 112 350 112"></polygon>
+        <polygon id="path-31" points="210 0 273 0 292 112 222 112"></polygon>
+        <path d="M13,631 L617,631 C618.656854,631 620,632.343146 620,634 L620,658 C620,659.656854 618.656854,661 617,661 L13,661 C11.3431458,661 10,659.656854 10,658 L10,634 C10,632.343146 11.3431458,631 13,631 Z" id="path-32"></path>
+        <rect id="path-33" x="110" y="0" width="410" height="90" rx="45"></rect>
+    </defs>
+    <g id="Handsome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Primary" transform="translate(-2185.000000, -8498.000000)">
+            <g id="Shop" transform="translate(2185.000000, 8498.000000)">
+                <g id="Detail">
+                    <use fill="#464D89" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                </g>
+                <rect id="Detail" fill="#F7F7F8" x="70" y="315" width="153" height="316"></rect>
+                <g id="Detail" transform="translate(90.000000, 335.000000)">
+                    <mask id="mask-5" fill="white">
+                        <use xlink:href="#path-4"></use>
+                    </mask>
+                    <g>
+                        <use fill="#D6DFEA" xlink:href="#path-4"></use>
+                        <use fill="url(#linearGradient-3)" xlink:href="#path-4"></use>
+                    </g>
+                    <rect fill="#FFFFFF" opacity="0.5" mask="url(#mask-5)" transform="translate(49.750000, 162.750000) rotate(-45.000000) translate(-49.750000, -162.750000) " x="37.5355339" y="-65.0982861" width="24.4289322" height="455.696572"></rect>
+                    <rect fill="#FFFFFF" opacity="0.5" mask="url(#mask-5)" transform="translate(49.750000, 212.750000) rotate(-45.000000) translate(-49.750000, -212.750000) " x="37.5355339" y="-15.0982861" width="24.4289322" height="455.696572"></rect>
+                </g>
+                <g id="Detail">
+                    <use fill="#D6DFEA" xlink:href="#path-6"></use>
+                    <use fill="url(#linearGradient-3)" xlink:href="#path-6"></use>
+                </g>
+                <g id="Detail" transform="translate(253.000000, 315.000000)">
+                    <mask id="mask-8" fill="white">
+                        <use xlink:href="#path-7"></use>
+                    </mask>
+                    <g>
+                        <use fill="#D6DFEA" xlink:href="#path-7"></use>
+                        <use fill="url(#linearGradient-3)" xlink:href="#path-7"></use>
+                    </g>
+                    <polygon fill="#FFFFFF" opacity="0.5" mask="url(#mask-8)" points="-102 73.5477272 -57.4522728 29 264.773864 351.226136 220.226136 395.773864"></polygon>
+                    <g opacity="0.5" mask="url(#mask-8)">
+                        <use fill="#FFFFFF" xlink:href="#path-10"></use>
+                        <use fill="url(#linearGradient-9)" xlink:href="#path-10"></use>
+                    </g>
+                    <path d="M95,0 L99,0 C100.656854,-3.04359188e-16 102,1.34314575 102,3 L102,243 C102,244.656854 100.656854,246 99,246 L95,246 C93.3431458,246 92,244.656854 92,243 L92,3 C92,1.34314575 93.3431458,3.04359188e-16 95,0 Z" fill="#464D89" mask="url(#mask-8)"></path>
+                    <polygon fill="#464D89" mask="url(#mask-8)" points="0 118 297 118 297 128 0 128"></polygon>
+                    <path d="M198,0 L202,0 C203.656854,-3.04359188e-16 205,1.34314575 205,3 L205,243 C205,244.656854 203.656854,246 202,246 L198,246 C196.343146,246 195,244.656854 195,243 L195,3 C195,1.34314575 196.343146,3.04359188e-16 198,0 Z" fill="#464D89" mask="url(#mask-8)"></path>
+                </g>
+                <g id="Detail" transform="translate(0.000000, 219.000000)">
+                    <g>
+                        <use fill="#FF6663" xlink:href="#path-12"></use>
+                        <use fill="url(#linearGradient-11)" xlink:href="#path-12"></use>
+                    </g>
+                    <g>
+                        <use fill="#FF6663" xlink:href="#path-13"></use>
+                        <use fill="url(#linearGradient-11)" xlink:href="#path-13"></use>
+                    </g>
+                    <g>
+                        <use fill="#FF6663" xlink:href="#path-14"></use>
+                        <use fill="url(#linearGradient-11)" xlink:href="#path-14"></use>
+                    </g>
+                    <g>
+                        <use fill="#FCF2F2" xlink:href="#path-16"></use>
+                        <use fill="url(#linearGradient-15)" xlink:href="#path-16"></use>
+                    </g>
+                    <g>
+                        <use fill="#FF6663" xlink:href="#path-17"></use>
+                        <use fill="url(#linearGradient-11)" xlink:href="#path-17"></use>
+                    </g>
+                    <g>
+                        <use fill="#FCF2F2" xlink:href="#path-18"></use>
+                        <use fill="url(#linearGradient-15)" xlink:href="#path-18"></use>
+                    </g>
+                    <g>
+                        <use fill="#FF6663" xlink:href="#path-19"></use>
+                        <use fill="url(#linearGradient-11)" xlink:href="#path-19"></use>
+                    </g>
+                    <g>
+                        <use fill="#FCF2F2" xlink:href="#path-20"></use>
+                        <use fill="url(#linearGradient-15)" xlink:href="#path-20"></use>
+                    </g>
+                    <g>
+                        <use fill="#FF6663" xlink:href="#path-21"></use>
+                        <use fill="url(#linearGradient-11)" xlink:href="#path-21"></use>
+                    </g>
+                    <g>
+                        <use fill="#FCF2F2" xlink:href="#path-22"></use>
+                        <use fill="url(#linearGradient-15)" xlink:href="#path-22"></use>
+                    </g>
+                    <g>
+                        <use fill="#FF6663" xlink:href="#path-23"></use>
+                        <use fill="url(#linearGradient-11)" xlink:href="#path-23"></use>
+                    </g>
+                    <g transform="translate(51.500000, 56.000000) scale(-1, 1) translate(-51.500000, -56.000000) ">
+                        <use fill="#FF6663" xlink:href="#path-24"></use>
+                        <use fill="url(#linearGradient-11)" xlink:href="#path-24"></use>
+                    </g>
+                    <g>
+                        <use fill="#FFFDFD" xlink:href="#path-26"></use>
+                        <use fill="url(#linearGradient-25)" xlink:href="#path-26"></use>
+                    </g>
+                    <g transform="translate(118.000000, 56.000000) scale(-1, 1) translate(-118.000000, -56.000000) ">
+                        <use fill="#FFFDFD" xlink:href="#path-27"></use>
+                        <use fill="url(#linearGradient-25)" xlink:href="#path-27"></use>
+                    </g>
+                    <g>
+                        <use fill="#FF6663" xlink:href="#path-28"></use>
+                        <use fill="url(#linearGradient-11)" xlink:href="#path-28"></use>
+                    </g>
+                    <g transform="translate(184.500000, 56.000000) scale(-1, 1) translate(-184.500000, -56.000000) ">
+                        <use fill="#FF6663" xlink:href="#path-29"></use>
+                        <use fill="url(#linearGradient-11)" xlink:href="#path-29"></use>
+                    </g>
+                    <g>
+                        <use fill="#FFFDFD" xlink:href="#path-30"></use>
+                        <use fill="url(#linearGradient-25)" xlink:href="#path-30"></use>
+                    </g>
+                    <g transform="translate(251.000000, 56.000000) scale(-1, 1) translate(-251.000000, -56.000000) ">
+                        <use fill="#FFFDFD" xlink:href="#path-31"></use>
+                        <use fill="url(#linearGradient-25)" xlink:href="#path-31"></use>
+                    </g>
+                </g>
+                <g id="Detail">
+                    <use fill="#464D89" xlink:href="#path-32"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-32"></use>
+                </g>
+                <rect id="Detail" fill="#D6DFEA" x="20" y="139" width="590" height="50" rx="3"></rect>
+                <rect id="Detail" fill="#464D89" x="190" y="90" width="10" height="49"></rect>
+                <g id="Detail">
+                    <use fill="#FF6663" xlink:href="#path-33"></use>
+                    <use fill="url(#linearGradient-11)" xlink:href="#path-33"></use>
+                </g>
+                <rect id="Detail" fill="#464D89" x="430" y="90" width="10" height="49"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

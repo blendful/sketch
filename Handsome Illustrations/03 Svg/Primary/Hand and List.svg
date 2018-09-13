@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="387px" height="772px" viewBox="0 0 387 772" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Hand and List</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFC62C" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FF6663" stop-opacity="0.3" offset="100%"></stop>
+        </linearGradient>
+        <path d="M146,445 C125.818575,453.136648 122.010605,472.315751 130,481 C137.392174,490.050982 180.013667,481.822799 189,473 C194.640259,467.380825 195.640259,450.380825 192,422 C174.410172,431.778185 159.076839,439.444852 146,445 Z" id="path-2"></path>
+        <path d="M131,417 C110.818575,425.136648 107.010605,444.315751 115,453 C122.392174,462.050982 165.013667,453.822799 174,445 C179.640259,439.380825 180.640259,422.380825 177,394 C159.410172,403.778185 144.076839,411.444852 131,417 Z" id="path-3"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#F7F7F8" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.05" offset="100%"></stop>
+        </linearGradient>
+        <path d="M9.96194698,29.9815755 L342.690976,0.871557427 C348.192808,0.390209552 353.043133,4.46011558 353.524481,9.96194698 L386.817974,390.508322 C387.299322,396.010153 383.229416,400.860478 377.727585,401.341826 L44.9985556,430.451844 C39.4967242,430.933192 34.646399,426.863286 34.1650512,421.361455 L0.871557427,40.8150799 C0.390209552,35.3132485 4.46011558,30.4629234 9.96194698,29.9815755 Z" id="path-5"></path>
+        <path d="M10,469 C-20.3548829,434.517921 29.6314035,366.906462 22,333 C14.4469441,298.519702 -2.66549177,263.907958 6,207 C10.0140357,181.307877 8.50414591,118.258692 10,87 C12.1874082,41.6184214 14.95246,7.33704246e-14 35,0 C53.2091205,-3.79682283e-14 68.10876,23.5293584 70,83 C69.9794996,92.0871258 67.9794996,109.420459 64,135 L174,125 C188.666667,152.999493 196,172.999493 196,185 C196,203.856889 126.983163,314.404148 128,333 C126.983163,351.022017 151.785782,443.97908 128,469 C102.180545,493.443523 40.3829543,502.904681 10,469 Z" id="path-6"></path>
+        <linearGradient x1="0%" y1="7.97853768%" x2="100%" y2="37.358793%" id="linearGradient-8">
+            <stop stop-color="#000000" stop-opacity="0.1" offset="0%"></stop>
+            <stop stop-color="#FFC22D" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Handsome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Primary" transform="translate(-4046.000000, -6127.000000)">
+            <g id="Hand-and-List" transform="translate(4046.000000, 6127.000000)">
+                <g id="Thinger">
+                    <use fill="#FFC62C" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                </g>
+                <g id="Thinger">
+                    <use fill="#FFC62C" xlink:href="#path-3"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-3"></use>
+                </g>
+                <g id="List">
+                    <use fill="#F7F7F8" xlink:href="#path-5"></use>
+                    <use fill="url(#linearGradient-4)" xlink:href="#path-5"></use>
+                </g>
+                <g id="Group" transform="translate(144.000000, 281.000000)">
+                    <mask id="mask-7" fill="white">
+                        <use xlink:href="#path-6"></use>
+                    </mask>
+                    <g id="Hand">
+                        <use fill="#FFC62C" xlink:href="#path-6"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-6"></use>
+                    </g>
+                    <polygon id="Sh" fill="url(#linearGradient-8)" mask="url(#mask-7)" points="64 135 72 161 181 139 174 125"></polygon>
+                    <path d="M64.1959807,134.646064 C64.1959807,133.817637 64.8675535,133.146064 65.6959807,133.146064 C66.5244078,133.146064 67.1959807,133.817637 67.1959807,134.646064 C67.1959807,137.122384 67.8939182,140.925788 69.3917331,147.000825 C70.0119324,149.516312 73.3624996,162.34107 74.3176615,166.184197 C78.252527,182.016262 80.5695115,194.778678 81.3016289,207.255897 C81.4515268,209.810554 81.5279159,212.311674 81.5279159,214.760901 C81.5279159,215.589328 80.856343,216.260901 80.0279159,216.260901 C79.1994888,216.260901 78.5279159,215.589328 78.5279159,214.760901 C78.5279159,212.371565 78.4533134,209.928941 78.3067799,207.431623 C77.5875763,195.174489 75.3002917,182.575666 71.4062351,166.907796 C70.4570782,163.088831 67.1055627,150.260443 66.4789581,147.718977 C64.9232494,141.409126 64.1959807,137.445883 64.1959807,134.646064 Z" id="Line" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-7)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="656px" height="496px" viewBox="0 0 656 496" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Camera</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#393E41" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+        <path d="M3,118 L653,118 C654.656854,118 656,119.343146 656,121 L656,461 C656,480.329966 640.329966,496 621,496 L16,496 C7.163444,496 1.082166e-15,488.836556 0,480 L0,121 C-2.02906125e-16,119.343146 1.34314575,118 3,118 Z" id="path-2"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#6F7981" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#4E565C" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+        <path d="M345,0 L440,0 C443.313708,-6.08718376e-16 446,2.6862915 446,6 L446,12 L339,12 L339,6 C339,2.6862915 341.686292,6.08718376e-16 345,0 Z" id="path-4"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#4E565C" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+        <path d="M335,12 L450,12 C450.552285,12 451,12.4477153 451,13 L451,19 L334,19 L334,13 C334,12.4477153 334.447715,12 335,12 Z" id="path-6"></path>
+        <path d="M257,110 L267,118 L165,118 L175,110 L173,110 C168.581722,110 165,106.418278 165,102 L165,84 C165,79.581722 168.581722,76 173,76 L259,76 C263.418278,76 267,79.581722 267,84 L267,102 C267,106.418278 263.418278,110 259,110 L257,110 Z" id="path-7"></path>
+        <path d="M8,107 L95,107 C95.5522847,107 96,107.447715 96,108 L96,117 C96,117.552285 95.5522847,118 95,118 L8,118 C7.44771525,118 7,117.552285 7,117 L7,108 C7,107.447715 7.44771525,107 8,107 Z" id="path-8"></path>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="53.366205%" id="linearGradient-9">
+            <stop stop-color="#393E41" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="0%" id="linearGradient-10">
+            <stop stop-color="#4E565C" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#393E41" stop-opacity="0.6" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0,128 L180,128 C165.106523,154.666667 135.106523,168 90,168 C44.8934768,168 14.8934768,154.666667 0,128 Z" id="path-11"></path>
+        <ellipse id="path-12" cx="108.5" cy="137" rx="47.5" ry="22"></ellipse>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-13">
+            <stop stop-color="#4E565C" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <ellipse id="path-14" cx="108.5" cy="127" rx="37.5" ry="17"></ellipse>
+        <ellipse id="path-15" cx="108.5" cy="119.5" rx="28.5" ry="9.5"></ellipse>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-16">
+            <stop stop-color="#4E565C" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.6" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-17" points="287 83 497 83 520 151 264 151"></polygon>
+        <circle id="path-18" cx="392.5" cy="285.5" r="192.5"></circle>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-19">
+            <stop stop-color="#6F7981" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.05" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-20" cx="392.5" cy="285.5" r="122.5"></circle>
+        <circle id="path-21" cx="392.5" cy="285.5" r="84.5"></circle>
+        <path d="M497,83 L287,83 L305,29 C307.411074,23.0843189 313.114475,19 320,19 L465,19 C471.330255,19 477.058205,23.1314514 479,29 L497,83 Z" id="path-22"></path>
+    </defs>
+    <g id="Handsome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Primary" transform="translate(-3912.000000, -3949.000000)">
+            <g id="Camera" transform="translate(3912.000000, 3949.000000)">
+                <g id="Detail">
+                    <use fill="#393E41" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#6F7981" xlink:href="#path-4"></use>
+                    <use fill="url(#linearGradient-3)" xlink:href="#path-4"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#4E565C" xlink:href="#path-6"></use>
+                    <use fill="url(#linearGradient-5)" xlink:href="#path-6"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#393E41" xlink:href="#path-7"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-7"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#393E41" xlink:href="#path-8"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-8"></use>
+                </g>
+                <polygon id="Detail" fill="url(#linearGradient-9)" points="1.87350135e-15 128 180 128 180 496 0 496"></polygon>
+                <g id="Detail">
+                    <use fill="#4E565C" xlink:href="#path-11"></use>
+                    <use fill="url(#linearGradient-10)" xlink:href="#path-11"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#393E41" xlink:href="#path-12"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-12"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#4E565C" xlink:href="#path-14"></use>
+                    <use fill="url(#linearGradient-13)" xlink:href="#path-14"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#393E41" xlink:href="#path-15"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-15"></use>
+                </g>
+                <circle id="Detail" fill="#6C767E" cx="219.5" cy="135.5" r="8.5"></circle>
+                <g id="Detail">
+                    <use fill="#4E565C" xlink:href="#path-17"></use>
+                    <use fill="url(#linearGradient-16)" xlink:href="#path-17"></use>
+                </g>
+                <circle id="Detail" stroke="#979797" fill="#D8D8D8" cx="392.5" cy="285.5" r="147.5"></circle>
+                <g id="Detail">
+                    <use fill="#4E565C" xlink:href="#path-18"></use>
+                    <use fill="url(#linearGradient-13)" xlink:href="#path-18"></use>
+                </g>
+                <circle id="Detail" stroke="#6F7981" stroke-width="5" cx="392.5" cy="285.5" r="172.5"></circle>
+                <g id="Detail">
+                    <use fill="#6F7981" xlink:href="#path-20"></use>
+                    <use fill="url(#linearGradient-19)" xlink:href="#path-20"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#393E41" xlink:href="#path-21"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-21"></use>
+                </g>
+                <circle id="Detail" fill="#FFFFFF" opacity="0.300000012" cx="339.5" cy="240.5" r="39.5"></circle>
+                <circle id="Detail" fill="#FFFFFF" opacity="0.300000012" cx="404" cy="301" r="20"></circle>
+                <g id="Detail">
+                    <use fill="#6F7981" xlink:href="#path-22"></use>
+                    <use fill="url(#linearGradient-3)" xlink:href="#path-22"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

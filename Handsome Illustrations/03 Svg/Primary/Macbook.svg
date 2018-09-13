@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="809px" height="465px" viewBox="0 0 809 465" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Macbook</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#393E41" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.3" offset="100%"></stop>
+        </linearGradient>
+        <path d="M94,0 L715,0 C724.941125,-1.82615513e-15 733,8.0588745 733,18 L733,439 L76,439 L76,18 C76,8.0588745 84.0588745,1.82615513e-15 94,0 Z" id="path-2"></path>
+        <path d="M0,455 L809,455 C802.597108,461.402892 793.912922,465 784.857864,465 L24.1421356,465 C15.0870783,465 6.40289247,461.402892 0,455 Z" id="path-3"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#4E565C" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <path d="M3,439 L806,439 C807.656854,439 809,440.343146 809,442 L809,455 L0,455 L0,442 C-2.02906125e-16,440.343146 1.34314575,439 3,439 Z" id="path-5"></path>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#000000" stop-opacity="0.3" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-7">
+            <stop stop-color="#151B4A" offset="0%"></stop>
+            <stop stop-color="#464D89" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-8" x="0" y="0" width="627" height="392" rx="3"></rect>
+        <linearGradient x1="65.1620448%" y1="0%" x2="65.1620448%" y2="100%" id="linearGradient-10">
+            <stop stop-color="#A7A7EE" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#464D89" stop-opacity="0.3" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0,110 C37.6624138,110.794278 88.3290805,89.4609446 152,46 C214.94631,2.58646056 279.94631,-10.0802061 347,8 L454,273 L0,273 L0,110 Z" id="path-11"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-13">
+            <stop stop-color="#464D89" offset="0%"></stop>
+            <stop stop-color="#5D66B2" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-14">
+            <stop stop-color="#464D89" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+        <path d="M4.32538727e-12,160.214464 C66.1777191,193.939847 130.518921,184.2935 193.023607,131.275422 C252.506171,80.8207843 359.254472,106.038674 371.424431,86.4943532 C383.594389,66.9500328 262.75439,33.3944254 262.75439,19.9577052 C262.75439,10.9998917 290.83626,4.3473233 347,0 L627,91.2754218 L627,265 L3.63797881e-12,265 L4.32538727e-12,160.214464 Z" id="path-15"></path>
+        <linearGradient x1="62.4776711%" y1="0%" x2="50%" y2="100%" id="linearGradient-17">
+            <stop stop-color="#191E4E" stop-opacity="0.41" offset="0%"></stop>
+            <stop stop-color="#464D89" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="62.4776711%" y1="0%" x2="50%" y2="100%" id="linearGradient-18">
+            <stop stop-color="#181E4E" stop-opacity="0.8" offset="0%"></stop>
+            <stop stop-color="#464D89" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Handsome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Primary" transform="translate(-1226.000000, -3964.000000)">
+            <g id="Macbook" transform="translate(1226.000000, 3964.000000)">
+                <g id="Detail">
+                    <use fill="#393E41" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#393E41" xlink:href="#path-3"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-3"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#4E565C" xlink:href="#path-5"></use>
+                    <use fill="url(#linearGradient-4)" xlink:href="#path-5"></use>
+                </g>
+                <path d="M346,439 L463,439 C463,445.075132 458.075132,450 452,450 L357,450 C350.924868,450 346,445.075132 346,439 Z" id="Sh" fill="url(#linearGradient-6)"></path>
+                <g id="Screen" transform="translate(91.000000, 26.000000)">
+                    <mask id="mask-9" fill="white">
+                        <use xlink:href="#path-8"></use>
+                    </mask>
+                    <use id="Bg" fill="url(#linearGradient-7)" xlink:href="#path-8"></use>
+                    <g id="Stars" mask="url(#mask-9)" fill="#F7F7F8">
+                        <g transform="translate(-42.000000, -29.000000)" id="Star">
+                            <circle cx="132.5" cy="91.5" r="1.5"></circle>
+                            <circle cx="71.5" cy="65.5" r="1.5"></circle>
+                            <circle cx="182.5" cy="111.5" r="1.5"></circle>
+                            <circle cx="121.5" cy="85.5" r="1.5"></circle>
+                            <circle cx="202.5" cy="81.5" r="1.5"></circle>
+                            <circle cx="141.5" cy="55.5" r="1.5"></circle>
+                            <circle cx="242.5" cy="91.5" r="1.5"></circle>
+                            <circle cx="181.5" cy="65.5" r="1.5"></circle>
+                            <circle cx="112.5" cy="141.5" r="1.5"></circle>
+                            <circle cx="51.5" cy="115.5" r="1.5"></circle>
+                            <circle cx="152.5" cy="171.5" r="1.5"></circle>
+                            <circle cx="91.5" cy="145.5" r="1.5"></circle>
+                            <circle cx="192.5" cy="151.5" r="1.5"></circle>
+                            <circle cx="131.5" cy="125.5" r="1.5"></circle>
+                            <circle cx="231.5" cy="75.5" r="1.5"></circle>
+                            <circle cx="262.5" cy="131.5" r="1.5"></circle>
+                            <circle cx="201.5" cy="105.5" r="1.5"></circle>
+                            <circle cx="502.5" cy="131.5" r="1.5"></circle>
+                            <circle cx="441.5" cy="105.5" r="1.5"></circle>
+                            <circle cx="472.5" cy="111.5" r="1.5"></circle>
+                            <circle cx="411.5" cy="85.5" r="1.5"></circle>
+                            <circle cx="562.5" cy="191.5" r="1.5"></circle>
+                            <circle cx="501.5" cy="165.5" r="1.5"></circle>
+                            <circle cx="592.5" cy="101.5" r="1.5"></circle>
+                            <circle cx="531.5" cy="75.5" r="1.5"></circle>
+                            <circle cx="572.5" cy="141.5" r="1.5"></circle>
+                            <circle cx="511.5" cy="115.5" r="1.5"></circle>
+                            <circle cx="402.5" cy="101.5" r="1.5"></circle>
+                            <circle cx="341.5" cy="75.5" r="1.5"></circle>
+                            <circle cx="443.5" cy="61.5" r="1.5"></circle>
+                            <circle cx="341.5" cy="135.5" r="1.5"></circle>
+                            <circle cx="372.5" cy="141.5" r="1.5"></circle>
+                            <circle cx="311.5" cy="115.5" r="1.5"></circle>
+                            <circle cx="462.5" cy="221.5" r="1.5"></circle>
+                            <circle cx="401.5" cy="195.5" r="1.5"></circle>
+                            <circle cx="492.5" cy="131.5" r="1.5"></circle>
+                            <circle cx="431.5" cy="105.5" r="1.5"></circle>
+                            <circle cx="472.5" cy="171.5" r="1.5"></circle>
+                            <circle cx="411.5" cy="145.5" r="1.5"></circle>
+                            <circle cx="302.5" cy="131.5" r="1.5"></circle>
+                            <circle cx="241.5" cy="105.5" r="1.5"></circle>
+                            <circle cx="343.5" cy="91.5" r="1.5"></circle>
+                            <circle cx="101.5" cy="205.5" r="1.5"></circle>
+                            <circle cx="132.5" cy="211.5" r="1.5"></circle>
+                            <circle cx="71.5" cy="185.5" r="1.5"></circle>
+                            <circle cx="222.5" cy="291.5" r="1.5"></circle>
+                            <circle cx="161.5" cy="265.5" r="1.5"></circle>
+                            <circle cx="252.5" cy="201.5" r="1.5"></circle>
+                            <circle cx="191.5" cy="175.5" r="1.5"></circle>
+                            <circle cx="232.5" cy="241.5" r="1.5"></circle>
+                            <circle cx="171.5" cy="215.5" r="1.5"></circle>
+                            <circle cx="62.5" cy="201.5" r="1.5"></circle>
+                            <circle cx="1.5" cy="175.5" r="1.5"></circle>
+                            <circle cx="103.5" cy="161.5" r="1.5"></circle>
+                            <circle cx="551.5" cy="65.5" r="1.5"></circle>
+                            <circle cx="582.5" cy="71.5" r="1.5"></circle>
+                            <circle cx="521.5" cy="45.5" r="1.5"></circle>
+                            <circle cx="672.5" cy="151.5" r="1.5"></circle>
+                            <circle cx="611.5" cy="125.5" r="1.5"></circle>
+                            <circle cx="702.5" cy="61.5" r="1.5"></circle>
+                            <circle cx="641.5" cy="35.5" r="1.5"></circle>
+                            <circle cx="682.5" cy="101.5" r="1.5"></circle>
+                            <circle cx="621.5" cy="75.5" r="1.5"></circle>
+                            <circle cx="512.5" cy="61.5" r="1.5"></circle>
+                            <circle cx="451.5" cy="35.5" r="1.5"></circle>
+                            <circle cx="553.5" cy="21.5" r="1.5"></circle>
+                            <circle cx="611.5" cy="175.5" r="1.5"></circle>
+                            <circle cx="642.5" cy="181.5" r="1.5"></circle>
+                            <circle cx="581.5" cy="155.5" r="1.5"></circle>
+                            <circle cx="732.5" cy="261.5" r="1.5"></circle>
+                            <circle cx="671.5" cy="235.5" r="1.5"></circle>
+                            <circle cx="701.5" cy="145.5" r="1.5"></circle>
+                            <circle cx="742.5" cy="211.5" r="1.5"></circle>
+                            <circle cx="681.5" cy="185.5" r="1.5"></circle>
+                            <circle cx="572.5" cy="171.5" r="1.5"></circle>
+                            <circle cx="511.5" cy="145.5" r="1.5"></circle>
+                            <circle cx="613.5" cy="131.5" r="1.5"></circle>
+                            <circle cx="231.5" cy="45.5" r="1.5"></circle>
+                            <circle cx="262.5" cy="51.5" r="1.5"></circle>
+                            <circle cx="201.5" cy="25.5" r="1.5"></circle>
+                            <circle cx="352.5" cy="131.5" r="1.5"></circle>
+                            <circle cx="291.5" cy="105.5" r="1.5"></circle>
+                            <circle cx="382.5" cy="41.5" r="1.5"></circle>
+                            <circle cx="321.5" cy="15.5" r="1.5"></circle>
+                            <circle cx="362.5" cy="81.5" r="1.5"></circle>
+                            <circle cx="301.5" cy="55.5" r="1.5"></circle>
+                            <circle cx="192.5" cy="41.5" r="1.5"></circle>
+                            <circle cx="131.5" cy="15.5" r="1.5"></circle>
+                            <circle cx="382.5" cy="35.5" r="1.5"></circle>
+                        </g>
+                    </g>
+                    <g id="Menu" mask="url(#mask-9)">
+                        <rect id="Bg" fill="#1C2321" x="0" y="0" width="627" height="20"></rect>
+                        <path d="M33,8 L70,8 C71.1045695,8 72,8.8954305 72,10 C72,11.1045695 71.1045695,12 70,12 L33,12 C31.8954305,12 31,11.1045695 31,10 C31,8.8954305 31.8954305,8 33,8 Z" id="Button" fill="#F7F7F8"></path>
+                        <path d="M84,8 L101,8 C102.104569,8 103,8.8954305 103,10 C103,11.1045695 102.104569,12 101,12 L84,12 C82.8954305,12 82,11.1045695 82,10 C82,8.8954305 82.8954305,8 84,8 Z" id="Button" fill="#F7F7F8"></path>
+                        <path d="M115,8 L132,8 C133.104569,8 134,8.8954305 134,10 C134,11.1045695 133.104569,12 132,12 L115,12 C113.895431,12 113,11.1045695 113,10 C113,8.8954305 113.895431,8 115,8 Z" id="Button" fill="#F7F7F8"></path>
+                        <path d="M146,8 L163,8 C164.104569,8 165,8.8954305 165,10 C165,11.1045695 164.104569,12 163,12 L146,12 C144.895431,12 144,11.1045695 144,10 C144,8.8954305 144.895431,8 146,8 Z" id="Button" fill="#F7F7F8"></path>
+                        <path d="M541,8 L578,8 C579.104569,8 580,8.8954305 580,10 C580,11.1045695 579.104569,12 578,12 L541,12 C539.895431,12 539,11.1045695 539,10 C539,8.8954305 539.895431,8 541,8 Z" id="Button" fill="#F7F7F8"></path>
+                        <path d="M177,8 L194,8 C195.104569,8 196,8.8954305 196,10 C196,11.1045695 195.104569,12 194,12 L177,12 C175.895431,12 175,11.1045695 175,10 C175,8.8954305 175.895431,8 177,8 Z" id="Button" fill="#F7F7F8"></path>
+                        <path d="M208,8 L225,8 C226.104569,8 227,8.8954305 227,10 C227,11.1045695 226.104569,12 225,12 L208,12 C206.895431,12 206,11.1045695 206,10 C206,8.8954305 206.895431,8 208,8 Z" id="Button" fill="#F7F7F8"></path>
+                        <path d="M239,8 L256,8 C257.104569,8 258,8.8954305 258,10 C258,11.1045695 257.104569,12 256,12 L239,12 C237.895431,12 237,11.1045695 237,10 C237,8.8954305 237.895431,8 239,8 Z" id="Button" fill="#F7F7F8"></path>
+                        <circle id="Button" fill="#F7F7F8" cx="18" cy="10" r="3"></circle>
+                        <circle id="Button" fill="#F7F7F8" cx="478" cy="10" r="3"></circle>
+                        <circle id="Button" fill="#F7F7F8" cx="494" cy="10" r="3"></circle>
+                        <circle id="Button" fill="#F7F7F8" cx="510" cy="10" r="3"></circle>
+                        <circle id="Button" fill="#F7F7F8" cx="526" cy="10" r="3"></circle>
+                        <circle id="Button" fill="#F7F7F8" cx="609" cy="10" r="3"></circle>
+                        <circle id="Button" fill="#F7F7F8" cx="593" cy="10" r="3"></circle>
+                    </g>
+                    <g id="Detail" mask="url(#mask-9)">
+                        <g transform="translate(0.000000, 119.000000)">
+                            <mask id="mask-12" fill="white">
+                                <use xlink:href="#path-11"></use>
+                            </mask>
+                            <g id="Detail" stroke="none" fill="none" fill-rule="evenodd">
+                                <use fill="#5B64B0" xlink:href="#path-11"></use>
+                                <use fill="url(#linearGradient-10)" xlink:href="#path-11"></use>
+                            </g>
+                            <path d="M-1.69109171e-12,134.801481 C64.0915941,146.287014 133.59752,120.17757 208.517777,56.4731504 C283.438034,-7.2312695 348.286125,1.14633864 403.06205,81.6059748 L403.06205,197.157681 L-1.69109171e-12,197.157681 L-1.69109171e-12,134.801481 Z" id="Detail" stroke="none" fill="url(#linearGradient-13)" fill-rule="evenodd" mask="url(#mask-12)"></path>
+                        </g>
+                    </g>
+                    <g id="Detail" mask="url(#mask-9)">
+                        <g transform="translate(0.000000, 127.000000)">
+                            <mask id="mask-16" fill="white">
+                                <use xlink:href="#path-15"></use>
+                            </mask>
+                            <g id="Detail" stroke="none" fill="none" fill-rule="evenodd">
+                                <use fill="#464D89" xlink:href="#path-15"></use>
+                                <use fill="url(#linearGradient-14)" xlink:href="#path-15"></use>
+                            </g>
+                            <path d="M364,73 C429.24741,114.894422 516.914077,144.561088 627,162 L627,265 L-5.68434189e-14,265 L-5.68434189e-14,87 C177.419257,36.0169034 298.75259,31.3502367 364,73 Z" id="Detail" stroke="none" fill="url(#linearGradient-17)" fill-rule="evenodd" mask="url(#mask-16)"></path>
+                            <path d="M232.354834,112.573742 C271.611409,176.426427 403.259461,213.568513 627.298991,224 L627.298991,265 L7.24142274e-12,265 L7.24142274e-12,153 C115.646648,62.1964764 193.098259,48.721057 232.354834,112.573742 Z" id="Detail" stroke="none" fill="url(#linearGradient-18)" fill-rule="evenodd" mask="url(#mask-16)"></path>
+                        </g>
+                    </g>
+                </g>
+                <g id="Manu" transform="translate(337.000000, 376.000000)">
+                    <path d="M10,0 L125,0 C130.522847,-1.01453063e-15 135,4.4771525 135,10 L135,42 L0,42 L0,10 C-6.76353751e-16,4.4771525 4.4771525,1.01453063e-15 10,0 Z" id="Bg" fill="#FFFFFF" opacity="0.200000003"></path>
+                    <circle id="Logo" fill="#F2F5F9" cx="114" cy="21" r="11"></circle>
+                    <circle id="Logo" fill="#FF6663" cx="83" cy="21" r="11"></circle>
+                    <circle id="Logo" fill="#7BC1EB" cx="52" cy="21" r="11"></circle>
+                    <circle id="Logo" fill="#FFC62C" cx="21" cy="21" r="11"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="258px" height="753px" viewBox="0 0 258 753" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Guitar</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#7BC1EB" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#305594" stop-opacity="0.3" offset="100%"></stop>
+        </linearGradient>
+        <path d="M-5.68434189e-14,655 C0.0766975188,709.304322 57.5235194,753 128,753 C199.252011,753 256.698833,709.304322 257,655 C259.325781,616.591318 245.992447,582.591318 217,553 C204.283779,540.713353 212.076234,519.03062 219,510 C225.019595,500.892434 232.248319,468.839417 217,455 C213.429554,451.925479 187.229054,490.52941 148,466 C109.373964,440.595579 114.162504,445.573699 107,452 C99.6242066,457.542034 77.6392322,470.798475 44,433 C32.980239,420.482036 15.1738871,469.535959 40,510 C61.4195131,546.262991 31.2800176,558.234154 15,592 C4.28251127,614.510564 -0.717488727,635.510564 -5.68434189e-14,655 Z" id="path-2"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#305594" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <path d="M149,473 C173.911942,484.766532 196.245276,481.099866 216,462 C218.413033,459.387423 226.253081,485.472653 216,504 C204.783879,523.482967 197.885416,542.335165 216,562 C216.544642,562.60563 194.211309,572.272296 149,591 L149,473 Z" id="path-4"></path>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#000000" stop-opacity="0.1" offset="0%"></stop>
+            <stop stop-color="#7BC1EB" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="138.621022%" y2="138.962018%" id="linearGradient-6">
+            <stop stop-color="#000000" stop-opacity="0.1" offset="0%"></stop>
+            <stop stop-color="#7BC1EB" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <path d="M47,119 L52,488 L7,488 L12,119 C12.1878849,112.058504 8.52121819,105.725171 1,100 C-0.616541626,97.2843852 8.96669807,68.4107151 9,48 C8.96669807,27.1698019 6.08074253,16.4003617 6,12 C6.08074253,8.15453676 53.5917357,-4.86424929 56,2 C57.6031996,7.95825242 52.9197188,27.7110517 53,48 C52.9197188,67.8694653 61.4008787,97.7940557 60,100 C52.3823499,105.386887 48.0490166,111.720221 47,119 Z" id="path-7"></path>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-9">
+            <stop stop-color="#000000" stop-opacity="0.2" offset="0%"></stop>
+            <stop stop-color="#D6DFEA" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Handsome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Primary" transform="translate(-632.000000, -10768.000000)">
+            <g id="Guitar" transform="translate(632.000000, 10768.000000)">
+                <g>
+                    <use fill="#7BC1EB" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                </g>
+                <g id="Desiiiign-:)">
+                    <use fill="#305594" xlink:href="#path-4"></use>
+                    <use fill="url(#linearGradient-3)" xlink:href="#path-4"></use>
+                </g>
+                <g id="Details" transform="translate(89.000000, 488.000000)">
+                    <circle id="Detail" fill="#F2F5F9" cx="127.5" cy="99.5" r="2.5"></circle>
+                    <circle id="Detail" fill="#F2F5F9" cx="144.5" cy="127.5" r="2.5"></circle>
+                    <path d="M134.281089,116.140426 C133.098615,115.578694 132.281089,114.373439 132.281089,112.977241 C132.281089,111.581043 133.098615,110.375789 134.281089,109.814057 L134.281089,104.977241 C134.281089,104.148814 134.952662,103.477241 135.781089,103.477241 C136.609516,103.477241 137.281089,104.148814 137.281089,104.977241 L137.281089,109.814057 C138.463563,110.375789 139.281089,111.581043 139.281089,112.977241 C139.281089,114.373439 138.463563,115.578694 137.281089,116.140426 L137.281089,120.977241 C137.281089,121.805668 136.609516,122.477241 135.781089,122.477241 C134.952662,122.477241 134.281089,121.805668 134.281089,120.977241 L134.281089,116.140426 Z" id="Detail" fill="#000000" transform="translate(135.781089, 112.977241) rotate(-30.000000) translate(-135.781089, -112.977241) "></path>
+                    <g id="Detail" transform="translate(0.000000, 157.000000)">
+                        <rect id="Sh" fill="url(#linearGradient-5)" x="4" y="4" width="78" height="14" rx="7"></rect>
+                        <rect fill="#F2F5F9" x="0" y="0" width="78" height="14" rx="7"></rect>
+                    </g>
+                    <g id="Detail" transform="translate(117.000000, 162.000000)">
+                        <circle id="Sh" fill="url(#linearGradient-6)" cx="10.5" cy="10.5" r="7.5"></circle>
+                        <circle fill="#F2F5F9" cx="7.5" cy="7.5" r="7.5"></circle>
+                    </g>
+                    <g id="Detail" transform="translate(87.000000, 109.000000)">
+                        <circle id="Sh" fill="url(#linearGradient-6)" cx="10.5" cy="10.5" r="7.5"></circle>
+                        <circle fill="#F2F5F9" cx="7.5" cy="7.5" r="7.5"></circle>
+                    </g>
+                    <g id="Detail" transform="translate(4.000000, 77.000000)">
+                        <rect fill="url(#linearGradient-5)" x="4" y="4" width="70" height="35" rx="3"></rect>
+                        <rect fill="#000000" x="0" y="0" width="70" height="35" rx="3"></rect>
+                        <rect fill="#D6DFEA" x="8" y="4" width="54" height="27" rx="3"></rect>
+                    </g>
+                    <g id="Detail" transform="translate(4.000000, 0.000000)">
+                        <rect id="Sh" fill="url(#linearGradient-5)" x="4" y="4" width="70" height="35" rx="3"></rect>
+                        <rect fill="#000000" x="0" y="0" width="70" height="35" rx="3"></rect>
+                        <rect fill="#D6DFEA" x="8" y="4" width="54" height="27" rx="3"></rect>
+                    </g>
+                </g>
+                <g id="Details" transform="translate(85.000000, 25.000000)" fill="#D6DFEA">
+                    <path d="M76,1.07692308 L81,8.8817842e-16 C81.7607427,-0.162437545 82.7911977,0.613596923 83,2.15384615 C82.9939322,1.96922123 82.9939322,5.19999046 83,11.8461538 C83,13.0559133 82.1045695,14 81,14 C80.9265589,14 79.2598922,13.6410256 76,12.9230769 C74.1592778,12.827014 72.6814648,11.7023115 72,9.69230769 L64,9.69230769 L64,4.30769231 L72,4.30769231 C72.6814648,2.29801756 74.1592778,1.17331506 76,1.07692308 Z" id="Detail"></path>
+                    <path d="M12,1 C13.8407222,1.19271009 15.3185352,2.31571194 16,4 L24,4 L24,10 L16,10 C15.3185352,11.7057858 13.8407222,12.8287876 12,13 C8.74010781,13.6415684 7.07344115,14 7,14 C5.8954305,14 5,13.0573409 5,12 C5.00606778,5.21329682 5.00606778,1.98741278 5,2 C5.20880226,0.633838293 6.23925733,-0.141022746 7,-5.32907052e-15 L12,1 Z" id="Detail"></path>
+                    <path d="M12,27 C13.8407222,27.1927101 15.3185352,28.3157119 16,30 L24,30 L24,36 L16,36 C15.3185352,37.7057858 13.8407222,38.8287876 12,39 C8.74010781,39.6415684 7.07344115,40 7,40 C5.8954305,40 5,39.0573409 5,38 C5.00606778,31.2132968 5.00606778,27.9874128 5,28 C5.20880226,26.6338383 6.23925733,25.8589773 7,26 L12,27 Z" id="Detail"></path>
+                    <path d="M7,54 C8.84072223,54.1927101 10.3185352,55.3157119 11,57 L19,57 L19,63 L11,63 C10.3185352,64.7057858 8.84072223,65.8287876 7,66 C3.74010781,66.6415684 2.07344115,67 2,67 C0.8954305,67 0,66.0573409 0,65 C0.00606778471,58.2132968 0.00606778471,54.9874128 0,55 C0.208802259,53.6338383 1.23925733,52.8589773 2,53 L7,54 Z" id="Detail"></path>
+                    <path d="M76,27.0769231 L81,26 C81.7607427,25.8375625 82.7911977,26.6135969 83,28.1538462 C82.9939322,27.9692212 82.9939322,31.1999905 83,37.8461538 C83,39.0559133 82.1045695,40 81,40 C80.9265589,40 79.2598922,39.6410256 76,38.9230769 C74.1592778,38.827014 72.6814648,37.7023115 72,35.6923077 L64,35.6923077 L64,30.3076923 L72,30.3076923 C72.6814648,28.2980176 74.1592778,27.1733151 76,27.0769231 Z" id="Detail"></path>
+                    <path d="M80,54.0769231 L85,53 C85.7607427,52.8375625 86.7911977,53.6135969 87,55.1538462 C86.9939322,54.9692212 86.9939322,58.1999905 87,64.8461538 C87,66.0559133 86.1045695,67 85,67 C84.9265589,67 83.2598922,66.6410256 80,65.9230769 C78.1592778,65.827014 76.6814648,64.7023115 76,62.6923077 L68,62.6923077 L68,57.3076923 L76,57.3076923 C76.6814648,55.2980176 78.1592778,54.1733151 80,54.0769231 Z" id="Detail"></path>
+                </g>
+                <g id="Griffin" transform="translate(98.000000, 0.000000)">
+                    <mask id="mask-8" fill="white">
+                        <use xlink:href="#path-7"></use>
+                    </mask>
+                    <use fill="#000000" xlink:href="#path-7"></use>
+                    <g id="Frets" mask="url(#mask-8)" fill="#6F7981">
+                        <g transform="translate(7.000000, 117.000000)" id="Fret">
+                            <rect x="0" y="353" width="45" height="2"></rect>
+                            <rect x="0" y="346" width="45" height="2"></rect>
+                            <rect x="0" y="337" width="45" height="2"></rect>
+                            <rect x="0" y="328" width="45" height="2"></rect>
+                            <rect x="0" y="318" width="45" height="2"></rect>
+                            <rect x="0" y="308" width="45" height="2"></rect>
+                            <rect x="0" y="297" width="45" height="2"></rect>
+                            <rect x="0" y="285" width="45" height="2"></rect>
+                            <rect x="0" y="273" width="45" height="2"></rect>
+                            <rect x="0" y="260" width="45" height="2"></rect>
+                            <rect x="0" y="246" width="45" height="2"></rect>
+                            <rect x="0" y="231" width="45" height="2"></rect>
+                            <rect x="0" y="216" width="45" height="2"></rect>
+                            <rect x="0" y="200" width="45" height="2"></rect>
+                            <rect x="0" y="182" width="45" height="2"></rect>
+                            <rect x="0" y="164" width="45" height="2"></rect>
+                            <rect x="0" y="144" width="45" height="2"></rect>
+                            <rect x="0" y="123" width="45" height="2"></rect>
+                            <rect x="0" y="101" width="45" height="2"></rect>
+                            <rect x="0" y="78" width="45" height="2"></rect>
+                            <rect x="0" y="54" width="45" height="2"></rect>
+                            <rect x="0" y="27" width="45" height="2"></rect>
+                            <rect x="0" y="0" width="45" height="4"></rect>
+                        </g>
+                    </g>
+                </g>
+                <g id="Strings" transform="translate(112.000000, 35.000000)" fill="#F2F5F9">
+                    <path d="M0.5,54 C0.776142375,54 1,54.2238576 1,54.5 L1,610 L0,610 L0,54.5 C0,54.2238576 0.223857625,54 0.5,54 Z" id="String"></path>
+                    <path d="M6.5,27 C6.77614237,27 7,27.2238576 7,27.5 L7,610 L6,610 L6,27.5 C6,27.2238576 6.22385763,27 6.5,27 Z" id="String"></path>
+                    <path d="M7.47341506,0 C7.75559451,0 7.98891807,0.218790678 8.00568479,0.499116576 L13,84 L13,610 L11.9951664,610 L11.9951664,84 L7.00085117,0.499116576 C6.98531606,0.239382205 7.18429642,0.0162927822 7.44528625,0.000832403002 C7.45465216,0.000277590282 7.46403257,0 7.47341506,0 Z" id="String"></path>
+                    <path d="M26.5430538,0 C26.7954182,0 27,0.203550787 27,0.454643407 C27,0.469035833 26.9993131,0.483420142 26.9979417,0.497747736 L19.0050651,84 L19.0050651,610 L18,610 L18,84 L25.9928765,0.497747736 C26.0198906,0.215528931 26.258122,0 26.5430538,0 Z" id="String"></path>
+                    <path d="M27.5225653,27 C27.7862452,27 28,27.2123855 28,27.4743763 C28,27.4826914 27.99978,27.4910052 27.9993401,27.4993089 L25.0064472,84 L25.0064472,610 L24,610 L24,84 L26.9928929,27.4993089 C27.0077198,27.219402 27.2404639,27 27.5225653,27 Z" id="String"></path>
+                    <path d="M30.5,53 C30.7761424,53 31,53.2238576 31,53.5 L31,610 L30,610 L30,53.5 C30,53.2238576 30.2238576,53 30.5,53 Z" id="String"></path>
+                </g>
+                <g id="Details" transform="translate(104.000000, 26.000000)">
+                    <g id="Detail" transform="translate(33.000000, 0.000000)">
+                        <circle id="Oval-4-Copy-12" fill="#DDE8FA" cx="6" cy="6" r="6"></circle>
+                        <circle id="Sh" fill="url(#linearGradient-9)" cx="6" cy="6" r="4"></circle>
+                    </g>
+                    <g id="Detail" transform="translate(33.000000, 26.000000)">
+                        <circle fill="#DDE8FA" cx="6" cy="6" r="6"></circle>
+                        <circle id="Sh" fill="url(#linearGradient-9)" cx="6" cy="6" r="4"></circle>
+                    </g>
+                    <g id="Detail" transform="translate(37.000000, 53.000000)">
+                        <circle fill="#DDE8FA" cx="6" cy="6" r="6"></circle>
+                        <circle id="Sh" fill="url(#linearGradient-9)" cx="6" cy="6" r="4"></circle>
+                    </g>
+                    <g id="Detail" transform="translate(0.000000, 53.000000)">
+                        <circle fill="#DDE8FA" cx="6" cy="6" r="6"></circle>
+                        <circle id="Sh" fill="url(#linearGradient-9)" cx="6" cy="6" r="4"></circle>
+                    </g>
+                    <g id="Detail" transform="translate(5.000000, 26.000000)">
+                        <circle fill="#DDE8FA" cx="6" cy="6" r="6"></circle>
+                        <circle id="Sh" fill="url(#linearGradient-9)" cx="6" cy="6" r="4"></circle>
+                    </g>
+                    <g id="Detail" transform="translate(5.000000, 0.000000)">
+                        <circle fill="#DDE8FA" cx="6" cy="6" r="6"></circle>
+                        <circle id="Sh" fill="url(#linearGradient-9)" cx="6" cy="6" r="4"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

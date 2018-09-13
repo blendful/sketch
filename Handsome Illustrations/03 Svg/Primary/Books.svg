@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="591px" height="345px" viewBox="0 0 591 345" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Books</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F7F7F8" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.05" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="295" y="28" width="224" height="59"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#757DC0" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#5B64B0" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+        <path d="M527,28 L326.5,28 C310.2076,28 297,41.2075999 297,57.5 C297,73.7924001 310.2076,87 326.5,87 L527,87 C534.731986,87 541,93.2680135 541,101 L541,101 C541,108.731986 534.731986,115 527,115 L57.5,115 C25.7436269,115 0,89.2563731 0,57.5 C0,25.7436269 25.7436269,0 57.5,0 L527,0 C534.731986,-1.42034288e-15 541,6.2680135 541,14 L541,14 C541,21.7319865 534.731986,28 527,28 Z" id="path-4"></path>
+        <rect id="path-5" x="295" y="28" width="224" height="59"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-6">
+            <stop stop-color="#E8799D" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#D4527D" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+        <path d="M527,28 L326.5,28 C310.2076,28 297,41.2075999 297,57.5 C297,73.7924001 310.2076,87 326.5,87 L527,87 C534.731986,87 541,93.2680135 541,101 C541,108.731986 534.731986,115 527,115 L57.5,115 C25.7436269,115 0,89.2563731 0,57.5 C0,25.7436269 25.7436269,0 57.5,0 L527,0 C534.731986,-1.42034288e-15 541,6.2680135 541,14 C541,21.7319865 534.731986,28 527,28 Z" id="path-7"></path>
+        <rect id="path-8" x="295" y="28" width="224" height="59"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-9">
+            <stop stop-color="#8964A8" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <path d="M527,28 L326.5,28 C310.2076,28 297,41.2075999 297,57.5 C297,73.7924001 310.2076,87 326.5,87 L527,87 C534.731986,87 541,93.2680135 541,101 L541,101 C541,108.731986 534.731986,115 527,115 L57.5,115 C25.7436269,115 0,89.2563731 0,57.5 C0,25.7436269 25.7436269,0 57.5,0 L527,0 C534.731986,-1.42034288e-15 541,6.2680135 541,14 L541,14 C541,21.7319865 534.731986,28 527,28 Z" id="path-10"></path>
+        <linearGradient x1="100%" y1="0%" x2="0%" y2="100%" id="linearGradient-11">
+            <stop stop-color="#000000" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#8964A8" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-12" points="394 68 435 68 435 134 414.5 114 394 134"></polygon>
+    </defs>
+    <g id="Handsome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Primary" transform="translate(-2205.000000, -9814.000000)">
+            <g id="Books" transform="translate(2205.000000, 9814.000000)">
+                <g id="Book" transform="translate(0.000000, 115.000000)">
+                    <g id="Detail">
+                        <use fill="#F7F7F8" xlink:href="#path-2"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                    </g>
+                    <rect id="Detail" fill="#D6DFEA" x="295" y="28" width="20" height="59"></rect>
+                    <g id="Detail">
+                        <use fill="#757DC0" xlink:href="#path-4"></use>
+                        <use fill="url(#linearGradient-3)" xlink:href="#path-4"></use>
+                    </g>
+                    <path d="M173.5,115 L115.012545,115 C92.3619418,115 74,89.2563731 74,57.5 C74,25.7436269 92.3619418,0 115.012545,0 L173.5,0 C150.849397,0 132.487455,25.7436269 132.487455,57.5 C132.487455,89.2563731 150.849397,115 173.5,115 Z" id="Detail" fill="#5B64B0"></path>
+                    <ellipse id="Detail" fill="#5B64B0" cx="227.5" cy="57.5" rx="37.5" ry="32.5"></ellipse>
+                    <path d="M485,39 L518,39 L518,49 L485,49 C482.238576,49 480,46.7614237 480,44 L480,44 C480,41.2385763 482.238576,39 485,39 Z" id="Detail" fill="#5B64B0"></path>
+                    <rect id="Detail" fill="#5B64B0" x="400" y="59" width="98" height="10" rx="5"></rect>
+                </g>
+                <g id="Book" transform="translate(50.000000, 230.000000)">
+                    <g id="Detail">
+                        <use fill="#F7F7F8" xlink:href="#path-5"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-5"></use>
+                    </g>
+                    <rect id="Detail" fill="#D6DFEA" x="295" y="28" width="20" height="59"></rect>
+                    <g id="Detail">
+                        <use fill="#E8799D" xlink:href="#path-7"></use>
+                        <use fill="url(#linearGradient-6)" xlink:href="#path-7"></use>
+                    </g>
+                    <path d="M173.5,115 L115.012545,115 C92.3619418,115 74,89.2563731 74,57.5 C74,25.7436269 92.3619418,0 115.012545,0 L173.5,0 C150.849397,0 132.487455,25.7436269 132.487455,57.5 C132.487455,89.2563731 150.849397,115 173.5,115 Z" id="Detail" fill="#D4527D"></path>
+                    <ellipse id="Detail" fill="#D4527D" cx="227.5" cy="57.5" rx="37.5" ry="32.5"></ellipse>
+                    <path d="M495,69 L518,69 L518,79 L495,79 C492.238576,79 490,76.7614237 490,74 C490,71.2385763 492.238576,69 495,69 Z" id="Detail" fill="#D4527D"></path>
+                    <path d="M365,52 L443,52 C445.761424,52 448,54.2385763 448,57 C448,59.7614237 445.761424,62 443,62 L365,62 C362.238576,62 360,59.7614237 360,57 C360,54.2385763 362.238576,52 365,52 Z" id="Detail" fill="#D4527D"></path>
+                </g>
+                <g id="Book" transform="translate(50.000000, 0.000000)">
+                    <g id="Detail">
+                        <use fill="#F7F7F8" xlink:href="#path-8"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-8"></use>
+                    </g>
+                    <rect id="Detail" fill="#D6DFEA" x="295" y="28" width="20" height="59"></rect>
+                    <g id="Detail">
+                        <use fill="#8964A8" xlink:href="#path-10"></use>
+                        <use fill="url(#linearGradient-9)" xlink:href="#path-10"></use>
+                    </g>
+                    <path d="M173.5,115 L115.012545,115 C92.3619418,115 74,89.2563731 74,57.5 C74,25.7436269 92.3619418,0 115.012545,0 L173.5,0 C150.849397,0 132.487455,25.7436269 132.487455,57.5 C132.487455,89.2563731 150.849397,115 173.5,115 Z" id="Detail" fill="#6F4B8D"></path>
+                    <ellipse id="Detail" fill="#6F4B8D" cx="227.5" cy="57.5" rx="37.5" ry="32.5"></ellipse>
+                    <path d="M495,49 L518,49 L518,59 L495,59 C492.238576,59 490,56.7614237 490,54 C490,51.2385763 492.238576,49 495,49 Z" id="Detail" fill="#6F4B8D"></path>
+                    <path d="M335,59 L473,59 C475.761424,59 478,61.2385763 478,64 C478,66.7614237 475.761424,69 473,69 L335,69 C332.238576,69 330,66.7614237 330,64 C330,61.2385763 332.238576,59 335,59 Z" id="Detail" fill="#6F4B8D"></path>
+                </g>
+                <polygon id="Detail" fill="url(#linearGradient-11)" points="384 69 425 69 425 144 404.5 124 384 144"></polygon>
+                <g id="Detail">
+                    <use fill="#6F4B8D" xlink:href="#path-12"></use>
+                    <use fill="url(#linearGradient-9)" xlink:href="#path-12"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

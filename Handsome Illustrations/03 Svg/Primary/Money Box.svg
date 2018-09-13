@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="746px" height="768px" viewBox="0 0 746 768" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <title>Money Box</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#AF3B6E" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+        <path d="M569,141 C592.019751,115.593741 724.064658,163.326125 741,201 C757.34142,239.473269 679.825964,348.256544 629,325 C579.127916,301.129914 546.689696,166.919282 569,141 Z" id="path-2"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#E478A3" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#AF3B6E" stop-opacity="0.3" offset="100%"></stop>
+        </linearGradient>
+        <path d="M533,534 L681,534 L681,674 C681,714.869071 647.869071,748 607,748 L607,748 C566.130929,748 533,714.869071 533,674 L533,534 Z" id="path-4"></path>
+        <linearGradient x1="100%" y1="100%" x2="0%" y2="59.1127817%" id="linearGradient-5">
+            <stop stop-color="#AF3B6E" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <path d="M15.8717535,296.530327 C20.3674637,289.572041 29.652762,287.575729 36.6110477,292.071439 C43.5693334,296.567149 45.5656454,305.852448 41.0699352,312.810733 C28.579411,332.143082 27.9122678,354.206864 37.5159533,373.029442 C46.4304455,390.501248 62.5985875,401.6421 78.7709861,401.6421 C87.0552574,401.6421 93.7709861,408.357829 93.7709861,416.6421 C93.7709861,424.926371 87.0552574,431.6421 78.7709861,431.6421 C50.6471216,431.6421 24.5762873,413.677679 10.7932864,386.663923 C-3.56943809,358.513948 -2.55773198,325.054769 15.8717535,296.530327 Z" id="path-6"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-7">
+            <stop stop-color="#FFC62C" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FF6663" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-8" cx="120" cy="120" r="120"></circle>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-9">
+            <stop stop-color="#FEEC80" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFC62B" stop-opacity="0.6" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-10" cx="120" cy="120" r="95.6345178"></circle>
+        <path d="M249,662.103106 L249,674 C249,714.869071 215.869071,748 175,748 C134.130929,748 101,714.869071 101,674 L101,560.147586 C75.4687959,524.738771 61,482.671008 61,435 C61,279.807985 214.342473,154 403.5,154 C592.657527,154 746,279.807985 746,435 C746,558.775182 648.458177,644.775921 513,674.523164 L513,694 C513,734.869071 479.869071,768 439,768 C398.130929,768 365,734.869071 365,694 L365,684.651022 C323.663055,681.722481 284.549795,674.068101 248.999968,662.103095 L249,662.103106 Z" id="path-11"></path>
+        <path d="M285,141 C308.019751,115.593741 440.064658,163.326125 457,201 C473.34142,239.473269 395.825964,348.256544 345,325 C295.127916,301.129914 262.689696,166.919282 285,141 Z" id="path-12"></path>
+        <rect id="path-13" x="533" y="395" width="176" height="133" rx="66.5"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-14">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.05" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-15" cx="597" cy="462" r="13"></circle>
+        <circle id="path-16" cx="663" cy="462" r="13"></circle>
+    </defs>
+    <g id="Handsome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Primary" transform="translate(-3867.000000, -8445.000000)">
+            <g id="Money-Box" transform="translate(3867.000000, 8445.000000)">
+                <g id="Rectangle-118-Copy" transform="translate(652.500000, 231.000000) scale(-1, 1) translate(-652.500000, -231.000000) ">
+                    <use fill="#AF3B6E" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                </g>
+                <g id="Rectangle-Copy-2">
+                    <use fill="#E478A3" xlink:href="#path-4"></use>
+                    <use fill="url(#linearGradient-3)" xlink:href="#path-4"></use>
+                </g>
+                <path d="M681,629.326792 C645.41867,664.64783 597.130576,691.180354 540.96289,707.428332 C535.870115,697.387542 533,686.028946 533,674 L533,534 L681,534 L681,629.326792 Z" id="Combined-Shape" fill="url(#linearGradient-5)"></path>
+                <g id="Path-93" fill-rule="nonzero">
+                    <use fill="#AF3B6E" xlink:href="#path-6"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-6"></use>
+                </g>
+                <g id="Group-2" transform="translate(225.000000, 0.000000)">
+                    <g id="Oval-31">
+                        <use fill="#FFC62C" xlink:href="#path-8"></use>
+                        <use fill="url(#linearGradient-7)" xlink:href="#path-8"></use>
+                    </g>
+                    <g id="Oval-31-Copy">
+                        <use fill="#FEEC80" xlink:href="#path-10"></use>
+                        <use fill="url(#linearGradient-9)" xlink:href="#path-10"></use>
+                    </g>
+                </g>
+                <g id="Detail">
+                    <use fill="#E478A3" xlink:href="#path-11"></use>
+                    <use fill="url(#linearGradient-3)" xlink:href="#path-11"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#AF3B6E" xlink:href="#path-12"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-12"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#AF3B6E" xlink:href="#path-13"></use>
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-13"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#FFFFFF" xlink:href="#path-15"></use>
+                    <use fill="url(#linearGradient-14)" xlink:href="#path-15"></use>
+                </g>
+                <g id="Detail">
+                    <use fill="#FFFFFF" xlink:href="#path-16"></use>
+                    <use fill="url(#linearGradient-14)" xlink:href="#path-16"></use>
+                </g>
+                <circle id="Detail" fill="#393E41" cx="523" cy="319" r="17"></circle>
+                <circle id="Detail" fill="#393E41" cx="659" cy="319" r="17"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
